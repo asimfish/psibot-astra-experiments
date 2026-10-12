@@ -1,0 +1,2840 @@
+{
+  "schema": "safelab.astra.report53_public_media_map.v1",
+  "source_frontier_sha256": "05955fcc78bcb179fc3b0f14d5cac8a7cbb93b3e7abe221db30e5b32f912794a",
+  "asset_count": 404,
+  "reused_existing": 350,
+  "increment_count": 54,
+  "increment_bytes": 90349428,
+  "original_bytes": 619993436,
+  "media_reencoded": 0,
+  "assets": [
+    {
+      "sha256": "aa990d9450cdb4d36339a333befcf4812b7bf5bf9502101c5634d278cccc5029",
+      "bytes": 297761,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_C/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "47f645bf84213d4a2a61284d2687feac6002d56f825d77524f01c32376581cfc",
+      "bytes": 221927,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_C/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "47826e3b91b3d68082a306b135cbbf82ff277eece2f7e8891f2498d5518d049e",
+      "bytes": 213426,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_C/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "6a42beb775e9156c4806f751f5e5b929d10281c1992e5d933a4152f4910d8063",
+      "bytes": 253142,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_C/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "a951a1226e624421c2b104294acdf5cfeb0c627a6e29ee2e62d641256b09c321",
+      "bytes": 3128724,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_C/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "136d0b9cf60b1ed42889c6cde086fddc7242abbbd0a1bf44a2d8bd34bd49a2b6",
+      "bytes": 2529283,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_C/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "28b0a2b3b86f8641bcb1fdeb98e20026a37a9f2e6be9f4fc2404275c2376281c",
+      "bytes": 3378116,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_C/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "4cf3cbf798e09e491571ad481c1c40188122bb3cab537a5eb54a132ba37fd81f",
+      "bytes": 4647125,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_C/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "88c95145ac335033406ff518db67b9a81d13a61fb8a7a46043e091c9f9bb8913",
+      "bytes": 297478,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_F/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "fa43fbbeccf14596c3c63e8a2dd9f99c7585b8138567286da194e1cd9e626bd9",
+      "bytes": 221635,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_F/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "57176b552c0c7b8729ee9be58e81a6f6987d70225c8eb2c74d81874049f54637",
+      "bytes": 213496,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_F/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "1d396a5e1c58e3028dff27b33e191f811d4158ba52d92271065464b1c16a60f0",
+      "bytes": 253397,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_F/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "85e1df167526bcb163ece3636198dedfef939f6e5e68750b131a490d55d62b0f",
+      "bytes": 3343533,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_F/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "a75e3dcba14c71483dece9dd7a9999d1887dfeeddf3c5c178fdf7683bc6ebeb8",
+      "bytes": 2679007,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_F/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "330179396afb06a0fdf796344542bb47c2cff38c87ef5efc64503e1ce0c75c7d",
+      "bytes": 3578964,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_F/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "2a2a1dce0b776ff0ff46631784c2af4fa9cd33d87010100fad32ffac02fa195e",
+      "bytes": 4909179,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_F/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "af3975f5099b629d6065d75f193bcc9aa30c139f747549460b363cb93d9d0e79",
+      "bytes": 297854,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_H/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "207949e69895566767fa7bf919736d54592bb812cd61697dc9d95b2d849f532f",
+      "bytes": 221664,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_H/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "e529f71f2595a568ae0dee0a77ae793bd51de70b979a72ed5df31be1b1c03f0d",
+      "bytes": 213186,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_H/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "5e295cce4de84c018af6ba7d23900c79c34e58ead78f3bce84b9001852c309bf",
+      "bytes": 253582,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_H/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "c70b7f24dcaf179ed7de32a2b6fb2cd718cc8787d08688a43383d3eeebeab6da",
+      "bytes": 3177637,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_H/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "ce67da3ea42dc7167ba204bd8946c78516acb108a986a0c2de96bfe525694ee2",
+      "bytes": 2564629,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_H/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d4cc550245cffcc6845d4eef6a9b4dbb2ab8025755cb89357f4554e8079fa668",
+      "bytes": 3396166,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_H/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "fb9827f92524ea447ab69e4e45de0e37a2442b08fae0fcb2dd36c5f74d76a3c2",
+      "bytes": 4807550,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_H/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "c8d57247a272dde14bd003576d4bc4a7cd8a47405e4f962d2e8c8cfda16f81af",
+      "bytes": 297568,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_J/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "66552a600c8f8e44402b49aa1eb1c6cd51f638e22441db264f464bad3ed11dec",
+      "bytes": 221767,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_J/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "93ed49fa9ae63e3a716709a591b09d8ca2c2ffe3f6a8337de13d8beee6eb59b4",
+      "bytes": 213341,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_J/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "ab3db51270ca7d6052995ce41a9d491ab5dab26c38f79edb5051d7e6c945faee",
+      "bytes": 253543,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_J/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "61152c7d1d6e75ebc3f2cc7f77d90490df554f93ce22fa27032f832d5ab0db3f",
+      "bytes": 749664,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_J/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "f938d6324804fc93f2716c6a44693e478352dbe79c81392bf0c76c44d617a1e8",
+      "bytes": 669500,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_J/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d3a17dc7c7ef13adf48fd8ab12c1b5c9575c0658ceaa73093116a291e8cc932f",
+      "bytes": 916590,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_J/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "57368898204a0ab14533799002878ad214b185571c0bbee80796b884c53cddce",
+      "bytes": 1326267,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_J/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "fdfae26a01af92f9a86325c50c94fc7b17e8b34b94961717efdc5a70f0093ab5",
+      "bytes": 297373,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_K/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "6e867de93f65aa59e58a612876e08a328d040d0175e52a430f49821ad73502e0",
+      "bytes": 221853,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_K/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "ac6537e928144acbafcd22d51b66e0bf2c61ee7b7e99413df60d8e9700bcf6a4",
+      "bytes": 213553,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_K/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "b33318678b3a0e35f5dd1ede481c7650566247ce8df20ef69225c2f3fca7bbf1",
+      "bytes": 253076,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_K/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "397ba1284fc1aff8df3bf0f94c17ebab397bd35f22fd6947640bd1f5ce916f02",
+      "bytes": 4152673,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_K/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d3b4517340c562f0b1c3077915ea75d49a070b2724de5ffc2fede57dcc1bb0fe",
+      "bytes": 3416332,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_K/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "7a09f0e24e10c933c0514472a4addb96e009c940d0e1215bfae7e3ff7480ca67",
+      "bytes": 4538798,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_K/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "0b508d8d3c5065274bbaf136073c8798763718bb45731cfc0f36b0a4999bddee",
+      "bytes": 6140376,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_K/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "616d16f3e5a6bb629ca93aacd6c28de0ac4b8f328376a978361ac198cf5734ab",
+      "bytes": 297656,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_M/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d96c98fd926f64ded5fae2fa9ac76797f40bea1b864f3ab09c2944cd0870269d",
+      "bytes": 221414,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_M/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "9662054843ec760e27a48977645e949560ab707692a52b4b02cd4ea4e58a86a1",
+      "bytes": 213243,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_M/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "6dd3cc20b6fb77c76d8dd9e182a15dc0388651c62cd563f9100eaefa5d34f928",
+      "bytes": 253083,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_M/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "ff73c5cef8c946d8de2b98e41ba01af664ab43042258d8f455fe8a9ce76e6061",
+      "bytes": 782454,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_M/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d33093bea69bed539981dda364da4cf8ddd2d2c1ae2fa18ec80513f1969aa8c4",
+      "bytes": 697857,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_M/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "4e46def17a03602b4391f5f9f6599ad4aa326edb1d5a2bd32d200b8634081d93",
+      "bytes": 944421,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_M/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "c7df4fa70c57ff98d4966d380677f1f8d1d228328d9c6be7c1ea50d05631386a",
+      "bytes": 1402251,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_M/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "1a2907a5f3d49a03bd438a0fafba16bba251fa6ba5661706be08843313cdc76d",
+      "bytes": 297640,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_S/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d867613e11782c0eb3a2cc7d9397b86a361be0f63dd2335b3c756828ffb26c69",
+      "bytes": 221659,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_S/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "656269902d1c5bfb9c55ddcc8cc3f2ef8a6eb61ab4cb51c33eaefad951c41ab2",
+      "bytes": 213339,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_S/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "878d4b6908b589278c37547282b2ff610924c7d7bab12aff9bbf1623995dde8e",
+      "bytes": 253370,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_S/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "c39ca4ef4e438ec63412de731efdea7f4c7dd333e76c0ee2a7182df0d91d7bed",
+      "bytes": 3477437,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_S/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "75b439e75761ac712bd7128afeddcbf949f9cb635161c6d3ca93798f57d050ed",
+      "bytes": 2823760,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_S/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d7bdabddcacf516be7ca215db2f503a7b836ae708e4cd95a5c7c22aa922265ac",
+      "bytes": 3725782,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_S/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d53d6a92999b00e68490e49bc8d3c14680fdcf3c29b90ca13a258fb7e7f47bfe",
+      "bytes": 5126813,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_S/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "1d102d40c4a2c018cce97eacca268b9402f621fb834ccd347e23ac8d770b403e",
+      "bytes": 297690,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_chest/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "b45b20816183bae40c826718f18802c472f0ee1a1a34a160f9dba5e3a74aec95",
+      "bytes": 213217,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_chest/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "b64fdb72de77e39e2941b884e925981b45b26eea686a8ebcdaf7ad663c2341a2",
+      "bytes": 252957,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_chest/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "c40a84ed8947120788a1a7c9d6bc194a1a884dff8c45ab1bcec467edeca87979",
+      "bytes": 3900522,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_chest/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "62b094574a5031ae1a6a023120878cfff4339b0a7ffdce233ff0745a3863fa55",
+      "bytes": 3156148,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_chest/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "e0d91c120ee9c048a60680a5fa967bf246a1bec76746e07d3f4bcb6cf93ff5bf",
+      "bytes": 4170563,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_chest/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "0242fc8aa775fc541dc39949197e23df84e1b0372076fa569d90dc6c85a620f4",
+      "bytes": 5648923,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_chest/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "7a82939f11970c2916a5fcb54ce3004e9b5d33f390814a71ea9c2cc2f51b2703",
+      "bytes": 221477,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_head/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "bf3159fb54da3ff7b82fa65d5ed25e87ddefc933639cfc2c35ac514c0d8254ad",
+      "bytes": 213632,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_head/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "ac6fff38842af934add2fa32ead9a101b24ad0315a6076c30ee9d73cba0a23a1",
+      "bytes": 253551,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_head/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "bda883944a306cfdc1f414f0f8f74234f4370b4b6c4ee6ccc6d87d44729b3dc1",
+      "bytes": 3129417,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_head/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "21b3306eb234afc7d622eea9dbe26af5381e934b1b7f0311ab8dd2401965e3c7",
+      "bytes": 2519173,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_head/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "4e404eb65261fd7b2f93c6714562bdd5ea5dd119b3c04c2acb184787a9d99b2d",
+      "bytes": 3349786,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_head/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "622e2077d435bbb0efa92af18ca026a0a8dea666b91c726c35a29b8a378d46ca",
+      "bytes": 4563569,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_head/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "52756eda2ce364cddc89ac233b6b376a1c839dee4a0f7a9e4e7c3604b9e377da",
+      "bytes": 297450,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_third/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "32920c2a3e0103a03bb3967b6b0418ce2cfcf8cea4dfe6908016d420259b64a3",
+      "bytes": 221422,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_third/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "3ac4b65683bfe4eb954ed774abc503c75af2d0aa914655ed9e79f1fa4421ebab",
+      "bytes": 253260,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_third/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "95b51329eeb910514e3da164fda1d6b585f01e0c5f4298ea1407ab7e176c5e65",
+      "bytes": 3289258,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_third/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "4b7dfb939ad9bc5626df3525418011ea0499ee5dca7cbd0b01a37cc063669159",
+      "bytes": 2676863,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_third/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "c50c2c448045c859f3bb199ec17d8e724b6c927c83776fddabd4826a6cc8ce74",
+      "bytes": 3567830,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_third/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "47e6c8d92c9ba4b27b3a855aaa982d0b6e029f28ab65b6ff5008faefaf2e0bf6",
+      "bytes": 4945886,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_third/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d6deba07fe4a0d6235716df2abe1a0c5749dd9a45e9be46ed04552b4e09d126f",
+      "bytes": 297438,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_wrist/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "801ab482d4e96d7fa3860f42d7e1fb6a850f844ed4a7d708dab14ac9f05a3725",
+      "bytes": 221459,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_wrist/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "b4f2cb582da58200d781dbd1b6dfed987b38a6f7862a8432d3ba74aa14dbe28a",
+      "bytes": 213525,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_wrist/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "7f517551a83ee6caa5db77f1a012b56d3cc7fd96c304a402d624bbfd79dec62f",
+      "bytes": 3622831,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_wrist/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "f41300b924ac6bc44b66740adf9f1002564b224d1acb8bcc711f2413869a41c4",
+      "bytes": 2905972,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_wrist/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "89b5779dc9147854ae2d5f0e02c9f37d2a42268c5b01f728b409ed39917ee682",
+      "bytes": 3858095,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_wrist/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "a5a97ebb86ed14f9158f42dce0aa325de2e4f3cc0feacbe2866a65a4d5d66e68",
+      "bytes": 5227852,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-minus_wrist/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "f0ce581f1f98fa75962565df1b890fe199291c5ba836d2071aedb7b835b6e130",
+      "bytes": 94259,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-rgb_half_resolution/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "50597fd170b255aae5c1967ba2b0d2783069ab7e1b8e62c95b3417136d1a11a2",
+      "bytes": 297342,
+      "kind": "png",
+      "url": "media/50597fd170b255aae5c1967ba2b0d2783069ab7e1b8e62c95b3417136d1a11a2.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "e9c06d295098babc5c2578d75c98625da390ce977abeafa199130ee29a051421",
+      "bytes": 72601,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-rgb_half_resolution/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "6023c76981ae1e773c784bcd75d97cf001f969817482307e7f93797b695f1925",
+      "bytes": 221323,
+      "kind": "png",
+      "url": "media/6023c76981ae1e773c784bcd75d97cf001f969817482307e7f93797b695f1925.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "b879eaf6201fb388d42cfc973ec37c2ab7b3a40918e099acd0fc53a178f554e5",
+      "bytes": 64348,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-rgb_half_resolution/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "2e84105825ecfbcbef81f8e0d64790d00a68aff1504c9bd19fccc484b0adae57",
+      "bytes": 213677,
+      "kind": "png",
+      "url": "media/2e84105825ecfbcbef81f8e0d64790d00a68aff1504c9bd19fccc484b0adae57.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "5e8710606b1469dbf425d10384d3278229c0653029f102bd044e54f2270eeeab",
+      "bytes": 75378,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-rgb_half_resolution/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "26ea26d370c729d2bab11494f6e61754a90cd3b3a8a14ef3bf8b827b5dd9e87c",
+      "bytes": 253420,
+      "kind": "png",
+      "url": "media/26ea26d370c729d2bab11494f6e61754a90cd3b3a8a14ef3bf8b827b5dd9e87c.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "df6721cc322b1a58c5542ebff3e3da3e5dad70738e4cc25b496cf15710fe6a27",
+      "bytes": 3310957,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-rgb_half_resolution/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "51ca444d79569ffaebd3cbf21a0b2910029c5320383595314900411f3c7744ac",
+      "bytes": 2636382,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-rgb_half_resolution/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "87e025633f3b79484777621a2d3bdf396870b29115308335b19b8edf4fa9f931",
+      "bytes": 3463593,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-rgb_half_resolution/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "b593639c69a071caea8d248e285c13b6529e17f282b5a14446822833611a4bd2",
+      "bytes": 4807616,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-rgb_half_resolution/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "e8d7161769ef39c52f100c00ed9a1e2e4d7a4badd29005a0b0ec684c2fbba6a8",
+      "bytes": 297531,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-rich/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "50f4ec75d97aac003cf0f3e88619221d8e89a8bbc9386dc1036b27add064db8f",
+      "bytes": 222034,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-rich/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "545446a52a2a319dce71a94c3742f23190e4454cbdc97454a5a4acd53b63dca6",
+      "bytes": 213563,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-rich/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "457c3033309998ac90b9b2e38f6d942a0ab39c83d733c095f8ebdd3ef5a5bb7a",
+      "bytes": 253235,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-rich/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "8dc73e9723db360d5bc1d1c76f58492edf1d894eef81c7c5f98a9f34e5bb0b60",
+      "bytes": 768940,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-rich/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "dd48007c75687d95a5a681a7c07b3c4b035092f0c897161884f49066ca356719",
+      "bytes": 682011,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-rich/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "28fb4d4a53f743792c74116c566ec245c20478e8036babec6af43b2a57bd1ffc",
+      "bytes": 937199,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-rich/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "cc9f2b7c4e142b06be6abd86d6a5e2017533dfd074919ad84bdca8ed2f7cd182",
+      "bytes": 1370104,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11000-rich/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "872ed350655713c137ba37434994e842e7f135dc34d612385ce8ffe85d764f37",
+      "bytes": 297776,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_C/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "4dc1afc5a890b85608bb370f5ec2bff64ba470ae444174864e80e4fb9350e3b7",
+      "bytes": 221827,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_C/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "430ad69e4041c13f6ba393c309c408ee90863c48099f5a4b5860342c380af546",
+      "bytes": 213930,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_C/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "43bfe411a1b67f840425616ee45c046960fa65cd34c30584d80d8d26d271b617",
+      "bytes": 253629,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_C/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "6f235c8dc0121b4ed19456ca744307157fde59f62164d849282286277d3824cc",
+      "bytes": 4007974,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_C/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "28d4fb9a90f48ed0b4543d8c4cfdfa4ecacd86e89dbb0564ffd8e2a2f36acc02",
+      "bytes": 3242090,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_C/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "292261ac60fecb4e3cf1729f9b3820d58b24d498df6158a8be0db7591d0e862b",
+      "bytes": 4223593,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_C/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "a72c994e68ce6954c26969563a2ba56fc46c5a2643472cedfd01e9814b93bae0",
+      "bytes": 5806213,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_C/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "c40a07c6cffae06f5dfcea02f48ed34e09edac51bc1ad495de71b84d292ad7b8",
+      "bytes": 297679,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_F/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "4cf27d0952bbf9c5f4e591118d3fa7a8bac1d0c3ffac47d8a489bba2218facc2",
+      "bytes": 221424,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_F/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "01bfdf76f4a49231ee668a050616786bf819abaa7198567ab1c3c4a60e05c40a",
+      "bytes": 213874,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_F/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "89e2632dad4c7e1fa020dc2a58d2280e73d0c4709e40613eddaa0de789571cb1",
+      "bytes": 253571,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_F/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "51622a21974958a7c13d09541ae1ab2e9409d1af5bfa7e595fd3416b94c4b92d",
+      "bytes": 3237825,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_F/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d9d73760f864c639a8ae5e9a6f9c0ba4b485b560bc3c76ace6d1ef4ffe517230",
+      "bytes": 2658182,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_F/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "f9947e1e62be0853d9206ee9fa4ca264edfe5c0bbb7789e989163889470e2a85",
+      "bytes": 3505419,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_F/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "2c3e4f7c435844e7f11c3cc26a8590daca8617dc7cd86864f9de576008835f92",
+      "bytes": 4924416,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_F/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "129da139d44ec3006205a1b0f756e88774b8191e47d604f218da27648729b197",
+      "bytes": 297835,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_H/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "1ecaf2f2ece834debf4fa4d77f5cc1f8c3d46899f8d302be55f713af4da223d8",
+      "bytes": 221908,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_H/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "a7f92d62ce76f14469b446117338016814d63e6d1875a8273237387c5a6c504b",
+      "bytes": 213486,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_H/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "5281d3f0431d4e01ce321dd7c7b07cd78daa50a8efca2b295b490da6e9af6db9",
+      "bytes": 253556,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_H/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "9dc2b0a5d000561be4b981e7de3ece5f5e56334dbd63c8e080ca46666f8b3778",
+      "bytes": 3185228,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_H/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "4ed71b691783170e65680b7dbb6886d3786f9fba0ba483b2885e3d76cedaefd0",
+      "bytes": 2563643,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_H/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "bb4c15aa7bc7b66680e4cab3120ad071dda405b143b8f3348816d542052eba68",
+      "bytes": 3383842,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_H/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "4d6642ec7f110fe18b5d34446875f099302fa9a9c844f979a16c6a3b1b4baecd",
+      "bytes": 4718287,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_H/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d56a4f3685e98ec830d361ae053bdca258c8ee9fb4b05c7a8c5b23902e922092",
+      "bytes": 297769,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_J/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "bd6da908a53ffc1b8b909ce8d08da442a9a89f46d83e6dbd989a91f66734722e",
+      "bytes": 221172,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_J/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "1074aa12af3bde544a933a0ee204b6355de2e4bf7b47d1980b4055eb4fc6b57e",
+      "bytes": 213823,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_J/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "fffb4eabc8acc7a157701bc5115dbcd67acc27bb78627e36c51c17d1cabab88e",
+      "bytes": 253545,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_J/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "a2ddc33567b6de05e81f3dd5534cc6b785e72fa2395be639914b0240c4af70cb",
+      "bytes": 769226,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_J/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "5ebc47f667af248a4277ef6c38e4c51755a263f66f0ebf6ff47e1adb29d4356b",
+      "bytes": 684370,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_J/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "e7c68f6b5bba51890d3dea5f531b4f3a826530c308b942aa4e585f4d15f9522f",
+      "bytes": 923861,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_J/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "a8533749aeb5babac1f893fd54387a7f1c2b4cf9f048c0376b7cc9fb0056b898",
+      "bytes": 1377937,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_J/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "e1b01fea30428b2a200a71638968cad1728fee4b3f350da83e26c7d9fdf5b5d7",
+      "bytes": 298270,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_K/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "c7c8f7ca32589493401b24bc7917470f70fb807254e70fa5a6af08d4be09ee57",
+      "bytes": 221758,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_K/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "b9e48959f221f86a27835e104f97b539f252b567518b1069a1e9f4f8b51afc6f",
+      "bytes": 213460,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_K/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "1186fe817b91cb48cc5f7f875ec925f5764f77fe934292b26f42c1e4f670505a",
+      "bytes": 253564,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_K/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d9d6e364215543c36d3db7a72418375326b617b6e3e5320dceedf323c1b8c5ad",
+      "bytes": 1323673,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_K/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "beb5ea5b35e7a39d39b8d061d53efd5d33d27cbfb86bf987bd21fb09532c0601",
+      "bytes": 1171827,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_K/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "54e1ee7bbf32d9b09f12cce6c83f3700be4642d56bcd913b4c636e78c6e26518",
+      "bytes": 1577635,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_K/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "91a9bc96dd14d8ba7ac1af251c7813d016cf432377d16a2ee07bae5425f588e3",
+      "bytes": 2212480,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_K/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "1424aa6d8415ce813dccb43018dd96b50489ee2a8a01723e86eb80cb9097d526",
+      "bytes": 298127,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_M/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "077f87c94a0b871c7ec6e04c62563789b7ebabc1102bbff1d7812547ea0ffb27",
+      "bytes": 221822,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_M/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "63a4fdad8a6ba9ebf5df177ca05bb3ee63dfc517679456ac97e595814cae1130",
+      "bytes": 213650,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_M/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "9b0df0addf33e94d9ca11aa42dca86c74d1b129f2b69b13e2d704cdb240fd91e",
+      "bytes": 253434,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_M/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "03630bb67fc632639f20a6045998f554fbb7f4dffd8c5b4bd33c00e977247203",
+      "bytes": 3629462,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_M/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "054babecf660d08135f0c6c2b17e67abee48793d9896177e18058397f8b835dd",
+      "bytes": 2930834,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_M/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "3ae2167f0fc786f9cbb32fdbb9d61a1f16f771b8b08fc58b288463aebca84fbd",
+      "bytes": 3863230,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_M/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "3c55a9cedf64e7e70ad70b1c1044b4fd5ab6e96d3042d93605be89fe6e4a2944",
+      "bytes": 5400639,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_M/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "7f20d616f38c57fd9ac1a9e1a4c379782b8869426b927d1b7ba46790bb87cbcc",
+      "bytes": 297957,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_S/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "bcdd91064d6ebe9bde92fc29665906a0e3751dd985630a4247ff99e1a9e37917",
+      "bytes": 221351,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_S/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "81a0076107a42de7a0dbd4c89008b10880c5381c35c431d0c7c784628c61ede7",
+      "bytes": 213980,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_S/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "ccb6a5d36d65c9dd3258ff6833c2bd05562941be8d680cf124ce28c977514dec",
+      "bytes": 253568,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_S/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "0b8de6eb29dab3613faef0c352ff3ee07cf42ef0e15fe71597d2a8e2a7288980",
+      "bytes": 3933335,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_S/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "5164df5e8359c61327e722e64b01ab449d2f95b82df4d5bb7bde8935b00b944c",
+      "bytes": 3234259,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_S/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "3f0979bd028b4944f996076cddea8ae5e366882f0e862f55601a2f970eac1f24",
+      "bytes": 4194552,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_S/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "69c985959ddde3fc2f8890af271e4e7c9b74cf293ed64edda12e20fc725c434d",
+      "bytes": 5737835,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_S/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "c24c70d09324532a8619324efa2a56395ca7a25ae0da32716369d59e2ae3ebc0",
+      "bytes": 298040,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_chest/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "4a098c940af4846a5757b1e2d351ff475675c59d76f20baf7d18b49104c9e68b",
+      "bytes": 213491,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_chest/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "b8a306a63e2deba02f7159f27c8f0426c4324135ff901203bc2e7b1b409fa026",
+      "bytes": 253306,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_chest/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "b93cf7aed30fc9e7b6d5875877009081aed5845ed938a3e989f201ce2dae9320",
+      "bytes": 815188,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_chest/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "b5351ad96ddcf07c26d58e896713349531274444915ee7b944775c1d59f0d91a",
+      "bytes": 739383,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_chest/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "4698bdb2ee26d5c713047ff7d36fb6caf0b12f880886302a0afea87e6147fc48",
+      "bytes": 977138,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_chest/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "6b82d757ed5c3e6d8f41bb0f0aca60e7ed2e267e1e7f0b65c0006d4030ca01b2",
+      "bytes": 1475249,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_chest/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "df87dea295654b482a0034f20effaf395b24ab4f38d510aaf2fb8ed18173a5f4",
+      "bytes": 221681,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_head/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "07b675003ee44e47b7d43ca7596260f5209e89dbc6e72ffcb3aa4dad140a74ea",
+      "bytes": 213691,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_head/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "098bc3d82d9f10f524bd6df254b15933b90031942f425cc635005021c82e6c83",
+      "bytes": 253881,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_head/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "56bf6ff9ddf7168a8f282d089fefd35dcc62feb0826e7fb2cd649bfe11506373",
+      "bytes": 3276726,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_head/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "8582fcfb6efba4fb12ea335fc1426cacbe36951fc64b42ce77131309d16a8705",
+      "bytes": 2664732,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_head/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d1e1e1d14aff3c556d0f147238b1c2e9f5845de0e2be4892c200c083d10e754c",
+      "bytes": 3518311,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_head/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "bd3d6cd6d9abf6aa91ecf2738ce713ae4106f0b156b8fe66f48b24ea7adfec04",
+      "bytes": 4869076,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_head/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "5fbbf649680a52d617b42d6fd675bb5a556954f65ec36159b392378503300fc4",
+      "bytes": 298041,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_third/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "9b118886e7a1d17adad4309f9b5b186c44419aaf8e9b747c32d3d114fa743ee8",
+      "bytes": 221783,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_third/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "e37fb20b767030e303ea2ee20c9dbaf59478b29fe0a17c35c04c0d57aac8b2ef",
+      "bytes": 253256,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_third/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "01ce2fdb871a85e68a614031a2b45ce15ea9ebd99a32eff2db72c91b73dab13b",
+      "bytes": 1731443,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_third/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "64c50ff60c4c5d288d070a26b5c0d03b7f2ee1c1a9feb4e5e99bc5a056ab6367",
+      "bytes": 1452566,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_third/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "44f23470ced1ca26acf6f4dbdfbaaa6cf605a7163e21a6a65cf2fbf3fe65b074",
+      "bytes": 1862369,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_third/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "7bfe4933c637a53e4beffccdf0cf697eb9aafc1f1256a4f66046ee38b790fbaa",
+      "bytes": 2634040,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_third/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "b8402dc1b3b2a746df06acda63408dc4a676cc3ef7a54cce3d825004f4b721eb",
+      "bytes": 297719,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_wrist/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "62ec38fbdb3ec581c0325fd1017f094b77131d35d457e80ab1d43f5dfce3eefe",
+      "bytes": 221530,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_wrist/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "fe2aaeeb961122a3adcd938fe8e883ad139c52a418020b40bc4fa4770dce7691",
+      "bytes": 213618,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_wrist/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d916759c6690170e49dcbeacb2e96de62684e1021ee7a669d5406e5ca669b6ce",
+      "bytes": 3191368,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_wrist/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "f6ff1de82ddab1e15464e35837b312f5b6f2d5615a7c6b24439b6aef3833bd25",
+      "bytes": 2583162,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_wrist/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "9ed4d7ae1a3d46cd011032ab2a4f1346c39696620b110b16168687e5cfe6e8a9",
+      "bytes": 3440256,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_wrist/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d8ea9c0958ac08c41d7882177444fdada5b837faf7aa37dfb44b0573d27b1539",
+      "bytes": 4873944,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-minus_wrist/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "984d7722ae271995223af0659907cf03e09a0e57eb19db7488e8d74002637f7f",
+      "bytes": 94277,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-rgb_half_resolution/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "e70512dce6c10ccf838f4248c79c788ebd0cfe6f27903b7e0672a57a9a10e6e9",
+      "bytes": 298086,
+      "kind": "png",
+      "url": "media/e70512dce6c10ccf838f4248c79c788ebd0cfe6f27903b7e0672a57a9a10e6e9.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "b86b9d1710d3bb94a83516fadb5455946f8ad55a91b6e3ea4d0145028ecc77c1",
+      "bytes": 72739,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-rgb_half_resolution/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "3666156ca3279b936ee470c6dc6b64e2ef4191af1c8ea7f45e78ebe8c0ba9f83",
+      "bytes": 221323,
+      "kind": "png",
+      "url": "media/3666156ca3279b936ee470c6dc6b64e2ef4191af1c8ea7f45e78ebe8c0ba9f83.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "c2d9b6d7ebecafdb55c834faff569d8c565d192579ac2dc19e435d9def9d243a",
+      "bytes": 64366,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-rgb_half_resolution/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "acf9483280539b0731fd7c95cdbe44720aa3adbe187e2a74955b2454b85d9799",
+      "bytes": 213058,
+      "kind": "png",
+      "url": "media/acf9483280539b0731fd7c95cdbe44720aa3adbe187e2a74955b2454b85d9799.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "9d3dc1108eae013c7deb05bd1fc0205e0d6c7a494340caa62870b142783e0aad",
+      "bytes": 75531,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-rgb_half_resolution/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "c7b3a19dac5909351b7e92cdae16aadb8b0f6dcd8fbcd781971158508e984071",
+      "bytes": 253229,
+      "kind": "png",
+      "url": "media/c7b3a19dac5909351b7e92cdae16aadb8b0f6dcd8fbcd781971158508e984071.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "4e39f14b0e498df43fc11007c31da62c1bf9d617786038053628e7ca33511b73",
+      "bytes": 756668,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-rgb_half_resolution/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "5a10f23a37401b3a7473e7aa52fc4fdced6217f56316d7f11ee176d9e6cdbef7",
+      "bytes": 667448,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-rgb_half_resolution/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "bc641cb0ee57325642ddeae45fc606236e2d776586e4591432a14b2baeea0af8",
+      "bytes": 888430,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-rgb_half_resolution/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "0e734895e822f9b9a58da009cf56dd9a1de851e04abab8ce3b131acbc2e3d70e",
+      "bytes": 1288117,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-rgb_half_resolution/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "acbe765211674f2dc2273bf629d02c1401e4fff11f73b2f3e0cedf2cc9d3962b",
+      "bytes": 297511,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-rich/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "c21dc7560922439b664bd13149a6c5f66e5afe61b1a089f9ea3e693688524d2a",
+      "bytes": 221706,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-rich/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d1f58c3dea28dec6e511cc444e90fd48bde007656ff0a05ddaf9e9d8ce4b0ae5",
+      "bytes": 213788,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-rich/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "73a9abe27eb7c1bc3e3e1eaa870cbf666ee43400c5c81bd4fc69ffe50db181e9",
+      "bytes": 253450,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-rich/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "1560bab12ce1959b4e2a28620c3d213b1505afefd6e5dec3b55f3993f61edd60",
+      "bytes": 780608,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-rich/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "897df6ea38b88e587a667324616d27dfcef9eab0cf2969d0b33606362d9bf656",
+      "bytes": 695834,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-rich/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "4b4d414233120e2e54d2abff670d17e07d92ef256c3880d9008f31742ee90f68",
+      "bytes": 940083,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-rich/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "6a1c348a3296e40b2ce06a75f4e619b03dbc22a8c7f2498bc980589ecaaa1bb5",
+      "bytes": 1417652,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11001-rich/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "31813d658b018ae8eb5828259e88e87732794b88785dcff3ffe861d6fb89f0b2",
+      "bytes": 297419,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_F/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "79b62bc716857c64ca740624869327730826ba73b15a464812de054dd14f0a44",
+      "bytes": 221897,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_F/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "df47c27f74954988559ebd629f4c7ed35f7f83dbb3ac04a3bfe8a5521f098ea9",
+      "bytes": 213362,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_F/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "fa180fbd3e4c81f455ad92a6a6643a5c3a90ec732803d3148822b6a24d90d1df",
+      "bytes": 253488,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_F/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "9c5648a1edc32fa589a6f7ffb6ec8a8f038b5c44daf3aa5a3ef8ff344c48cc5b",
+      "bytes": 3478885,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_F/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "5b37ede2573436ee946ca7718029a619cd93751dd95f62ce5186a918db6b3014",
+      "bytes": 2791052,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_F/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "3b0b73edbf4eab61e7d76f80d37e0553693a1d2b271d5b9db6dc0e10eb1d8d99",
+      "bytes": 3679875,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_F/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "7fa68571d4c5b6b3aec433c2f15e173bcc7529d46d1d9f436aaa755015182eab",
+      "bytes": 5079933,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_F/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "81aafb381b1b03eb6de891d880a3a25042390edcaa7efc633c24620984420c2f",
+      "bytes": 297220,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_J/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "fd1e5a26012535245e3c21f32fd99cd230a1202f9c9d9cee81ad092ca7c198a1",
+      "bytes": 221784,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_J/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "b9e065874faaeaf396686e3b0066282e1a29d578aa64662ea267033bcac29eed",
+      "bytes": 213862,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_J/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "f1b8a183409a7e9acd9156287e7238ac7d97f9e0ecf7839929165ec65fb34619",
+      "bytes": 253325,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_J/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "30f46553e4aa392aa27dbd55100112fb3ec7ac5bcf0c2da4cecd8ccac6501e64",
+      "bytes": 782296,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_J/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d7c8fab5c728494a05c5725d4cbb980f6c59ae4081dc97c4d9018996ff24eeee",
+      "bytes": 692925,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_J/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "4e2fc992b3f54f98677ef88c1d90531cbbe6f7897f61ec50ab553784688fa90e",
+      "bytes": 949268,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_J/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "65e0ece33bdcc5fcc9795e987ecdea926e20354b57266ea98cb4f518587674ad",
+      "bytes": 1370563,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_J/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "f944137ac56587ac13104e5d025de9078a66a19bec28d3c31150ba9929a8b4f5",
+      "bytes": 297361,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_M/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "abef1b36451ef3fc81f3a52e0011410cae4b9f3dee1946c54ee34451a9440022",
+      "bytes": 221904,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_M/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "e688ecdcf40ba57bce14aeaaf1a7cd589cb614eeefa24739b0ddf778c1e853eb",
+      "bytes": 213378,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_M/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "335a06b45625f41cca411cd235c2a25095d2268c981fc44e111bf23252e3f067",
+      "bytes": 253328,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_M/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "eff5b2acdd1762f42b2c559cb3a2c91f644451cbe1b477ceb05f46cdc3880143",
+      "bytes": 3158830,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_M/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "ed7d61160d3cd7da0df2f65222aa1fa136b89415205188817fdc13d8019b1a4d",
+      "bytes": 2567252,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_M/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "9b45fce417f64830dab514ca607df98fe7dcffdb68e10b7149a71a668a6ac6f4",
+      "bytes": 3447945,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_M/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "75d9f10470372b439d452719ece356c79bcfd5bf77317a5901b4937d1c548248",
+      "bytes": 4732939,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_M/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "2ab7b644533078cb51c34a0a800a0090c4657b01c59ccdb9c4e2d8b5949849fb",
+      "bytes": 297406,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_S/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "c65f37458f61c741f64fa8a7bdaa2b59925c884c1a1a33b8e802c2267f8fefda",
+      "bytes": 221577,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_S/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "b26b2e65ffacd4f7928541c852b4f83bda22442ab0ebdbc74e311c68f7a0323b",
+      "bytes": 213664,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_S/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "6f6d26f4faa61ffca53fc0721e0a7e3ef57c167cb3add5fc537b7138b46e30a7",
+      "bytes": 253495,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_S/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "28c82152a5ba17b33cfb49df670a2780e9c3e0211ab65ae077b6f1dc8d496a3c",
+      "bytes": 651485,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_S/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "0b3488962885a53801593f365769ed5459ac883f80614a87f718c784cd3f24be",
+      "bytes": 568200,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_S/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "3ca0fd2bc18737290ec5d938006609ff16fc6bad49d7fd5cd6fe28b3246a70c1",
+      "bytes": 758462,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_S/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "8fef4de7438cced09c808aec071dd87a8bee8392959a6b2bdbbe5e5823e68a62",
+      "bytes": 1120940,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_S/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "cafe1916de8291cb75c9eb4723e2856f2bef706e945e6904b51bdb5a2c2e51cf",
+      "bytes": 297333,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_chest/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "b8b5a48842b30f19f67de09b471e1976a0f6928f18b562e4b4cc5c372c23e1db",
+      "bytes": 213305,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_chest/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "08b9b2d4c7949bc827a0f6892cfd4c54fb8829589aed6a9aeadfcd1e5a353cd7",
+      "bytes": 253646,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_chest/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "0e2e0b771d697424414d4f7afdf645202a148b8cc0c92a52103899c1bdeaa71f",
+      "bytes": 761505,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_chest/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "783c95e2a9bbe3c38bcbac3df9b3352af22c1b3af17748fdf647b36f2a9fc5ba",
+      "bytes": 676826,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_chest/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "3f651b7119048c3cef8d12d5b8c9e5a786dd058881b1a505890c6d59066a4280",
+      "bytes": 925289,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_chest/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "1ed0bf1c9fab9030b036df2c88153360551304a152811271a67143d1b418c97d",
+      "bytes": 1343976,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_chest/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "15fcef09b4a924f3b7dfe0abd8fadbd42db94fad266c9c7f136f02d10117f881",
+      "bytes": 221618,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_head/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "b346116a6d407f7ba27f55fdae74afc77e549ba2702dcc5e861c4abda4eef92e",
+      "bytes": 213388,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_head/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "adf250ca1855c2d16e00ae4093628dae716387d01951030d9e04d7544033e831",
+      "bytes": 253269,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_head/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "f2d9ec25b2535785490141b3a7df5ad9c025885d3b6a5b896d8935bdf96005e8",
+      "bytes": 807362,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_head/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "a337ede140ba872659f84087cd8ad7559ef4e990c01de50e1709d34736790a9a",
+      "bytes": 689568,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_head/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "4acbaf0edb96ed589efc1e1426988b7c0e791832dfe91f855828635ba8ce1677",
+      "bytes": 944132,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_head/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "2f3c8fab8611b94a3b44f6479448ed070c43c1f37e53a34926fe5cbdf0a14953",
+      "bytes": 1357708,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_head/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "a773d9967185255c3fc28e5cbffee4611053f211cc26c49cc2b2457d9f8a98d7",
+      "bytes": 297568,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_third/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "05a8ca99a3fb083bab31bccef6b93a84d53f006099c200926cfc6e03695155da",
+      "bytes": 221790,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_third/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "a0c82640d735cc6ceef6e565ae7a5499ca5506583a70f0dce9d70b5556e2e1b8",
+      "bytes": 253250,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_third/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "56af7a9e6860fb067fcde43706eaf4d9b59815ac160f1630cb172e5cb086f85d",
+      "bytes": 653372,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_third/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "0f0f4ea97419b95dba687fb69b9fe78bc669735881d24094cab4f931790d9976",
+      "bytes": 552240,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_third/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "96ba5cddf1cf48c0afc72b2dfa8b7d01eba9691858f9ba5c043cb5d2cdd9869c",
+      "bytes": 755397,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_third/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "8432307afab1421b4548ab6275d281b65703af9ef52d852c2a507436c139ccd5",
+      "bytes": 1101557,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_third/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "28d11872dc65341f65e786071f5d7ddd1477f049966fee32356ccfc0bf9536d6",
+      "bytes": 297250,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_wrist/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "c607076922b12ab3af81ab8a1303e435389ac40b8a75992ec87f7a389d21c86f",
+      "bytes": 221517,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_wrist/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "ce189fe44413ac85bff1b5fb27d363b77ca00d8259e76c31f5bb251804b9bf93",
+      "bytes": 213561,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_wrist/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "35f8e21eb265df2281a4e852e5b9afe4ca7a03f3e4b8325da854f1642a23ad22",
+      "bytes": 804300,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_wrist/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "6bd2a9ad180b4f45ceebba36897918e68d75d3ad313500c68352a645055846a7",
+      "bytes": 689858,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_wrist/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "3c6c8a85915e557b202fc9ca2aaceb8b60419706db567113e829e037ca2a204b",
+      "bytes": 942596,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_wrist/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "51dddcb9be5f6026205a30ed33d5967ab9bb931d258d50cf3cbe105b0ac027de",
+      "bytes": 1351009,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-minus_wrist/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "9964ba9015942d62be695c1797444f0f2fa172002605c4122529c3779b15c169",
+      "bytes": 94309,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-rgb_half_resolution/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "b0423354e4c92704a34a8b703f8e977410d45d1a017fd3aa08b706dc285d44a6",
+      "bytes": 297463,
+      "kind": "png",
+      "url": "media/b0423354e4c92704a34a8b703f8e977410d45d1a017fd3aa08b706dc285d44a6.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "95b7bb634e94eeb13a1bcbb71003c0575b69a61f5d076138102def9599a5c8ea",
+      "bytes": 72786,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-rgb_half_resolution/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "4bb261b5d58f2cb1d8c94db2399606af0426b467137566ffbacc52af17fa90bf",
+      "bytes": 221987,
+      "kind": "png",
+      "url": "media/4bb261b5d58f2cb1d8c94db2399606af0426b467137566ffbacc52af17fa90bf.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "d8b298e62380f63fe086ae22237fd9b9e4e361599d97d8f0249d449753e21f38",
+      "bytes": 64273,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-rgb_half_resolution/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "cd6a3540b872c5021852f2a520512c97c5cebf500e746d89d1b02afa8dc17e01",
+      "bytes": 213220,
+      "kind": "png",
+      "url": "media/cd6a3540b872c5021852f2a520512c97c5cebf500e746d89d1b02afa8dc17e01.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "39dff12ed655614050beebade865ce95ee68d26d3b789efb4db05db0220a9090",
+      "bytes": 75455,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-rgb_half_resolution/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "e45fedd96b928d2a3042e2882c8cf1abd739c23a0b9c8607c9b0bf5a821f83eb",
+      "bytes": 253360,
+      "kind": "png",
+      "url": "media/e45fedd96b928d2a3042e2882c8cf1abd739c23a0b9c8607c9b0bf5a821f83eb.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "b404fc521c7380e20b1e916e5b46fee788b7862249259be1000109ab22ef4d8b",
+      "bytes": 798732,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-rgb_half_resolution/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "1b68aee352f953ddc9030b81ee907d60fd2202ff70ad6b089dbfdf0143517ba1",
+      "bytes": 679296,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-rgb_half_resolution/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "9f14739e7a344c3813dafc3091a332a1b67e76a382c95a6e062c430a0f180ee4",
+      "bytes": 936191,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-rgb_half_resolution/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "2ec464cf0938c7f43e6247db7d57469a1e16b6053cb30e50bc1b7eef6148d625",
+      "bytes": 1335675,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-rgb_half_resolution/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "551105b66256ea5d076f906317a46f91ffbc89d463c29127bd0a958b3e57b8a2",
+      "bytes": 297067,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-rich-attempt2/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "b270e1279a30c0713f52836404de4348017e7dd10485b92c7088663fcd47443d",
+      "bytes": 221961,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-rich-attempt2/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "55beb103cdbbcbf3e8072684c4082ee3d98a2116bada2053ee55766bb937ffee",
+      "bytes": 213667,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-rich-attempt2/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "1e9a515aa2b041f36055815ad3683f1a2930e2e448d28514ba7203fd796b55e6",
+      "bytes": 253227,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-rich-attempt2/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "bbd71388222cf63cdbf6d677c8b86e78a9b7fe6cfc64277c6a272742fddf2880",
+      "bytes": 770518,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-rich-attempt2/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "c9ea1ccac4729194fcc352109e42b44376ebc54f7cc3f7fad1da074415c97b00",
+      "bytes": 689154,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-rich-attempt2/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "e0344d6609514cad4abb33866d31794516eb73ccea7b9a849d83c7f88c12a105",
+      "bytes": 943616,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-rich-attempt2/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "6715b869410f889871e248aad311f6cfe689cb0e7b4757f5f125522ed2e6ba66",
+      "bytes": 1352944,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-fr3_place-11002-rich-attempt2/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "c776d23eabdd6422ce6e1a63cffec4a5fbf936e0fbc5fd39328b138f67c8dc4e",
+      "bytes": 318273,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_H/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "76757c1b4f53bf1ee5b168a944b02359c43602d51d62dd1d0891341e1cc18fb0",
+      "bytes": 159988,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_H/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "ad6e3597a728dc685c0285a4f00eae19d26f426e9373f613782ab05501a397a4",
+      "bytes": 188147,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_H/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "53d629e4871f47778dddd1c6baea31cf5a87c302e82fad8fbb6de22dddf68c60",
+      "bytes": 145999,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_H/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "a747676cd68279093b03214e5610b9444795a720ba86b3c1fe97b5c7503c0400",
+      "bytes": 2743236,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_H/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "0ad5100a6c857aa315f7c6ea0023d75204590b72595e8be1be617fc0161dbcb4",
+      "bytes": 2386391,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_H/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "6757b3bdc68d0acaba3b58427a242eda53be450e2d94127d41005bd7d95f90c9",
+      "bytes": 2613299,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_H/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "f5c749da27fe80f30e0f88d6494b47eaa71d02d2116f86dcaa50498d1c21413a",
+      "bytes": 5007820,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_H/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "818cfc9f8277ab57b14e09ad67a80d740cd4fb19525ea4249e639ef0076a5e11",
+      "bytes": 319059,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_J/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "51c0036c2f93f6f5252e6ea06c795809bcd549bd294e84b6bed6798be696bc7c",
+      "bytes": 160179,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_J/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "7cdbace4b200ee2881058fbcf5ba4b6efb6fa8bbaf49be04023eab89b5023f71",
+      "bytes": 188347,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_J/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "2001d387c4c4a6006329c7fa3cd30646a79c98515391c4b010735453539b8d66",
+      "bytes": 146070,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_J/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d89b90fd3f3cb955427e3c5105433a8494c1da7d767033b7dd367f8c216221b0",
+      "bytes": 2438711,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_J/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "b42dabee15e35f654449112b668c2637d5d4b19247f24b1cbc2259bb2c226e7b",
+      "bytes": 2131029,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_J/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "719c4401d4b9d115f96c78e0f7f7d7b4a07f3d5e0251ed3af202924f29c225d0",
+      "bytes": 2533968,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_J/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "03d9722142389cefa4d76740769cc2a0d67c97bcc6176bd70dc5b3b6bddf58af",
+      "bytes": 4651144,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_J/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "cc172b8dc51a118b7c63cffc0589b406db0317d7a42591060ddee8b82acd7533",
+      "bytes": 318336,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_chest-attempt4/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "76f46541c5d3fb439e9b4f20adea732a44493f9cb54a048de16b99884d9a06d1",
+      "bytes": 188299,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_chest-attempt4/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d4bc723eed7743f43a7e4c77482fa35908ee5baf3c31403c5756f916f405b474",
+      "bytes": 146042,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_chest-attempt4/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "3d936d5dcc55f4c560b8ca66969a3489641579efbc7915bf99c5ca4ec1737f06",
+      "bytes": 6415892,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_chest-attempt4/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "7ef3850f022a6b4b30d957ce70ed0277d3bd7f2967b41ac4c75705a6dc9be262",
+      "bytes": 6883568,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_chest-attempt4/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "43f5eb8f434ed0b13e367ea341010187c87cf1139cd19c15a2329015cebafcf2",
+      "bytes": 5722437,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_chest-attempt4/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "80abc9826e93b4d2e246f90eb1edd93c0e01eac02cb77c33dabf02b92bfec4ca",
+      "bytes": 11090029,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_chest-attempt4/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "5368a350c932496bf39455779427abb416ed99e3e3a96b3241ceda2a8d1f7821",
+      "bytes": 160175,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_head/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "ec68882f70b98a29f65a1396164964f108781d81c71c3c3c1aa3940dd2350a7e",
+      "bytes": 188303,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_head/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d4ffab5757245246fa086056033297555089fe398931923a001dd79792922e63",
+      "bytes": 145412,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_head/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "733f11809065d6824a51eb0627a2f136f727c27b777a5f021f42e4eeb7d174ef",
+      "bytes": 2220631,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_head/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "ecedce8ab7e000be5315857d87a12ae17e7113ccf841b587167d83af5f07104f",
+      "bytes": 1762109,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_head/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "5560d4374e6fb8fcf75c2d07f2d2337358b375b08a9c1e1837357b02110fe765",
+      "bytes": 1988523,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_head/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "108d32b51cfc2b7189c920a799a65b5928cc22bd4ef47b980b874eabd4c3f9d2",
+      "bytes": 3085844,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_head/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "16b4002ad58edf0487f2b4cfcceb87322169cc21e0e62bf86f2d45c404eb8da0",
+      "bytes": 319033,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_wrist/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "4508e3f5530b6a161a8450e7acd9c75d21ef612cfc01a4d7ab157e391cbbafe6",
+      "bytes": 160500,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_wrist/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "b3f6e493b528d91a886eff5237890ad587d5221c90d5358fa8847f6d73c31062",
+      "bytes": 188496,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_wrist/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "218eca5fd33db518d4beb67ac54ce555eb658224f72e7eb1a4e82110884abc6c",
+      "bytes": 2126279,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_wrist/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d97ba2cd74a1e50a4609f9d8f2ea6321153249c7e81d5814fb7d0577112e5f37",
+      "bytes": 1849689,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_wrist/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "08e4da2191cf66170d845e2917ee11fd59fbf507fb66e000d463291ba65f2e3c",
+      "bytes": 2236022,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_wrist/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d02c38db1d7dd0af77336fe0f41bc05d0b52731fcb0d5804c06a2c7aaa8e80ac",
+      "bytes": 4040385,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-minus_wrist/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "7aa8d1d86e5d2e4b153e677f7f1398530d874989b547bb77664372b6c7948aac",
+      "bytes": 88520,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-rgb_half_resolution/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "4edd2463508a1dbbcad9625f927986a3ad75032e4054381d4b4841bf86369c36",
+      "bytes": 318902,
+      "kind": "png",
+      "url": "media/4edd2463508a1dbbcad9625f927986a3ad75032e4054381d4b4841bf86369c36.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "8d8e494fdd391651f0bbe8b6dd4626ccb6f67a3772144a383e23ae23142693c3",
+      "bytes": 49879,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-rgb_half_resolution/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "547da1fb0f715590480329301965cefb1e5c8538bcaa2fad9ca37ec052bb6b2c",
+      "bytes": 160475,
+      "kind": "png",
+      "url": "media/547da1fb0f715590480329301965cefb1e5c8538bcaa2fad9ca37ec052bb6b2c.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "a0f3d6d360cc9b746b24034e54beaa68aef9812e36649a9997690c6530a89a6f",
+      "bytes": 60691,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-rgb_half_resolution/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "3d7869298e1374add5a9cc0f00e6a4ea6cb1ebf194c13f1b939819fee2be2f81",
+      "bytes": 188107,
+      "kind": "png",
+      "url": "media/3d7869298e1374add5a9cc0f00e6a4ea6cb1ebf194c13f1b939819fee2be2f81.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "db5022e60fd516522a84a5969c13c5343a083eeae9c66f5e084a800260a73415",
+      "bytes": 49632,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-rgb_half_resolution/wrist_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "feede4a6bfe4ae1ca3e984d2a847e0cd42141977e9a7a6648e575abdc15b11c3",
+      "bytes": 146112,
+      "kind": "png",
+      "url": "media/feede4a6bfe4ae1ca3e984d2a847e0cd42141977e9a7a6648e575abdc15b11c3.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "09f5c6d1a23b9efcad5f0399bced9be299e56508cc67420435c1cab450fa74e2",
+      "bytes": 2093760,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-rgb_half_resolution/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "7e6f1c9d58d4708c97caf8053d86d48611ef2f641ef1f596c6984f084a014f13",
+      "bytes": 1837946,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-rgb_half_resolution/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "730d983f720eecc188c2d86fe8015b60d3d988002e29256bba4adf373d74ab8f",
+      "bytes": 2086193,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-rgb_half_resolution/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "a215f4d7923f953ebce772fe3935ee83d76071797d948e1f8a6a6df09a97b8d8",
+      "bytes": 3688427,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_grasp-11000-rgb_half_resolution/wrist_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "2b1ebe4aef9494cba42f83080ef6935b967dbf6da389189349966077bab12681",
+      "bytes": 321814,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_pick_place_100ml-11000-minus_C/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "cc303212674f4632d59ab45406a15a1f44d56e36f63d4e39cdb28698049e7ae2",
+      "bytes": 158500,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_pick_place_100ml-11000-minus_C/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "d1cc01af34d8f228d4ec6fa288b5ab0d78bef8831ed586a6c4c4341c5fd1a929",
+      "bytes": 188310,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_pick_place_100ml-11000-minus_C/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "403f0524e720a3225c61093956eb3bb2176cbc858f773c9a55e9b348f41edc88",
+      "bytes": 4586912,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_pick_place_100ml-11000-minus_C/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "30804b6f4b7e5c433d582f4ff957d6a8625cf8b4c70bbf3cad68d9ab3b1c5593",
+      "bytes": 5609448,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_pick_place_100ml-11000-minus_C/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "c90b286fc2ad086ebb8b55fb0cd19faef2a47c99d300dd7fd905096e5b4da791",
+      "bytes": 4300023,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_pick_place_100ml-11000-minus_C/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "ae6008c6173ed3ced87cd6bf189ee64aef681fede2c4d128f154543179fbdc25",
+      "bytes": 321871,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_pick_place_100ml-11000-minus_F-attempt2/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "047d4c3a25d6ccd87fc9919f8c1bcae9e726d1742cc6cec8644ab99155f35338",
+      "bytes": 158614,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_pick_place_100ml-11000-minus_F-attempt2/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "68c347a2ef792ff723199013f2f35ed3c318f01bea3e138362f101c68689d779",
+      "bytes": 188038,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_pick_place_100ml-11000-minus_F-attempt2/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "3d8e09ce35581b27e91ad18bf5238502321db141dffa6d70b6b3c5847c9c9bf1",
+      "bytes": 4532963,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_pick_place_100ml-11000-minus_F-attempt2/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "e93bfed2caec6bf35adbd31c81bfa581346f2180e1bcb66b9198513e89792850",
+      "bytes": 5091344,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_pick_place_100ml-11000-minus_F-attempt2/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "8d1d5ac36b900733d2bdcf8164055f2b35057bcbb1528e231d6d585546f4b1d5",
+      "bytes": 4149725,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_pick_place_100ml-11000-minus_F-attempt2/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "445412eac7c25bcc678f0a399554a3e311eb4de2987bb72fc7eec568e42b71f9",
+      "bytes": 321717,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_pick_place_100ml-11000-minus_chest-attempt2/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "44e5aaf9b2cc44515f05a8e7068726bd92bec2d29edbe2adccb2e984cd4ac68c",
+      "bytes": 188089,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_pick_place_100ml-11000-minus_chest-attempt2/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "61c9497bcb7dc033494a808c8e00345a6e6a54bc7d74461fbf31ad569b9309aa",
+      "bytes": 1143036,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_pick_place_100ml-11000-minus_chest-attempt2/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "a46b0681aab6281565970b2d47e619288a67f84c4bde5b1332b6bef275ad1974",
+      "bytes": 993882,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_pick_place_100ml-11000-minus_chest-attempt2/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "f0832e0a535d0e7ebe06f50c8fa50a2ea6284ec09f92c165cebd0bf14aaacde8",
+      "bytes": 1269683,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_pick_place_100ml-11000-minus_chest-attempt2/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "48b997ae1d2ebd492496949133ac4b126aaefcddfc90e82b5e0760d8c83cc340",
+      "bytes": 321615,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_roundtrip_100ml-11000-minus_K/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "c353dcda81bae2d31aa2b65d816d8e6d340ea2ca6291033e9790c33ba37ee4c6",
+      "bytes": 158454,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_roundtrip_100ml-11000-minus_K/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "4f0ace31497dea8c1ba88e8f81c13c1625bb53db1ff0e3155cd03ec8392d340d",
+      "bytes": 188364,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_roundtrip_100ml-11000-minus_K/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "33846ea31128664099f227ec8ac2cbc6e250e4a8d2854c95350c8e5016f01f41",
+      "bytes": 1303546,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_roundtrip_100ml-11000-minus_K/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "4908b6dd279485545edcdb9ce38d5ee6be4cf505aebbf8faa49cc97e21e68594",
+      "bytes": 1163435,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_roundtrip_100ml-11000-minus_K/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "f626de8cd9da18e051e6db7c496e755f8c56e69a78cd8b02ca649ba429f19c1a",
+      "bytes": 1531224,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_roundtrip_100ml-11000-minus_K/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "377eaac099a2d632409cee4265a47ddbcd4cabe0fcc15bb7ae6200f4c130c5dd",
+      "bytes": 321917,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_roundtrip_100ml-11000-minus_S/head_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "f06fab42279acb79f5e45650f22feaa640ab821ee168a54183b3620c2c58aa15",
+      "bytes": 158187,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_roundtrip_100ml-11000-minus_S/chest_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "a2d81d66ed2141ac1cd8b61ae553b2ce8052304de8758ae9b3d2ec1afe13634f",
+      "bytes": 188212,
+      "kind": "png",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_roundtrip_100ml-11000-minus_S/third_camera.png",
+      "reused_existing": true
+    },
+    {
+      "sha256": "18998d0fc87adbb91307e808b66c91afcfb2e91d55f1f9c126674a5c30aeecd0",
+      "bytes": 5485478,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_roundtrip_100ml-11000-minus_S/head_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "b38f1ff2fbfeacb9b30b7a7f6aaa0cbbb00294e289135b6123061c0c6c4ca484",
+      "bytes": 6992811,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_roundtrip_100ml-11000-minus_S/chest_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "a7a1910b4b399343273f4bb51b5b2439bb91736ea04b81fde4cdbe0370977bed",
+      "bytes": 5280464,
+      "kind": "mp4",
+      "url": "https://asimfish.github.io/psibot-dashboard/assets/astra/formal_20261011/v5-psi_roundtrip_100ml-11000-minus_S/third_camera.mp4",
+      "reused_existing": true
+    },
+    {
+      "sha256": "96037e802ce9092f98ae75daafcd5284aa05b822d306b2e771081bbd40a35344",
+      "bytes": 321797,
+      "kind": "png",
+      "url": "media/96037e802ce9092f98ae75daafcd5284aa05b822d306b2e771081bbd40a35344.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "9eddab177040af5f6d029846141d7b7f016f169c0e90c31a70856438d338acab",
+      "bytes": 158456,
+      "kind": "png",
+      "url": "media/9eddab177040af5f6d029846141d7b7f016f169c0e90c31a70856438d338acab.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "28deee94ef7d075f16140f825946ccab5ad8d0acf3ee5be166a2458772296ba1",
+      "bytes": 188289,
+      "kind": "png",
+      "url": "media/28deee94ef7d075f16140f825946ccab5ad8d0acf3ee5be166a2458772296ba1.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "3592507c1ac24fc8c686b1563023749e0080cc37f5eff8644692d3cc6ef0e918",
+      "bytes": 7827722,
+      "kind": "mp4",
+      "url": "media/3592507c1ac24fc8c686b1563023749e0080cc37f5eff8644692d3cc6ef0e918.mp4",
+      "reused_existing": false
+    },
+    {
+      "sha256": "cc5bbad469e14ca4e03f6a9401db39ee361325c70320614f27bfd21b8ed095db",
+      "bytes": 10289261,
+      "kind": "mp4",
+      "url": "media/cc5bbad469e14ca4e03f6a9401db39ee361325c70320614f27bfd21b8ed095db.mp4",
+      "reused_existing": false
+    },
+    {
+      "sha256": "fe2c529b6365522af070010b77eb3278c17f91a6abedd3a6757715081a49858d",
+      "bytes": 7121717,
+      "kind": "mp4",
+      "url": "media/fe2c529b6365522af070010b77eb3278c17f91a6abedd3a6757715081a49858d.mp4",
+      "reused_existing": false
+    },
+    {
+      "sha256": "6e927f020b147a44802c366255a559d77f5bd2e76244d7ead178462cd378f867",
+      "bytes": 89811,
+      "kind": "png",
+      "url": "media/6e927f020b147a44802c366255a559d77f5bd2e76244d7ead178462cd378f867.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "d37bf3a32bc3b05503cd774cf175f0d6d5468c0f51b5c1de938ba50911dfc016",
+      "bytes": 321739,
+      "kind": "png",
+      "url": "media/d37bf3a32bc3b05503cd774cf175f0d6d5468c0f51b5c1de938ba50911dfc016.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "163cd65428f143622bf51399b414f874c1b5b2dab3898197b68bfa28c7bf9678",
+      "bytes": 49668,
+      "kind": "png",
+      "url": "media/163cd65428f143622bf51399b414f874c1b5b2dab3898197b68bfa28c7bf9678.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "3a1053edf1378b12a32ea8b40d3280a5912e3adbc3d5fb99d4b2839bde450d29",
+      "bytes": 158382,
+      "kind": "png",
+      "url": "media/3a1053edf1378b12a32ea8b40d3280a5912e3adbc3d5fb99d4b2839bde450d29.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "028beb64f5ac81c25003a932d39b3dddeaeb44d5e4fec659880fa3124748a8a1",
+      "bytes": 60280,
+      "kind": "png",
+      "url": "media/028beb64f5ac81c25003a932d39b3dddeaeb44d5e4fec659880fa3124748a8a1.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "178ac9a703764b53c659e9e695a28b2a606dddbb336daf37bdfb22730327803c",
+      "bytes": 188345,
+      "kind": "png",
+      "url": "media/178ac9a703764b53c659e9e695a28b2a606dddbb336daf37bdfb22730327803c.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "e0fd1d33e6ec4ca85ba50f28571ae1b5f4ffc40d7d0b15282be70852e65b3bf7",
+      "bytes": 1007772,
+      "kind": "mp4",
+      "url": "media/e0fd1d33e6ec4ca85ba50f28571ae1b5f4ffc40d7d0b15282be70852e65b3bf7.mp4",
+      "reused_existing": false
+    },
+    {
+      "sha256": "9be7c66402361c6bd10d8b1d0a812b86588113846486b517559a7f0a38fe715b",
+      "bytes": 893950,
+      "kind": "mp4",
+      "url": "media/9be7c66402361c6bd10d8b1d0a812b86588113846486b517559a7f0a38fe715b.mp4",
+      "reused_existing": false
+    },
+    {
+      "sha256": "c3f30515511409396cf8db6ce4b0809361ea717c18944e8f0683a56b2ef606a2",
+      "bytes": 1194239,
+      "kind": "mp4",
+      "url": "media/c3f30515511409396cf8db6ce4b0809361ea717c18944e8f0683a56b2ef606a2.mp4",
+      "reused_existing": false
+    },
+    {
+      "sha256": "cb12277d3665e570e8622676b54f6c956ef71b7fea8b4e38b3c7a5dade52bd1e",
+      "bytes": 321696,
+      "kind": "png",
+      "url": "media/cb12277d3665e570e8622676b54f6c956ef71b7fea8b4e38b3c7a5dade52bd1e.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "ac2002ea546ce412fcbcb9d3a19d5e36fd3048e51c7289114fdfd80dde1c9784",
+      "bytes": 158410,
+      "kind": "png",
+      "url": "media/ac2002ea546ce412fcbcb9d3a19d5e36fd3048e51c7289114fdfd80dde1c9784.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "c002ac77c214788b2abf2e0cf15af657c67f25df0e539e2744f474a3fbc25ccb",
+      "bytes": 188400,
+      "kind": "png",
+      "url": "media/c002ac77c214788b2abf2e0cf15af657c67f25df0e539e2744f474a3fbc25ccb.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "81b6df1addd0a4620bfe8b61187afb234b43ebaeadd6d90add31c5e5585914ea",
+      "bytes": 4398385,
+      "kind": "mp4",
+      "url": "media/81b6df1addd0a4620bfe8b61187afb234b43ebaeadd6d90add31c5e5585914ea.mp4",
+      "reused_existing": false
+    },
+    {
+      "sha256": "cf7554dbefa7c4f9dc19bce8b0040ee60c6b39000b18c983560cfeec5f3960ce",
+      "bytes": 5496990,
+      "kind": "mp4",
+      "url": "media/cf7554dbefa7c4f9dc19bce8b0040ee60c6b39000b18c983560cfeec5f3960ce.mp4",
+      "reused_existing": false
+    },
+    {
+      "sha256": "70283f33c864e584e4d7ffc1355bf4bdd5591c5e4b5b6298323cb4ff3b8cc99e",
+      "bytes": 4143319,
+      "kind": "mp4",
+      "url": "media/70283f33c864e584e4d7ffc1355bf4bdd5591c5e4b5b6298323cb4ff3b8cc99e.mp4",
+      "reused_existing": false
+    },
+    {
+      "sha256": "d9eb8722a8626dcc705e7202e22d9cfc27142e56da8a29ee1e828c4fb0a2cfbd",
+      "bytes": 321782,
+      "kind": "png",
+      "url": "media/d9eb8722a8626dcc705e7202e22d9cfc27142e56da8a29ee1e828c4fb0a2cfbd.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "5367b680f9a8473529fc4c4e3db73c3a6732d0d151ba4dc5219d696e9ea3d05a",
+      "bytes": 158247,
+      "kind": "png",
+      "url": "media/5367b680f9a8473529fc4c4e3db73c3a6732d0d151ba4dc5219d696e9ea3d05a.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "1298f21f7b98ef7ff78f28a92c5fd79c181a0132fc503833549d617ba05259af",
+      "bytes": 188071,
+      "kind": "png",
+      "url": "media/1298f21f7b98ef7ff78f28a92c5fd79c181a0132fc503833549d617ba05259af.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "83f0e60091267cdf06b1fe3f6825e1ef1e975a6200fd336d52ff9a0f9b90720f",
+      "bytes": 4280134,
+      "kind": "mp4",
+      "url": "media/83f0e60091267cdf06b1fe3f6825e1ef1e975a6200fd336d52ff9a0f9b90720f.mp4",
+      "reused_existing": false
+    },
+    {
+      "sha256": "18cd58b01ba3b1007e6a027a6d67a0f1183a4510e82da73e2d1fc835dd473625",
+      "bytes": 5454301,
+      "kind": "mp4",
+      "url": "media/18cd58b01ba3b1007e6a027a6d67a0f1183a4510e82da73e2d1fc835dd473625.mp4",
+      "reused_existing": false
+    },
+    {
+      "sha256": "3f0955e8b2aed0bde273dd88d6cb6a073b8d6b03feb477031de2922522843d4d",
+      "bytes": 3976512,
+      "kind": "mp4",
+      "url": "media/3f0955e8b2aed0bde273dd88d6cb6a073b8d6b03feb477031de2922522843d4d.mp4",
+      "reused_existing": false
+    },
+    {
+      "sha256": "a9b18ba9b10525344f63195e52ec7f8d243a641e470873c24a0fe45f2ea9bf0f",
+      "bytes": 321720,
+      "kind": "png",
+      "url": "media/a9b18ba9b10525344f63195e52ec7f8d243a641e470873c24a0fe45f2ea9bf0f.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "d54304d09d44e3d5970e9a7522f01c63f5382b681fdfefcb4955898813bd8b4b",
+      "bytes": 158544,
+      "kind": "png",
+      "url": "media/d54304d09d44e3d5970e9a7522f01c63f5382b681fdfefcb4955898813bd8b4b.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "08ef05111f7d4da4db60aa0d9b59b7d925682cdc540e0de81aa0602fb411aa6b",
+      "bytes": 188292,
+      "kind": "png",
+      "url": "media/08ef05111f7d4da4db60aa0d9b59b7d925682cdc540e0de81aa0602fb411aa6b.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "379ce0e58434d866ae9786b20ddfc84f50a33a578fdee1182d379e1b6b933480",
+      "bytes": 4263749,
+      "kind": "mp4",
+      "url": "media/379ce0e58434d866ae9786b20ddfc84f50a33a578fdee1182d379e1b6b933480.mp4",
+      "reused_existing": false
+    },
+    {
+      "sha256": "b94e15b7f8366045f7f9ee2a700a5f205e78c86cd7cda1b25158a88a15a1aa3d",
+      "bytes": 5139658,
+      "kind": "mp4",
+      "url": "media/b94e15b7f8366045f7f9ee2a700a5f205e78c86cd7cda1b25158a88a15a1aa3d.mp4",
+      "reused_existing": false
+    },
+    {
+      "sha256": "c6f04966adea44dc00984c16b52e278c063aa0d86d7176310b8fd12bb0dd4c35",
+      "bytes": 3898994,
+      "kind": "mp4",
+      "url": "media/c6f04966adea44dc00984c16b52e278c063aa0d86d7176310b8fd12bb0dd4c35.mp4",
+      "reused_existing": false
+    },
+    {
+      "sha256": "595159b8b68291de17f14bea7c9a34d3553b16d2b06d0cde8a4fae172f471bd5",
+      "bytes": 158417,
+      "kind": "png",
+      "url": "media/595159b8b68291de17f14bea7c9a34d3553b16d2b06d0cde8a4fae172f471bd5.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "908c2db7255b3bc7856677a9f8befcbf57b79461b30a3f2b52ac82016255d042",
+      "bytes": 187936,
+      "kind": "png",
+      "url": "media/908c2db7255b3bc7856677a9f8befcbf57b79461b30a3f2b52ac82016255d042.png",
+      "reused_existing": false
+    },
+    {
+      "sha256": "6962d03941ca05fe0f78c12fffc992314e52478c070faf43fe745beb856cf206",
+      "bytes": 4253280,
+      "kind": "mp4",
+      "url": "media/6962d03941ca05fe0f78c12fffc992314e52478c070faf43fe745beb856cf206.mp4",
+      "reused_existing": false
+    },
+    {
+      "sha256": "9306aacfb294e47627e4ac0b23683e16d70eb45a184739d002b82f54c559a8cd",
+      "bytes": 5044055,
+      "kind": "mp4",
+      "url": "media/9306aacfb294e47627e4ac0b23683e16d70eb45a184739d002b82f54c559a8cd.mp4",
+      "reused_existing": false
+    },
+    {
+      "sha256": "b8d8065202fcb31988f4a02489b5426a3806e47fd336380f5050c332658fce4d",
+      "bytes": 4006024,
+      "kind": "mp4",
+      "url": "media/b8d8065202fcb31988f4a02489b5426a3806e47fd336380f5050c332658fce4d.mp4",
+      "reused_existing": false
+    }
+  ]
+}

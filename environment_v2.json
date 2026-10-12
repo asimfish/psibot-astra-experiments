@@ -1,0 +1,1748 @@
+{
+  "schema": "safelab.astra.private_report_execution_environments.v1",
+  "frontier_sha256": "05955fcc78bcb179fc3b0f14d5cac8a7cbb93b3e7abe221db30e5b32f912794a",
+  "environments": {
+    "v5-fr3_place-11000-minus_C": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "bf10feb429febb547e6394201b40c28b103a43ecf2a8de61414485d2e0af199b",
+      "observed_unix_s": 1791736361.6770282,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11000-minus_F": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "fd16071ad34b5516ae7884e36a92fc5932cac686630f2e27b7ad2c373f55dbdf",
+      "observed_unix_s": 1791734727.4896657,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11000-minus_H": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "7ca2df72a3127c2fa8cdf0c4598fac662b04a32a4a02d113f67f45716356b7bf",
+      "observed_unix_s": 1791735957.13503,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11000-minus_J": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "c5249aadb27f85c4c35bf669024c12e43579b5d66521b2484ae6e5d442bbc140",
+      "observed_unix_s": 1791733695.860018,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11000-minus_K": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "fdf32cbee928acbb1be1e588164a5af55cb59947da532d51f16928d7f27f8fef",
+      "observed_unix_s": 1791732760.4681735,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11000-minus_M": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "7bcbdeabcff55176090c7c31c435535ed2602d29e145aa2472f608de7fbc7cb3",
+      "observed_unix_s": 1791732484.918804,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11000-minus_S": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "688011fb3c447b6c16602ced86473b0800e230f6e960f35f6e291d50dc355d6b",
+      "observed_unix_s": 1791730503.7041638,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11000-minus_chest": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "e85cb7fe68406a9a6dcb6c39e1dc85f8d04fd93d3226d68f6b2dc02dbe16cf7f",
+      "observed_unix_s": 1791731950.7824225,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11000-minus_head": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "30cdddba2cc78a913ab658355663d2d084b90b1237c83e72a6ee53f65d1ebe01",
+      "observed_unix_s": 1791731420.07944,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11000-minus_third": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "805d83b184f2d2e5ff97638ef26575e62b00e380e28e4f5818d77e5683cee289",
+      "observed_unix_s": 1791733979.7367759,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11000-minus_wrist": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "72fbe8366fcc5cd7740efb84f27a11f657fecfd035120b1fa4f2507adda7808e",
+      "observed_unix_s": 1791735118.839681,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11000-rgb_half_resolution": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "1914d9c46848ce9e0f0b4415666ef24e6d4bd7f99f98a1e7e4b70a12c4bb3789",
+      "observed_unix_s": 1791735518.4214113,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11000-rich": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "e0959e2ca71645e654eb5400f76419ce88b9e8fb5aac4875d387907b81078951",
+      "observed_unix_s": 1791734506.4046896,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11001-minus_C": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "b7f5e6506108f62b8606ed03f46360f51ffb44d8e3e2f13555f453fcb33cf80d",
+      "observed_unix_s": 1791737282.7984576,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11001-minus_F": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "cd579404f8fafb27ed35bddedecdd917f98f08251f2ea67780f3c97d0e152e7c",
+      "observed_unix_s": 1791737881.019385,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11001-minus_H": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "be6de2d71826f372b7d74f4fb6e7acdeeb21000f8a4eaad31b1bfa50db155c17",
+      "observed_unix_s": 1791778007.1825514,
+      "hostname": "job-1gcptjddyphk-master-0",
+      "admission_gpu_uuid": "GPU-201b2358-824d-4208-0694-a092be642c1a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v14"
+      ],
+      "source_freeze_sha256": "bbd17b95745cf68317d86b765d29b37790ce23b2e37b85d9872ee2cc031a4535",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11001-minus_J": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "24dac0e193dd1e1f8f7bd468f9d8ceeca4dba650cdb6b6de18153343b9ce1ced",
+      "observed_unix_s": 1791776902.3884952,
+      "hostname": "job-1gcptjddyphk-master-0",
+      "admission_gpu_uuid": "GPU-201b2358-824d-4208-0694-a092be642c1a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v14"
+      ],
+      "source_freeze_sha256": "bbd17b95745cf68317d86b765d29b37790ce23b2e37b85d9872ee2cc031a4535",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11001-minus_K": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "6fcad088bf35a1bea83e57f4a67be804376ca640a25facb48a222574073e49e3",
+      "observed_unix_s": 1791777574.8353014,
+      "hostname": "job-1gcptjddyphk-master-0",
+      "admission_gpu_uuid": "GPU-201b2358-824d-4208-0694-a092be642c1a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v14"
+      ],
+      "source_freeze_sha256": "bbd17b95745cf68317d86b765d29b37790ce23b2e37b85d9872ee2cc031a4535",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11001-minus_M": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "7b583c5f8c71e7d26df292a50a7bc6738dd628a4fa1ca3c7d7ef6d2303b8434f",
+      "observed_unix_s": 1791736804.0412207,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11001-minus_S": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "e6f6ed0eee5a6832e7ecccd74ee24eac37e7465ed1b5337d68a97af74349e40b",
+      "observed_unix_s": 1791738253.5557892,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11001-minus_chest": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "e166fb298741fdb31eb21b9d8c6eb933699f85899106360dc04948de32c18485",
+      "observed_unix_s": 1791739309.0208178,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11001-minus_head": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "f32b1f6ff1c4e1264e692002ccda208f07ceed430735087915480ef8d3ff5076",
+      "observed_unix_s": 1791777167.3068867,
+      "hostname": "job-1gcptjddyphk-master-0",
+      "admission_gpu_uuid": "GPU-201b2358-824d-4208-0694-a092be642c1a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v14"
+      ],
+      "source_freeze_sha256": "bbd17b95745cf68317d86b765d29b37790ce23b2e37b85d9872ee2cc031a4535",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11001-minus_third": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "a7a973f8b31595b766ab99f4b4b72682bf42ce64ac63ec1fe1c5db78a1130ced",
+      "observed_unix_s": 1791778443.6384938,
+      "hostname": "job-1gcptjddyphk-master-0",
+      "admission_gpu_uuid": "GPU-201b2358-824d-4208-0694-a092be642c1a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v14"
+      ],
+      "source_freeze_sha256": "bbd17b95745cf68317d86b765d29b37790ce23b2e37b85d9872ee2cc031a4535",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11001-minus_wrist": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "bc5ac6df48acb0008bc924138c499cad76e1758b5866f2fd35dd3e629145d282",
+      "observed_unix_s": 1791778802.2076561,
+      "hostname": "job-1gcptjddyphk-master-0",
+      "admission_gpu_uuid": "GPU-201b2358-824d-4208-0694-a092be642c1a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v14"
+      ],
+      "source_freeze_sha256": "bbd17b95745cf68317d86b765d29b37790ce23b2e37b85d9872ee2cc031a4535",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11001-rgb_half_resolution": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "6293fa0ed091ba23215c6ea5ca746e87aaeb676377c4f4353704c6c52f62cd83",
+      "observed_unix_s": 1791738891.382593,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11001-rich": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "7c5ada93a36a0ae9f21597bcd350aa3e1a0e4b5b7447fe2bda2fc300659691c8",
+      "observed_unix_s": 1791739079.435008,
+      "hostname": "job-j3dqchcky9nx-master-0",
+      "admission_gpu_uuid": "GPU-d7780bd8-88b4-5ba5-33e8-5c23d358558a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v8"
+      ],
+      "source_freeze_sha256": "3ba137b6e72fb6d224891967501985a55bfb86acd9d9a2a2822370d62aae4c21",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11002-minus_F": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "e36d6c9bc3aa74b792f9f1ada1f82d5cb154cd2713e32c55a389c2d5f0d77fe6",
+      "observed_unix_s": 1791792444.7094858,
+      "hostname": "job-mi67n5owe70c-master-0",
+      "admission_gpu_uuid": "GPU-f48fab7f-4fca-5e28-8917-635985d75cb3",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v24"
+      ],
+      "source_freeze_sha256": "de315cc5a86bbd38edb5bd6c8de99aeea4b59ecc6f959ef38caf52481b02a24d",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11002-minus_J": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "ac4ad1a8468dd0ebba3b4aa7ef99869d443c8a7b8bc46c6a2f942cd13e021907",
+      "observed_unix_s": 1791780423.3620205,
+      "hostname": "job-1gcptjddyphk-master-0",
+      "admission_gpu_uuid": "GPU-201b2358-824d-4208-0694-a092be642c1a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v14"
+      ],
+      "source_freeze_sha256": "bbd17b95745cf68317d86b765d29b37790ce23b2e37b85d9872ee2cc031a4535",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11002-minus_M": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "9a3bad5b5a07da12e79bd94112bedd564514b483cff08045c37445ae4b846a1b",
+      "observed_unix_s": 1791779204.0412042,
+      "hostname": "job-1gcptjddyphk-master-0",
+      "admission_gpu_uuid": "GPU-201b2358-824d-4208-0694-a092be642c1a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v14"
+      ],
+      "source_freeze_sha256": "bbd17b95745cf68317d86b765d29b37790ce23b2e37b85d9872ee2cc031a4535",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11002-minus_S": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "864701fbb6148608d0612d3972cc612a87b68b281530e0550154373a2b2418f5",
+      "observed_unix_s": 1791780618.8146563,
+      "hostname": "job-1gcptjddyphk-master-0",
+      "admission_gpu_uuid": "GPU-201b2358-824d-4208-0694-a092be642c1a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v14"
+      ],
+      "source_freeze_sha256": "bbd17b95745cf68317d86b765d29b37790ce23b2e37b85d9872ee2cc031a4535",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11002-minus_chest": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "af1adb3bd6665dbc90227b1f4f4772bc378d02b9f1d5c1d38367aaed9eafeaa2",
+      "observed_unix_s": 1791792943.0820086,
+      "hostname": "job-mi67n5owe70c-master-0",
+      "admission_gpu_uuid": "GPU-f48fab7f-4fca-5e28-8917-635985d75cb3",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v24"
+      ],
+      "source_freeze_sha256": "de315cc5a86bbd38edb5bd6c8de99aeea4b59ecc6f959ef38caf52481b02a24d",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11002-minus_head": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "c36b3ce4f5eaac11bba93a6f6d93eebcf2d23e9dd5c0a5d4a67aadde672e22c6",
+      "observed_unix_s": 1791779795.968294,
+      "hostname": "job-1gcptjddyphk-master-0",
+      "admission_gpu_uuid": "GPU-201b2358-824d-4208-0694-a092be642c1a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v14"
+      ],
+      "source_freeze_sha256": "bbd17b95745cf68317d86b765d29b37790ce23b2e37b85d9872ee2cc031a4535",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11002-minus_third": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "d6460db7dc5e74215ed2fe5fd1565f9f924fecf40c8ff5da486f7d40c4e4d5c6",
+      "observed_unix_s": 1791779593.7600865,
+      "hostname": "job-1gcptjddyphk-master-0",
+      "admission_gpu_uuid": "GPU-201b2358-824d-4208-0694-a092be642c1a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v14"
+      ],
+      "source_freeze_sha256": "bbd17b95745cf68317d86b765d29b37790ce23b2e37b85d9872ee2cc031a4535",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11002-minus_wrist": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "28a25f50b2c3964ace1a65e206ed70a466829ed98bbf7fd43cf72a22c14fc18c",
+      "observed_unix_s": 1791780023.5104196,
+      "hostname": "job-1gcptjddyphk-master-0",
+      "admission_gpu_uuid": "GPU-201b2358-824d-4208-0694-a092be642c1a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v14"
+      ],
+      "source_freeze_sha256": "bbd17b95745cf68317d86b765d29b37790ce23b2e37b85d9872ee2cc031a4535",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11002-rgb_half_resolution": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "d9d29149dc99f6415d83c713adca62724899d5cfc9676a1f1ba6290e45b67439",
+      "observed_unix_s": 1791780222.457598,
+      "hostname": "job-1gcptjddyphk-master-0",
+      "admission_gpu_uuid": "GPU-201b2358-824d-4208-0694-a092be642c1a",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v14"
+      ],
+      "source_freeze_sha256": "bbd17b95745cf68317d86b765d29b37790ce23b2e37b85d9872ee2cc031a4535",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-fr3_place-11002-rich-attempt2": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "9e588b8e3ccb4995d8d1964b1be2d6a8789181e4a0aeb6070f0c7e019c2f4553",
+      "observed_unix_s": 1791792134.587958,
+      "hostname": "job-mi67n5owe70c-master-0",
+      "admission_gpu_uuid": "GPU-f48fab7f-4fca-5e28-8917-635985d75cb3",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v24"
+      ],
+      "source_freeze_sha256": "de315cc5a86bbd38edb5bd6c8de99aeea4b59ecc6f959ef38caf52481b02a24d",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-psi_grasp-11000-minus_H": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "0e1da994c6ae32955ced30d8ca9bb940084cddbcbda9ebaf6817d0d62d4ce53d",
+      "observed_unix_s": 1791733148.8687112,
+      "hostname": "job-ctdayqxfe8b7-master-0",
+      "admission_gpu_uuid": "GPU-dd7db782-76cc-cd24-fe08-1ffff540f497",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v9"
+      ],
+      "source_freeze_sha256": "b5a270a53340514065b33be99f5250a086f44bce8c5df1b73fd788fcaa17a4e5",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-psi_grasp-11000-minus_J": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "4f4153781ccef6b67f7f6b6294ad9e9c2bcbe1e23447772fc70778ba067fd2af",
+      "observed_unix_s": 1791731297.1057124,
+      "hostname": "job-ctdayqxfe8b7-master-0",
+      "admission_gpu_uuid": "GPU-dd7db782-76cc-cd24-fe08-1ffff540f497",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v9"
+      ],
+      "source_freeze_sha256": "b5a270a53340514065b33be99f5250a086f44bce8c5df1b73fd788fcaa17a4e5",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-psi_grasp-11000-minus_chest-attempt4": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "609946183aa359c252fa35e20d2303e124dc322bddaf00599bca516214c41d3e",
+      "observed_unix_s": 1791790954.3980024,
+      "hostname": "job-dkbiyoz5c9ee-master-0",
+      "admission_gpu_uuid": "GPU-64c9cb36-102b-1e23-0999-8394b54316f7",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v23"
+      ],
+      "source_freeze_sha256": "830416cdf5501ac7c61ba8e580c12e77c858d674aa23565c4e0ea8c309143e6d",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-psi_grasp-11000-minus_head": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "8f352e918a55f6c98c533494271c9631dca786525984fc63648b5f3370c4af54",
+      "observed_unix_s": 1791730501.7507575,
+      "hostname": "job-ctdayqxfe8b7-master-0",
+      "admission_gpu_uuid": "GPU-dd7db782-76cc-cd24-fe08-1ffff540f497",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v9"
+      ],
+      "source_freeze_sha256": "b5a270a53340514065b33be99f5250a086f44bce8c5df1b73fd788fcaa17a4e5",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-psi_grasp-11000-minus_wrist": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "a0d1657dfbd10417dd00615154a7eed2c8f0e2ee99ffe5445433832ee0287bd2",
+      "observed_unix_s": 1791732346.4454362,
+      "hostname": "job-ctdayqxfe8b7-master-0",
+      "admission_gpu_uuid": "GPU-dd7db782-76cc-cd24-fe08-1ffff540f497",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v9"
+      ],
+      "source_freeze_sha256": "b5a270a53340514065b33be99f5250a086f44bce8c5df1b73fd788fcaa17a4e5",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-psi_grasp-11000-rgb_half_resolution": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "866bd37ea98f99be71088f91e86499ef8eab4d1fe916644872d326d823158fc9",
+      "observed_unix_s": 1791734508.354429,
+      "hostname": "job-ctdayqxfe8b7-master-0",
+      "admission_gpu_uuid": "GPU-dd7db782-76cc-cd24-fe08-1ffff540f497",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v9"
+      ],
+      "source_freeze_sha256": "b5a270a53340514065b33be99f5250a086f44bce8c5df1b73fd788fcaa17a4e5",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "d9268aaae863613b70a125bc1ee40d0b988010c7b6cb815864d936d9445ae320",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-psi_pick_place_100ml-11000-minus_C": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "63dfccecfe34bcfdda2a3cfca2ddc9d122429b16a21f40cc2783316187d5ada4",
+      "observed_unix_s": 1791779264.860122,
+      "hostname": "job-mpb9vsrnec5a-master-0",
+      "admission_gpu_uuid": "GPU-3193c1e1-5726-695c-3d13-5a12acbd0679",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v18"
+      ],
+      "source_freeze_sha256": "c624d7b360c70d3482434c9d802a87f9624fa40b5ea2e3d0fdafa386fe184c86",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "f660adfc8738f20fcccf288598726e0bceaeab5cee80ef7a9fefd92cd65c6e69",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-psi_pick_place_100ml-11000-minus_F-attempt2": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "c7d29a232a6ef1630cc3bdcba6567604acdf6860eefd9e825187493b403f665e",
+      "observed_unix_s": 1791790930.4213352,
+      "hostname": "job-b4krkpm3tm4e-master-0",
+      "admission_gpu_uuid": "GPU-5498d4c8-8332-fb52-5a95-e9b983c1aad7",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v22"
+      ],
+      "source_freeze_sha256": "3ac3273e442c7e89ab1dd284c6183474af53a7409c5b31384eb1cfe701b6f7b4",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "f660adfc8738f20fcccf288598726e0bceaeab5cee80ef7a9fefd92cd65c6e69",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-psi_pick_place_100ml-11000-minus_chest-attempt2": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "668f9050aa1a46908c66fbd2ced40a7390c64b7cbf31539eaae9319274d147b7",
+      "observed_unix_s": 1791793738.6980724,
+      "hostname": "job-yszdvukqukww-master-0",
+      "admission_gpu_uuid": "GPU-f48fab7f-4fca-5e28-8917-635985d75cb3",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v25"
+      ],
+      "source_freeze_sha256": "324be40e014250f527dbd709a3bbbd512b8fd80394771576e870b2794ab53bf1",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "f660adfc8738f20fcccf288598726e0bceaeab5cee80ef7a9fefd92cd65c6e69",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-psi_roundtrip_100ml-11000-minus_K": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "8906d1609392cd730d2085495f65becda3f178027b064bce8ae9367a51000efe",
+      "observed_unix_s": 1791800284.005901,
+      "hostname": "job-6rzny2n6d59f-master-0",
+      "admission_gpu_uuid": "GPU-8e520a64-0b18-e7b1-1130-940b9b7e0861",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v27"
+      ],
+      "source_freeze_sha256": "a9fd96e98f12570575b80d599e9f98c75ef91a15a1b58c42e24300c365fb04ff",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "f660adfc8738f20fcccf288598726e0bceaeab5cee80ef7a9fefd92cd65c6e69",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-psi_roundtrip_100ml-11000-minus_S": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "d21113637fa3c83f22adbdf4c8c00a27b8543c1610ea2c057d8848dc25e2028b",
+      "observed_unix_s": 1791801055.5590746,
+      "hostname": "job-6rzny2n6d59f-master-0",
+      "admission_gpu_uuid": "GPU-8e520a64-0b18-e7b1-1130-940b9b7e0861",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v27"
+      ],
+      "source_freeze_sha256": "a9fd96e98f12570575b80d599e9f98c75ef91a15a1b58c42e24300c365fb04ff",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "f660adfc8738f20fcccf288598726e0bceaeab5cee80ef7a9fefd92cd65c6e69",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-psi_roundtrip_100ml-11000-minus_H": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "3ed8aaab053c321adbaea987e536cc6f47e3b6c0207d944b6acc9a0248bb9b8a",
+      "observed_unix_s": 1791803340.3699691,
+      "hostname": "job-6rzny2n6d59f-master-0",
+      "admission_gpu_uuid": "GPU-8e520a64-0b18-e7b1-1130-940b9b7e0861",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v27"
+      ],
+      "source_freeze_sha256": "a9fd96e98f12570575b80d599e9f98c75ef91a15a1b58c42e24300c365fb04ff",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "f660adfc8738f20fcccf288598726e0bceaeab5cee80ef7a9fefd92cd65c6e69",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-psi_roundtrip_100ml-11000-rgb_half_resolution": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "e1f2def818f79ba7d226f313dad7e6633aa030aca95ebc8e0938db809780ba3e",
+      "observed_unix_s": 1791805775.3042238,
+      "hostname": "job-6rzny2n6d59f-master-0",
+      "admission_gpu_uuid": "GPU-8e520a64-0b18-e7b1-1130-940b9b7e0861",
+      "cuda_uuid": null,
+      "renderer_index": null,
+      "runtime_package": [
+        "native_package_v27"
+      ],
+      "source_freeze_sha256": "a9fd96e98f12570575b80d599e9f98c75ef91a15a1b58c42e24300c365fb04ff",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "f660adfc8738f20fcccf288598726e0bceaeab5cee80ef7a9fefd92cd65c6e69",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-psi_pick_place_100ml-11000-rich": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "45b14e49e5644c3889223c697a3b94efba165dd7cd5a587fd95719b6d3ad4946",
+      "observed_unix_s": 1791821799.2983892,
+      "hostname": "aibox-r4712892f123-78cc999995-wvswm",
+      "admission_gpu_uuid": "GPU-576606c2-ee31-3c5e-a6c9-241e8bd40829",
+      "cuda_uuid": "GPU-44537068-2ca6-d920-7b4f-d3b191dd0b48",
+      "renderer_index": 1,
+      "runtime_package": [
+        "native_package_v30"
+      ],
+      "source_freeze_sha256": "5308b8319f0292978dd0542e8fd622e7fb0d104a1d168ab1b41fc49042e58c7b",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "f660adfc8738f20fcccf288598726e0bceaeab5cee80ef7a9fefd92cd65c6e69",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-psi_pick_place_100ml-11000-minus_J": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "a02cbcde7cd22bf0c118d9ef326791b5adb2a5cfcda896a0c2e0326f6e437e4a",
+      "observed_unix_s": 1791823994.7888696,
+      "hostname": "aibox-r4712892f123-78cc999995-wvswm",
+      "admission_gpu_uuid": "GPU-576606c2-ee31-3c5e-a6c9-241e8bd40829",
+      "cuda_uuid": "GPU-44537068-2ca6-d920-7b4f-d3b191dd0b48",
+      "renderer_index": 1,
+      "runtime_package": [
+        "native_package_v30"
+      ],
+      "source_freeze_sha256": "5308b8319f0292978dd0542e8fd622e7fb0d104a1d168ab1b41fc49042e58c7b",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "f660adfc8738f20fcccf288598726e0bceaeab5cee80ef7a9fefd92cd65c6e69",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-psi_pick_place_100ml-11000-minus_H": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "fefb7856ab4371852a45c75cb8a7df570be87b734d53528717430e26bf26abb3",
+      "observed_unix_s": 1791826099.5072103,
+      "hostname": "aibox-r4712892f123-78cc999995-wvswm",
+      "admission_gpu_uuid": "GPU-576606c2-ee31-3c5e-a6c9-241e8bd40829",
+      "cuda_uuid": "GPU-44537068-2ca6-d920-7b4f-d3b191dd0b48",
+      "renderer_index": 1,
+      "runtime_package": [
+        "native_package_v30"
+      ],
+      "source_freeze_sha256": "5308b8319f0292978dd0542e8fd622e7fb0d104a1d168ab1b41fc49042e58c7b",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "f660adfc8738f20fcccf288598726e0bceaeab5cee80ef7a9fefd92cd65c6e69",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    },
+    "v5-psi_pick_place_100ml-11000-minus_head": {
+      "source": "actual_native_SOURCE_IDENTITY.initial_resource",
+      "source_identity_sha256": "780c87344a15186018de21f46e79cc8f7c1b408586a047a9b6363886498aca4c",
+      "observed_unix_s": 1791827727.260422,
+      "hostname": "aibox-r4712892f123-78cc999995-wvswm",
+      "admission_gpu_uuid": "GPU-576606c2-ee31-3c5e-a6c9-241e8bd40829",
+      "cuda_uuid": "GPU-44537068-2ca6-d920-7b4f-d3b191dd0b48",
+      "renderer_index": 1,
+      "runtime_package": [
+        "native_package_v30"
+      ],
+      "source_freeze_sha256": "5308b8319f0292978dd0542e8fd622e7fb0d104a1d168ab1b41fc49042e58c7b",
+      "runtime_build_version": null,
+      "runtime_version_scope": "exact package/source freeze recorded; simulation build and session key not logged here",
+      "native_source_sha256": {
+        "native_entry.py": "f660adfc8738f20fcccf288598726e0bceaeab5cee80ef7a9fefd92cd65c6e69",
+        "native_recording.py": "a0fb7c976f98df77a6c48ef1f185c46998c1650f88e671109152b83c3e1d0ba2",
+        "pickplace_evaluator.py": "a287b9838ff42ee8d2a000691cb55206cf9394c564391122d32de2efef602d8b",
+        "input_policy.py": "8c0d1ddde854b2ae93daabec96afc88b5ab2e2d92a2bf00e4f6f61e36e5a0d70",
+        "native_trial.py": "6d036e3da33fdf866224c890c531fe6de8784543229b4cf7534e73c1a463e363",
+        "hand_contract.py": "777151c2459e90356bd34460797feab3aca0e82ad433081c2383b1a43a141af0",
+        "roundtrip_evaluator.py": "da47261149b7fd24107e48a496356460353cc44dcabd3e6ca1b598afd5e60e58"
+      },
+      "gpu_snapshot_scope": "original pretrial snapshot, not a present resource observation"
+    }
+  },
+  "comparisons": [
+    {
+      "task": "fr3_place",
+      "condition": "minus_S",
+      "same_seed_initial_pairs": 3,
+      "strict_environment_equal_pairs": 2,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "fr3_place",
+      "condition": "minus_J",
+      "same_seed_initial_pairs": 3,
+      "strict_environment_equal_pairs": 1,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "fr3_place",
+      "condition": "minus_K",
+      "same_seed_initial_pairs": 2,
+      "strict_environment_equal_pairs": 1,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "fr3_place",
+      "condition": "minus_F",
+      "same_seed_initial_pairs": 3,
+      "strict_environment_equal_pairs": 3,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "fr3_place",
+      "condition": "minus_H",
+      "same_seed_initial_pairs": 2,
+      "strict_environment_equal_pairs": 1,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "fr3_place",
+      "condition": "minus_M",
+      "same_seed_initial_pairs": 3,
+      "strict_environment_equal_pairs": 2,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "fr3_place",
+      "condition": "minus_C",
+      "same_seed_initial_pairs": 2,
+      "strict_environment_equal_pairs": 2,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "fr3_place",
+      "condition": "minus_head",
+      "same_seed_initial_pairs": 3,
+      "strict_environment_equal_pairs": 1,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "fr3_place",
+      "condition": "minus_chest",
+      "same_seed_initial_pairs": 3,
+      "strict_environment_equal_pairs": 3,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "fr3_place",
+      "condition": "minus_third",
+      "same_seed_initial_pairs": 3,
+      "strict_environment_equal_pairs": 1,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "fr3_place",
+      "condition": "minus_wrist",
+      "same_seed_initial_pairs": 3,
+      "strict_environment_equal_pairs": 1,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "fr3_place",
+      "condition": "rgb_half_resolution",
+      "same_seed_initial_pairs": 3,
+      "strict_environment_equal_pairs": 2,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_grasp",
+      "condition": "minus_S",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_grasp",
+      "condition": "minus_J",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_grasp",
+      "condition": "minus_K",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_grasp",
+      "condition": "minus_F",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_grasp",
+      "condition": "minus_H",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_grasp",
+      "condition": "minus_M",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_grasp",
+      "condition": "minus_C",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_grasp",
+      "condition": "minus_head",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_grasp",
+      "condition": "minus_chest",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_grasp",
+      "condition": "minus_third",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_grasp",
+      "condition": "minus_wrist",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_grasp",
+      "condition": "rgb_half_resolution",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_pick_place_100ml",
+      "condition": "minus_S",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_pick_place_100ml",
+      "condition": "minus_J",
+      "same_seed_initial_pairs": 1,
+      "strict_environment_equal_pairs": 1,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_pick_place_100ml",
+      "condition": "minus_K",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_pick_place_100ml",
+      "condition": "minus_F",
+      "same_seed_initial_pairs": 1,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_pick_place_100ml",
+      "condition": "minus_H",
+      "same_seed_initial_pairs": 1,
+      "strict_environment_equal_pairs": 1,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_pick_place_100ml",
+      "condition": "minus_M",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_pick_place_100ml",
+      "condition": "minus_C",
+      "same_seed_initial_pairs": 1,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_pick_place_100ml",
+      "condition": "minus_head",
+      "same_seed_initial_pairs": 1,
+      "strict_environment_equal_pairs": 1,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_pick_place_100ml",
+      "condition": "minus_chest",
+      "same_seed_initial_pairs": 1,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_pick_place_100ml",
+      "condition": "minus_third",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_pick_place_100ml",
+      "condition": "rgb_half_resolution",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_roundtrip_100ml",
+      "condition": "minus_S",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_roundtrip_100ml",
+      "condition": "minus_J",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_roundtrip_100ml",
+      "condition": "minus_K",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_roundtrip_100ml",
+      "condition": "minus_F",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_roundtrip_100ml",
+      "condition": "minus_H",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_roundtrip_100ml",
+      "condition": "minus_M",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_roundtrip_100ml",
+      "condition": "minus_C",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_roundtrip_100ml",
+      "condition": "minus_head",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_roundtrip_100ml",
+      "condition": "minus_chest",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_roundtrip_100ml",
+      "condition": "minus_third",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    },
+    {
+      "task": "psi_roundtrip_100ml",
+      "condition": "rgb_half_resolution",
+      "same_seed_initial_pairs": 0,
+      "strict_environment_equal_pairs": 0,
+      "environment_comparability": "not_attested",
+      "causal_input_effect": null,
+      "note": "Differing freezes require explicit compatibility review, not automatic causal comparison."
+    }
+  ],
+  "latency_comparison_limit": "历史样本来自不同主机/GPU或冻结版本；这里只描述各原件的耗时。输入效应需要至少20匹配seed且环境/版本可比已核，当前全部因果效应为空。"
+}
