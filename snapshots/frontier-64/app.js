@@ -14,7 +14,13 @@ function cameraCard(c,image,video,trial){
 }
 function registeredScope(c){
  if(c.registered_metric==='two_phase_A_B_withdraw_with_geometric_safety')return `<p class="metric-scope"><strong>完整两阶段与几何安全评分：</strong>${c.completed_phases}/2 阶段；最大倾角 ${c.max_tilt_deg_entire_episode.toFixed(3)}°。评分同时核验位置、支撑、稳定保持与手撤离；单次结果不解释输入因果。</p>`;
- if(c.registered_metric!=='final_one_second_stable_hold')return c.registered_metric==='four_phase_A_B_withdraw_A_with_geometric_safety'?`<p class="metric-scope"><strong>完整四阶段与几何安全评分：</strong>${c.completed_phases}/4 阶段；最大倾角 ${c.max_tilt_deg_entire_episode.toFixed(3)}°。倾角 ${c.max_tilt_deg_entire_episode.toFixed(3)}° 超过 15° 时已停止；本条完整往返未完成。</p>`:'';
+ if(c.registered_metric==='four_phase_A_B_withdraw_A_with_geometric_safety'||c.task==='psi_roundtrip_100ml'){
+  const tilt=c.max_tilt_deg_entire_episode,hasTilt=typeof tilt==='number'&&Number.isFinite(tilt);
+  const completed=c.physical_success===true&&c.completed_phases===4;
+  const tiltStop=hasTilt&&tilt>15&&c.stop_reason==='geometric_hard_abort';
+  return `<p class="metric-scope"><strong>完整四阶段与几何安全评分：</strong>${c.completed_phases}/4 阶段；最大倾角 ${hasTilt?tilt.toFixed(3)+'°':'未单独记录'}。${tiltStop?'实际倾角超过 15°，已按几何安全门停止。':''}${completed?'本条完整往返评分通过。':'本条完整往返未完成。'}</p>`;
+ }
+ if(c.registered_metric!=='final_one_second_stable_hold')return '';
  const whole=c.continuously_upright_at_most_15deg;
  return `<aside class="metric-scope ${whole===false?'metric-warning':''}"><strong>评分与指令分别记录：</strong>末1秒稳定抓持 ${c.physical_success?'通过':'未通过'}；全程倾角 ≤15° ${whole===true?'通过':whole===false?'未通过':'未单独核验'}。全程最大倾角 ${c.max_tilt_deg_entire_episode.toFixed(2)}°，末1秒最大 ${c.final_hold_max_tilt_deg.toFixed(2)}°。${whole===false?'本次发生翻倒与重抓，最后恢复直立不能写成全程保持直立；不能在 n<20 时归因于删除 C。':'最终评分不等同于仅凭单张图证明完整1秒稳定。'}</aside>`;
 }

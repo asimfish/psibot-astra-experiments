@@ -54,13 +54,16 @@ Existing report repo snapshots/frontier-64 and verification/report64 only; compa
 4. Freeze candidate manifest and root release review contract, then deliver.
 
 ## Stage Log
+- 2026-10-13 18:03:24 Roundtrip scope fixed without scientific data changes. Actual Chrome focused9 checks and two desktop outcomes verified;22 unchanged public files SHA; original37/31 tests preserved. Successor commit gate next, no remote action.
+- 2026-10-13 17:57:32 Root requested one four-phase result-label fix with two exact real-case browser checks; preserving ac657, scientific data, assets and old tests. Publication remains withheld for successor review.
+- 2026-10-13 continuation: Root review found the four-phase reader always claimed an incomplete tilt stop, including a successful 4/4 trial. Root explicitly assigned a narrow app.js rendering correction and new actual successful minus_H / failed minus_head browser checks. Existing commit ac657aa, all source/data/media, and 37/31-check evidence remain immutable history. Scope now also includes a successor candidate commit/handoff; normal publication remains conditional on root's exact successor release review. No experiment or scientific data changes.
 - 2026-10-13: Sources checked and64/697 report prepared with18 raw media copies, no decode/reencode/model/native.
 - 2026-10-13: Static37 checks pass; Chrome31 checks pass with11 bounded plays across9 unique originals and7screenshots. Owned browsers reaped.
 - 2026-10-13: Frozen manifest b7bd963e and root contract fa3ff23b ready. Public release is withheld.
 
 ## Completion Record
-- Summary: Additive64formal/697reply report candidate and separate30/98 cached status ready for root release review; no publication or experiment mutation
-- Tests: node --check app.js/browser64_v4; static37checks; Chrome31checks/11boundedvideo plays/7screenshots; own browser cleanup; exact source SHA and inherited61 projection
-- Worker-runtimes: host-runtime:1a94a3cd2b790cd75a5a3fa3f228f133
-- Completed-at: 2026-10-13 16:01:47
-- Completed-at-ns: 1791878507633736127
+- Summary: Correct four-phase outcome labels; preserve accepted64/697 data, cached30/98 and18 original assets; deliver successor candidate for root release review
+- Tests: node --check app.js and delta browser; exact22-file integrity; actual Chrome9 focused checks/two cases/desktop-mobile/four screenshots; owned browser cleanup; no playback/decode
+- Worker-runtimes: host-runtime:8cd66c0b095aa044ab84487f489fde28
+- Completed-at: 2026-10-13 18:03:24
+- Completed-at-ns: 1791885804511481000
