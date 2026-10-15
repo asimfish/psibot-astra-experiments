@@ -1,0 +1,227 @@
+{
+  "schema": "safelab.astra92_local_candidate_browser.v1",
+  "passed": true,
+  "checks": [
+    {
+      "name": "92accepted1415replies cached98 separately and50cohorts46effects null",
+      "passed": true,
+      "observed": null
+    },
+    {
+      "name": "New92 previous89 navigation and3failure counts",
+      "passed": true,
+      "observed": null
+    },
+    {
+      "name": "minus_J actual input_sameepisodevideo_physicalfailure_and_phase",
+      "passed": true,
+      "observed": {
+        "cameras": 3,
+        "currentImages": 6,
+        "eventImages": 9,
+        "videoPlayers": 3,
+        "phases": 0,
+        "replies": 8,
+        "success": false,
+        "retries": 0,
+        "inputNames": [
+          "head_camera",
+          "chest_camera",
+          "third_camera"
+        ],
+        "K": [
+          "head_camera",
+          "chest_camera",
+          "third_camera"
+        ],
+        "docWidth": 1485,
+        "width": 1500,
+        "text": "seed 11003 · 已注册物理评分失败 · 3 相机 · 8 模型回复 · 展开图像与视频实际执行环境：aibox-r4712892f123-78cc999995-wvswm · admission GPU-bb605527… · CUDA GPU-84aa4948… · renderer 0 · native_package_v84 · freeze a32dcdbaabce…。来源：原 SOURCE_IDENTITY 初始快照；runtime build/session 未记录。GPU 完整 admission UUID：GPU-bb605527-d7ec-2d22-1d35-786d287c0616；CUDA UUID：GPU-84aa4948-b560-c465-31c9-00c0bd5c5033。历史硬件/版本不同，不能把墙钟差异直接归因于输入。完整四阶段与几何安全评分：0/4 阶段；最大倾角 15.061°。实际倾角超过 15°，已按几何安全门停止。本条完整往返未完成。已注册物理评分失败 · 0 阶段geometric_hard_abort8 次实际完成的模型回复1 / 0物理抓取尝试 / 抓取重试582.8 s交互墙钟，含模型等待469.0 s模型等待，是墙钟子项11.4 s仿真任务时间释放重新接触恢复：未适用 / 此条未测；任务重启：未测。网络重试：0。这些数不与模型回复数互换。3 个当前输入相机：head_camera, chest_camera, third_camera。K 的相机条目：head_camera, chest_camera, third_camera。通道条件第0轮有值轮次S保留有值8 / 8J主动删减条件移除0 / 8K保留有值8 / 8F保留首轮无前序动作 / 历史7 / 8H保留首轮无前序动作 / 历史7 / 8M保留首轮无前序动作 / 历史7 / 8C保留首轮无前序动作 / 历史7 / 8H/M/F/C 后续可能产生信息；上表按实际每轮输入计数，空值不是自动判为删减。当前 + 历史图像总数范围 3–9。同一 episode 的已视检原帧initial · head_camera · 帧 0 / 仿真 0.00 s下载原帧first_pickup_contact · head_camera · 帧 165 / 仿真 11.00 s下载原帧final_observed · head_camera · 帧 170 / 仿真 11.33 s下载原帧initial · chest_camera · 帧 0 / 仿真 0.00 s下载原帧first_pickup_contact · chest_camera · 帧 165 / 仿真 11.00 s下载原帧final_observed · chest_camera · 帧 170 / 仿真 11.33 s下载原帧initial · third_camera · 帧 0 / 仿真 0.00 s下载原帧first_pickup_contact · third_camera · 帧 165 / 仿真 11.00 s下载原帧final_observed · third_camera · 帧 170 / 仿真 11.33 s下载原帧稀疏原帧用于展示已核视觉事实，不是重新评分；完整原视频见下方对应相机。head_camera · 640×480 实际输入向下倾角 60.3°，世界方位 0.0°（该轮给 Astra 的 K）第0轮实际提交 PNG · 640×480第7轮实际提交 PNG · 640×480；同一episode末轮输入同 episode 原 MP4 · 640×480 · 1× 仿真时间，未重编码下载实际输入 · 下载原尺寸观察 640×480 · 下载完整原视频chest_camera · 640×480 实际输入向下倾角 13.6°，世界方位 0.0°（该轮给 Astra 的 K）第0轮实际提交 PNG · 640×480第7轮实际提交 PNG · 640×480；同一episode末轮输入同 episode 原 MP4 · 640×480 · 1× 仿真时间，未重编码下载实际输入 · 下载原尺寸观察 640×480 · 下载完整原视频third_camera · 640×480 实际输入向下倾角 4.3°，世界方位 -180.0°（该轮给 Astra 的 K）第0轮实际提交 PNG · 640×480第7轮实际提交 PNG · 640×480；同一episode末轮输入同 episode 原 MP4 · 640×480 · 1× 仿真时间，未重编码下载实际输入 · 下载原尺寸观察 640×480 · 下载完整原视频该次已接受的原帧视检与限制visible：All three views show cup at A. The approaching open hand contacts the rim; final event frames show tilt without a lift. Table, cup, hand and supports remain spatially consistent across views.outcome：Valid physical failure: geometric hard abort before phase1.quality：Rendered cup and rim discernible. Hand partly occludes cup at contact; no selected-frame blank/missing render or unexplained pose displacement.scope：原事件/首末输入46张PNG实际逐张视检；9视频原完整解码沿用，未声称连续手看每帧。该次来源绑定与逐轮输入v5-psi_roundtrip_100ml-11003-minus_J · experiment_kind=actual_astra_input_ablation · offset_source=null配对初态 SHA：6b17d11045ce1657467e64b97539643a062a444443ee1c535cc2b0aeb3909d0d物理终态 SHA：53c16be92de874981c19cada212e3cd0a2840f93123dd160c88f1b84fff63354视检记录 SHA：db3ee79df1382876ff7270497e5446e1f1bc9f0c290847866a3d107c158c1443实际手势：原签名核验：全部使用冻结手势库与有限微调；本快照未汇总次数 · frozen_five_presets_bounded_named_refinement；没有自由手关节输出。控制/渲染 98.4 s；编码 24.5 s（有重叠，不加和）。轮次当前相机含历史图像数输入尺寸0head_camera, chest_camera, third_camera3640×4801head_camera, chest_camera, third_camera6640×4802head_camera, chest_camera, third_camera9640×4803head_camera, chest_camera, third_camera9640×4804head_camera, chest_camera, third_camera9640×4805head_camera, chest_camera, third_camera9640×4806head_camera, chest_camera, third_camera9640×4807head_camera, chest_camera, third_camera9640×480"
+      }
+    },
+    {
+      "name": "minus_J original MP4 control partialplay without fullaudit",
+      "passed": true,
+      "observed": {
+        "trial": "v5-psi_roundtrip_100ml-11003-minus_J",
+        "width": 640,
+        "height": 480,
+        "duration": 11.4,
+        "currentTime": 0.323838,
+        "paused": true,
+        "error": null
+      }
+    },
+    {
+      "name": "minus_chest actual input_sameepisodevideo_physicalfailure_and_phase",
+      "passed": true,
+      "observed": {
+        "cameras": 2,
+        "currentImages": 4,
+        "eventImages": 15,
+        "videoPlayers": 2,
+        "phases": 2,
+        "replies": 28,
+        "success": false,
+        "retries": 0,
+        "inputNames": [
+          "head_camera",
+          "third_camera"
+        ],
+        "K": [
+          "head_camera",
+          "chest_camera",
+          "third_camera"
+        ],
+        "docWidth": 1485,
+        "width": 1500,
+        "text": "seed 11003 · 已注册物理评分失败 · 2 相机 · 28 模型回复 · 展开图像与视频实际执行环境：aibox-r4712892f123-78cc999995-wvswm · admission GPU-bb605527… · CUDA GPU-84aa4948… · renderer 0 · native_package_v84 · freeze a32dcdbaabce…。来源：原 SOURCE_IDENTITY 初始快照；runtime build/session 未记录。GPU 完整 admission UUID：GPU-bb605527-d7ec-2d22-1d35-786d287c0616；CUDA UUID：GPU-84aa4948-b560-c465-31c9-00c0bd5c5033。历史硬件/版本不同，不能把墙钟差异直接归因于输入。完整四阶段与几何安全评分：2/4 阶段；最大倾角 16.154°。实际倾角超过 15°，已按几何安全门停止。本条完整往返未完成。已注册物理评分失败 · 2 阶段geometric_hard_abort28 次实际完成的模型回复2 / 0物理抓取尝试 / 抓取重试2281.0 s交互墙钟，含模型等待1655.5 s模型等待，是墙钟子项40.7 s仿真任务时间释放重新接触恢复：未适用 / 此条未测；任务重启：未测。网络重试：0。这些数不与模型回复数互换。2 个当前输入相机：head_camera, third_camera。K 的相机条目：head_camera, chest_camera, third_camera。通道条件第0轮有值轮次S保留有值28 / 28J保留有值28 / 28K保留有值28 / 28F保留首轮无前序动作 / 历史27 / 28H保留首轮无前序动作 / 历史27 / 28M保留首轮无前序动作 / 历史27 / 28C保留首轮无前序动作 / 历史27 / 28H/M/F/C 后续可能产生信息；上表按实际每轮输入计数，空值不是自动判为删减。当前 + 历史图像总数范围 2–6。同一 episode 的已视检原帧initial · head_camera · 帧 0 / 仿真 0.00 s下载原帧first_pickup_contact · head_camera · 帧 192 / 仿真 12.80 s下载原帧lifted_from_A · head_camera · 帧 284 / 仿真 18.93 s下载原帧released_and_withdrawn_B · head_camera · 帧 500 / 仿真 33.33 s下载原帧final_observed · head_camera · 帧 609 / 仿真 40.60 s下载原帧initial · chest_camera · 帧 0 / 仿真 0.00 s下载原帧first_pickup_contact · chest_camera · 帧 192 / 仿真 12.80 s下载原帧lifted_from_A · chest_camera · 帧 284 / 仿真 18.93 s下载原帧released_and_withdrawn_B · chest_camera · 帧 500 / 仿真 33.33 s下载原帧final_observed · chest_camera · 帧 609 / 仿真 40.60 s下载原帧initial · third_camera · 帧 0 / 仿真 0.00 s下载原帧first_pickup_contact · third_camera · 帧 192 / 仿真 12.80 s下载原帧lifted_from_A · third_camera · 帧 284 / 仿真 18.93 s下载原帧released_and_withdrawn_B · third_camera · 帧 500 / 仿真 33.33 s下载原帧final_observed · third_camera · 帧 609 / 仿真 40.60 s下载原帧稀疏原帧用于展示已核视觉事实，不是重新评分；完整原视频见下方对应相机。head_camera · 640×480 实际输入向下倾角 60.3°，世界方位 0.0°（该轮给 Astra 的 K）第0轮实际提交 PNG · 640×480第27轮实际提交 PNG · 640×480；同一episode末轮输入同 episode 原 MP4 · 640×480 · 1× 仿真时间，未重编码下载实际输入 · 下载原尺寸观察 640×480 · 下载完整原视频third_camera · 640×480 实际输入向下倾角 4.3°，世界方位 -180.0°（该轮给 Astra 的 K）第0轮实际提交 PNG · 640×480第27轮实际提交 PNG · 640×480；同一episode末轮输入同 episode 原 MP4 · 640×480 · 1× 仿真时间，未重编码下载实际输入 · 下载原尺寸观察 640×480 · 下载完整原视频结果核验专用视频：chest_camera；未提供给 Astrachest_camera 完整原视频 · 只作结果证据，无当前/历史图像输入该次已接受的原帧视检与限制visible：Event views show pickup/lift from A, release and hand withdrawal at B, then return contact at B with cup tilting. Model received head and third cameras only; chest event frames are audit views, not supplied inputs.outcome：Valid physical failure after two phases; geometric tilt abort during return manipulation.quality：Three audit cameras consistent; head view is partially hand-occluded near B, while third/chest audit views disambiguate cup and release. Refraction remains present and usable.scope：原事件/首末输入46张PNG实际逐张视检；9视频原完整解码沿用，未声称连续手看每帧。该次来源绑定与逐轮输入v5-psi_roundtrip_100ml-11003-minus_chest · experiment_kind=actual_astra_input_ablation · offset_source=null配对初态 SHA：6b17d11045ce1657467e64b97539643a062a444443ee1c535cc2b0aeb3909d0d物理终态 SHA：98b00774d8040ca6ef0457d974f68f0cc905a846368fd63a35f98abe8a215b76视检记录 SHA：db3ee79df1382876ff7270497e5446e1f1bc9f0c290847866a3d107c158c1443实际手势：原签名核验：全部使用冻结手势库与有限微调；本快照未汇总次数 · frozen_five_presets_bounded_named_refinement；没有自由手关节输出。控制/渲染 574.7 s；编码 114.0 s（有重叠，不加和）。轮次当前相机含历史图像数输入尺寸0head_camera, third_camera2640×4801head_camera, third_camera4640×4802head_camera, third_camera6640×4803head_camera, third_camera6640×4804head_camera, third_camera6640×4805head_camera, third_camera6640×4806head_camera, third_camera6640×4807head_camera, third_camera6640×4808head_camera, third_camera6640×4809head_camera, third_camera6640×48010head_camera, third_camera6640×48011head_camera, third_camera6640×48012head_camera, third_camera6640×48013head_camera, third_camera6640×48014head_camera, third_camera6640×48015head_camera, third_camera6640×48016head_camera, third_camera6640×48017head_camera, third_camera6640×48018head_camera, third_camera6640×48019head_camera, third_camera6640×48020head_camera, third_camera6640×48021head_camera, third_camera6640×48022head_camera, third_camera6640×48023head_camera, third_camera6640×48024head_camera, third_camera6640×48025head_camera, third_camera6640×48026head_camera, third_camera6640×48027head_camera, third_camera6640×480"
+      }
+    },
+    {
+      "name": "Omitted chest is diagnostic output not input",
+      "passed": true,
+      "observed": [
+        "head_camera",
+        "third_camera"
+      ]
+    },
+    {
+      "name": "minus_chest original MP4 control partialplay without fullaudit",
+      "passed": true,
+      "observed": {
+        "trial": "v5-psi_roundtrip_100ml-11003-minus_chest",
+        "width": 640,
+        "height": 480,
+        "duration": 40.666667,
+        "currentTime": 0.322377,
+        "paused": true,
+        "error": null
+      }
+    },
+    {
+      "name": "minus_K actual input_sameepisodevideo_physicalfailure_and_phase",
+      "passed": true,
+      "observed": {
+        "cameras": 3,
+        "currentImages": 6,
+        "eventImages": 6,
+        "videoPlayers": 3,
+        "phases": 0,
+        "replies": 60,
+        "success": false,
+        "retries": 0,
+        "inputNames": [
+          "head_camera",
+          "chest_camera",
+          "third_camera"
+        ],
+        "K": [],
+        "docWidth": 1485,
+        "width": 1500,
+        "text": "seed 11003 · 已注册物理评分失败 · 3 相机 · 60 模型回复 · 展开图像与视频实际执行环境：aibox-r4712892f123-78cc999995-wvswm · admission GPU-bb605527… · CUDA GPU-84aa4948… · renderer 0 · native_package_v84 · freeze a32dcdbaabce…。来源：原 SOURCE_IDENTITY 初始快照；runtime build/session 未记录。GPU 完整 admission UUID：GPU-bb605527-d7ec-2d22-1d35-786d287c0616；CUDA UUID：GPU-84aa4948-b560-c465-31c9-00c0bd5c5033。历史硬件/版本不同，不能把墙钟差异直接归因于输入。完整四阶段与几何安全评分：0/4 阶段；最大倾角 0.061°。本条完整往返未完成。已注册物理评分失败 · 0 阶段request_budget_exhausted60 次实际完成的模型回复0 / 0物理抓取尝试 / 抓取重试5838.5 s交互墙钟，含模型等待3721.3 s模型等待，是墙钟子项91.0 s仿真任务时间释放重新接触恢复：未适用 / 此条未测；任务重启：未测。网络重试：0。这些数不与模型回复数互换。3 个当前输入相机：head_camera, chest_camera, third_camera。K 的相机条目：K 主动删减 / 无条目。通道条件第0轮有值轮次S保留有值60 / 60J保留有值60 / 60K主动删减条件移除0 / 60F保留首轮无前序动作 / 历史59 / 60H保留首轮无前序动作 / 历史59 / 60M保留首轮无前序动作 / 历史59 / 60C保留首轮无前序动作 / 历史59 / 60H/M/F/C 后续可能产生信息；上表按实际每轮输入计数，空值不是自动判为删减。当前 + 历史图像总数范围 3–9。同一 episode 的已视检原帧initial · head_camera · 帧 0 / 仿真 0.00 s下载原帧final_observed · head_camera · 帧 1365 / 仿真 91.00 s下载原帧initial · chest_camera · 帧 0 / 仿真 0.00 s下载原帧final_observed · chest_camera · 帧 1365 / 仿真 91.00 s下载原帧initial · third_camera · 帧 0 / 仿真 0.00 s下载原帧final_observed · third_camera · 帧 1365 / 仿真 91.00 s下载原帧稀疏原帧用于展示已核视觉事实，不是重新评分；完整原视频见下方对应相机。head_camera · 640×480 实际输入角度证据缺失（该条件移除K，未额外取渲染外参）第0轮实际提交 PNG · 640×480第59轮实际提交 PNG · 640×480；同一episode末轮输入同 episode 原 MP4 · 640×480 · 1× 仿真时间，未重编码下载实际输入 · 下载原尺寸观察 640×480 · 下载完整原视频chest_camera · 640×480 实际输入角度证据缺失（该条件移除K，未额外取渲染外参）第0轮实际提交 PNG · 640×480第59轮实际提交 PNG · 640×480；同一episode末轮输入同 episode 原 MP4 · 640×480 · 1× 仿真时间，未重编码下载实际输入 · 下载原尺寸观察 640×480 · 下载完整原视频third_camera · 640×480 实际输入角度证据缺失（该条件移除K，未额外取渲染外参）第0轮实际提交 PNG · 640×480第59轮实际提交 PNG · 640×480；同一episode末轮输入同 episode 原 MP4 · 640×480 · 1× 仿真时间，未重编码下载实际输入 · 下载原尺寸观察 640×480 · 下载完整原视频该次已接受的原帧视检与限制visible：Cup remains on A; last wide view shows active arm drawn close to torso, away from cup. Head/chest scene stays similar because the task object did not move, rather than evidence of a frozen camera.outcome：Valid physical failure:60 completed replies and request budget exhausted, zero completed phases.quality：Initial/final cup and table render are coherent across all three cameras; wide view resolves arm position. No selected-frame render inconsistency observed.scope：原事件/首末输入46张PNG实际逐张视检；9视频原完整解码沿用，未声称连续手看每帧。该次来源绑定与逐轮输入v5-psi_roundtrip_100ml-11003-minus_K · experiment_kind=actual_astra_input_ablation · offset_source=null配对初态 SHA：6b17d11045ce1657467e64b97539643a062a444443ee1c535cc2b0aeb3909d0d物理终态 SHA：ee6b348a9aa67aa9b943154aa4cd431fe77306d3c1aef2ae8d406481498d1b7f视检记录 SHA：db3ee79df1382876ff7270497e5446e1f1bc9f0c290847866a3d107c158c1443实际手势：原签名核验：全部使用冻结手势库与有限微调；本快照未汇总次数 · frozen_five_presets_bounded_named_refinement；没有自由手关节输出。控制/渲染 2001.4 s；编码 355.7 s（有重叠，不加和）。轮次当前相机含历史图像数输入尺寸0head_camera, chest_camera, third_camera3640×4801head_camera, chest_camera, third_camera6640×4802head_camera, chest_camera, third_camera9640×4803head_camera, chest_camera, third_camera9640×4804head_camera, chest_camera, third_camera9640×4805head_camera, chest_camera, third_camera9640×4806head_camera, chest_camera, third_camera9640×4807head_camera, chest_camera, third_camera9640×4808head_camera, chest_camera, third_camera9640×4809head_camera, chest_camera, third_camera9640×48010head_camera, chest_camera, third_camera9640×48011head_camera, chest_camera, third_camera9640×48012head_camera, chest_camera, third_camera9640×48013head_camera, chest_camera, third_camera9640×48014head_camera, chest_camera, third_camera9640×48015head_camera, chest_camera, third_camera9640×48016head_camera, chest_camera, third_camera9640×48017head_camera, chest_camera, third_camera9640×48018head_camera, chest_camera, third_camera9640×48019head_camera, chest_camera, third_camera9640×48020head_camera, chest_camera, third_camera9640×48021head_camera, chest_camera, third_camera9640×48022head_camera, chest_camera, third_camera9640×48023head_camera, chest_camera, third_camera9640×48024head_camera, chest_camera, third_camera9640×48025head_camera, chest_camera, third_camera9640×48026head_camera, chest_camera, third_camera9640×48027head_camera, chest_camera, third_camera9640×48028head_camera, chest_camera, third_camera9640×48029head_camera, chest_camera, third_camera9640×48030head_camera, chest_camera, third_camera9640×48031head_camera, chest_camera, third_camera9640×48032head_camera, chest_camera, third_camera9640×48033head_camera, chest_camera, third_camera9640×48034head_camera, chest_camera, third_camera9640×48035head_camera, chest_camera, third_camera9640×48036head_camera, chest_camera, third_camera9640×48037head_camera, chest_camera, third_camera9640×48038head_camera, chest_camera, third_camera9640×48039head_camera, chest_camera, third_camera9640×48040head_camera, chest_camera, third_camera9640×48041head_camera, chest_camera, third_camera9640×48042head_camera, chest_camera, third_camera9640×48043head_camera, chest_camera, third_camera9640×48044head_camera, chest_camera, third_camera9640×48045head_camera, chest_camera, third_camera9640×48046head_camera, chest_camera, third_camera9640×48047head_camera, chest_camera, third_camera9640×48048head_camera, chest_camera, third_camera9640×48049head_camera, chest_camera, third_camera9640×48050head_camera, chest_camera, third_camera9640×48051head_camera, chest_camera, third_camera9640×48052head_camera, chest_camera, third_camera9640×48053head_camera, chest_camera, third_camera9640×48054head_camera, chest_camera, third_camera9640×48055head_camera, chest_camera, third_camera9640×48056head_camera, chest_camera, third_camera9640×48057head_camera, chest_camera, third_camera9640×48058head_camera, chest_camera, third_camera9640×48059head_camera, chest_camera, third_camera9640×480"
+      }
+    },
+    {
+      "name": "K removed no invented model extrinsics",
+      "passed": true,
+      "observed": []
+    },
+    {
+      "name": "minus_K original MP4 control partialplay without fullaudit",
+      "passed": true,
+      "observed": {
+        "trial": "v5-psi_roundtrip_100ml-11003-minus_K",
+        "width": 640,
+        "height": 480,
+        "duration": 91.066667,
+        "currentTime": 0.323094,
+        "paused": true,
+        "error": null
+      }
+    },
+    {
+      "name": "InfraM original unmatched request and3untouched excluded",
+      "passed": true,
+      "observed": null
+    },
+    {
+      "name": "minus_chest mobile matching media stack and reader context",
+      "passed": true,
+      "observed": {
+        "width": 390,
+        "docWidth": 390,
+        "left": 8,
+        "right": 382,
+        "height": 88.5625,
+        "columns": "310px",
+        "text": "PsiBot 100ml A→B→A · 去胸部相机 · seed 11003已注册物理评分失败物理抓取重试 0 · 模型回复 28 · 墙钟 2281.0 s（含模型等待 1655.5 s）"
+      }
+    },
+    {
+      "name": "minus_K mobile matching media stack and reader context",
+      "passed": true,
+      "observed": {
+        "width": 390,
+        "docWidth": 390,
+        "left": 8,
+        "right": 382,
+        "height": 88.5625,
+        "columns": "310px",
+        "text": "PsiBot 100ml A→B→A · 去相机标定 · seed 11003已注册物理评分失败物理抓取重试 0 · 模型回复 60 · 墙钟 5838.5 s（含模型等待 3721.3 s）"
+      }
+    },
+    {
+      "name": "Historical53 homepage points latest92",
+      "passed": true,
+      "observed": null
+    },
+    {
+      "name": "Actual latest navigation reaches92",
+      "passed": true,
+      "observed": null
+    },
+    {
+      "name": "No runtime exceptions or local HTTP failures",
+      "passed": true,
+      "observed": {
+        "exceptions": [],
+        "localBad": []
+      }
+    }
+  ],
+  "partial_original_play_checks": [
+    {
+      "trial": "v5-psi_roundtrip_100ml-11003-minus_J",
+      "width": 640,
+      "height": 480,
+      "duration": 11.4,
+      "currentTime": 0.323838,
+      "paused": true,
+      "error": null
+    },
+    {
+      "trial": "v5-psi_roundtrip_100ml-11003-minus_chest",
+      "width": 640,
+      "height": 480,
+      "duration": 40.666667,
+      "currentTime": 0.322377,
+      "paused": true,
+      "error": null
+    },
+    {
+      "trial": "v5-psi_roundtrip_100ml-11003-minus_K",
+      "width": 640,
+      "height": 480,
+      "duration": 91.066667,
+      "currentTime": 0.323094,
+      "paused": true,
+      "error": null
+    }
+  ],
+  "new_full_video_audits": 0,
+  "scientific_visual_acceptances_added": 0,
+  "external_HTTP_blocked": true,
+  "GPU_disabled": true,
+  "public_deployed": false
+}
