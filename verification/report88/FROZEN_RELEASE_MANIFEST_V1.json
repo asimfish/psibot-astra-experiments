@@ -1,0 +1,184 @@
+{
+  "schema": "safelab.astra88_premerge_release_manifest.v1",
+  "build_stage": "premerge",
+  "formal_trials": 88,
+  "completed_signed_replies": 1282,
+  "cached_accepted": 98,
+  "cached_in_formal_denominator": false,
+  "n20_cohorts_complete": 0,
+  "paired_effects_complete": 0,
+  "previous_snapshot_commit": "4380300362904e618966fd56a43d8bfc075f1863",
+  "root_review_sha256": "820ebd29f8e2daf883a7ce45d54b102e6e7d73cf53da66156871bd41292b7c0f",
+  "formal_frontier_sha256": "79cb1bed28f315dec9c2cdb54f56e778f4cd6d47353c42163102946066216e26",
+  "cached_frontier_sha256": "28a27430e6554e6d517c5687aa1cd8a8aec02be940aeae9633b52db60f855762",
+  "execution_cutoff_sha256": "e4557a456fad7b1ffcf6d1f1a7697ff8ab593a5f6f7925d75cb06d075bde3efb",
+  "files": [
+    {
+      "path": "snapshots/frontier-88/app.css",
+      "bytes": 5618,
+      "sha256": "fecf898ae55074f0aba8f9c42e88565a6b314cb37f65d18e1fc22afff384c1ff"
+    },
+    {
+      "path": "snapshots/frontier-88/app.js",
+      "bytes": 19937,
+      "sha256": "30538a2a10355b2cd446da2897923dd58766cf747a0f2f60b18076601c1305e2"
+    },
+    {
+      "path": "snapshots/frontier-88/data.json",
+      "bytes": 1751903,
+      "sha256": "29f68534af17b36ede8d9373295d0dbadfdd827916a50862aa8b1a6374a4a86a"
+    },
+    {
+      "path": "snapshots/frontier-88/environment_v2.json",
+      "bytes": 679423,
+      "sha256": "205df8a40c82d01db70d18637116289313702df5fb197d6a5f710298a2059ed2"
+    },
+    {
+      "path": "snapshots/frontier-88/index.html",
+      "bytes": 6417,
+      "sha256": "488708f5a986a95b3e12c30d538a01a31bd911d7260d1703ac692ccc1eccc92d"
+    },
+    {
+      "path": "snapshots/frontier-88/media/1742a9318d2c5524cf98e1a904bbf0034b7b2aed718301b560a1ccc0f49ba1ba.mp4",
+      "bytes": 1125276,
+      "sha256": "1742a9318d2c5524cf98e1a904bbf0034b7b2aed718301b560a1ccc0f49ba1ba"
+    },
+    {
+      "path": "snapshots/frontier-88/media/21741169a76f476ff875672112f386e325610d0ba1e22e987faaa869d6d0f9d7.mp4",
+      "bytes": 5015965,
+      "sha256": "21741169a76f476ff875672112f386e325610d0ba1e22e987faaa869d6d0f9d7"
+    },
+    {
+      "path": "snapshots/frontier-88/media/28cf1fb7fff79ff3cc4fd8a18cac8c69015a4bb62c1b912863fd2ef6b31c87a0.png",
+      "bytes": 188137,
+      "sha256": "28cf1fb7fff79ff3cc4fd8a18cac8c69015a4bb62c1b912863fd2ef6b31c87a0"
+    },
+    {
+      "path": "snapshots/frontier-88/media/2de1562b8d55e47df646875f12dcba1b330f163d9d0bfd9d96ad68ce1663f8fd.png",
+      "bytes": 158570,
+      "sha256": "2de1562b8d55e47df646875f12dcba1b330f163d9d0bfd9d96ad68ce1663f8fd"
+    },
+    {
+      "path": "snapshots/frontier-88/media/41bbb053b702698f4fcba2734bd2176c861769cc2534c9cb269b082845841657.mp4",
+      "bytes": 7289212,
+      "sha256": "41bbb053b702698f4fcba2734bd2176c861769cc2534c9cb269b082845841657"
+    },
+    {
+      "path": "snapshots/frontier-88/media/484f913785fddfdd407a1159cf5e6c943d944d0e289fc59acea839f19a61faa5.mp4",
+      "bytes": 5566238,
+      "sha256": "484f913785fddfdd407a1159cf5e6c943d944d0e289fc59acea839f19a61faa5"
+    },
+    {
+      "path": "snapshots/frontier-88/media/5464c7f0dc2b82aa0b5fd99582cf447d7e3b7e58d631d9961c5478d393af386b.png",
+      "bytes": 187875,
+      "sha256": "5464c7f0dc2b82aa0b5fd99582cf447d7e3b7e58d631d9961c5478d393af386b"
+    },
+    {
+      "path": "snapshots/frontier-88/media/5d1c4ff85d51f3b9e4ecfca267d74b24b745348279a843ac5d7078aa05115e3f.mp4",
+      "bytes": 7047979,
+      "sha256": "5d1c4ff85d51f3b9e4ecfca267d74b24b745348279a843ac5d7078aa05115e3f"
+    },
+    {
+      "path": "snapshots/frontier-88/media/8d8653504852d0661b7f48f313c25fd5c8ec930c60632a4db40ce7d3b12878a7.mp4",
+      "bytes": 3793197,
+      "sha256": "8d8653504852d0661b7f48f313c25fd5c8ec930c60632a4db40ce7d3b12878a7"
+    },
+    {
+      "path": "snapshots/frontier-88/media/94aefe5af3f13ddc4e99fc0cab3bfe54ad4d35c0c7fd6fd03c5c1a9fef69d90a.mp4",
+      "bytes": 10145226,
+      "sha256": "94aefe5af3f13ddc4e99fc0cab3bfe54ad4d35c0c7fd6fd03c5c1a9fef69d90a"
+    },
+    {
+      "path": "snapshots/frontier-88/media/9aeb6746268a4a6f777c933fb78a492160a09d65172d4037bafe404f628ed1b9.png",
+      "bytes": 158398,
+      "sha256": "9aeb6746268a4a6f777c933fb78a492160a09d65172d4037bafe404f628ed1b9"
+    },
+    {
+      "path": "snapshots/frontier-88/media/a058c07288005ca80d25819f3055994311796de60e1a4f743ae44ae001f00724.png",
+      "bytes": 158530,
+      "sha256": "a058c07288005ca80d25819f3055994311796de60e1a4f743ae44ae001f00724"
+    },
+    {
+      "path": "snapshots/frontier-88/media/a0f9cf44e9fbf97e5f97d88a1b7baed53d19f2aa4e525e8b76079b6f588edd83.mp4",
+      "bytes": 827014,
+      "sha256": "a0f9cf44e9fbf97e5f97d88a1b7baed53d19f2aa4e525e8b76079b6f588edd83"
+    },
+    {
+      "path": "snapshots/frontier-88/media/aeb3bcb8466862176fe3e1f2870292df3b160315772befe0fb5397d9807cee2e.png",
+      "bytes": 321940,
+      "sha256": "aeb3bcb8466862176fe3e1f2870292df3b160315772befe0fb5397d9807cee2e"
+    },
+    {
+      "path": "snapshots/frontier-88/media/ba14da6f88dd7bddfba08fb8426b396de3d64632ccb4679242403dd1539726e9.png",
+      "bytes": 321713,
+      "sha256": "ba14da6f88dd7bddfba08fb8426b396de3d64632ccb4679242403dd1539726e9"
+    },
+    {
+      "path": "snapshots/frontier-88/media/bafe44938d38620f0943d4d7075996b2fb6319ee662a18fcda01da76a0c476c0.mp4",
+      "bytes": 2512688,
+      "sha256": "bafe44938d38620f0943d4d7075996b2fb6319ee662a18fcda01da76a0c476c0"
+    },
+    {
+      "path": "snapshots/frontier-88/media/c0ea90d972a430cab8b32a36092c56b55c7417c58b70e5c8cf0705e14dcdb7bb.mp4",
+      "bytes": 6763624,
+      "sha256": "c0ea90d972a430cab8b32a36092c56b55c7417c58b70e5c8cf0705e14dcdb7bb"
+    },
+    {
+      "path": "snapshots/frontier-88/media/c5a9fd75a52e37d881b09bad3504120b41abdb7505f7ed6200ea64d23e33ba35.png",
+      "bytes": 188102,
+      "sha256": "c5a9fd75a52e37d881b09bad3504120b41abdb7505f7ed6200ea64d23e33ba35"
+    },
+    {
+      "path": "snapshots/frontier-88/media/ccd396080d2d2a611e31667ad5d512a57b07bc2d670a00eda87f6354487112bb.mp4",
+      "bytes": 968443,
+      "sha256": "ccd396080d2d2a611e31667ad5d512a57b07bc2d670a00eda87f6354487112bb"
+    },
+    {
+      "path": "snapshots/frontier-88/media/d25ea10dceaf41e04bdb3734ad3ee4e8f5f83899527c7059bd2f2276a38d2420.png",
+      "bytes": 321784,
+      "sha256": "d25ea10dceaf41e04bdb3734ad3ee4e8f5f83899527c7059bd2f2276a38d2420"
+    },
+    {
+      "path": "snapshots/frontier-88/media/d6a7bd62cc401d85ae8ae3d8d3609bbc39201047d0ce71b82bc0f003c4951be3.png",
+      "bytes": 158525,
+      "sha256": "d6a7bd62cc401d85ae8ae3d8d3609bbc39201047d0ce71b82bc0f003c4951be3"
+    },
+    {
+      "path": "snapshots/frontier-88/media/ddea2be51dbade5a8beb6826dc7839a3e8965ecf45c37fe0873bc392678e848a.mp4",
+      "bytes": 3098171,
+      "sha256": "ddea2be51dbade5a8beb6826dc7839a3e8965ecf45c37fe0873bc392678e848a"
+    },
+    {
+      "path": "snapshots/frontier-88/media/f39377fee381ebb21a675b88d886ccfffa6cf3f7fb808bc543ef13e565883d09.png",
+      "bytes": 321779,
+      "sha256": "f39377fee381ebb21a675b88d886ccfffa6cf3f7fb808bc543ef13e565883d09"
+    }
+  ],
+  "new_original_input_PNGs": 11,
+  "new_sameepisode_original_MP4s": 12,
+  "new_media_bytes": 56638386,
+  "source_media_reencoding_or_full_decode": 0,
+  "local_gate": {
+    "static_checks": 272,
+    "actual_browser_checks": 18,
+    "partial_original_plays": 4,
+    "screenshots": 9,
+    "root_actual_screenshot_views": 4
+  },
+  "scientific_values_and_history84_unchanged": true,
+  "missing_media_or_pins": [],
+  "release_wording": "固定证据快照；实验仍在补齐。",
+  "release_delta_scope": [
+    "index.html status text",
+    "data.json obsolete publication_snapshot.public_deployed removed"
+  ],
+  "initial_release_browser_failure": {
+    "scope": "local first launch, before data response",
+    "retained": true,
+    "cause": "not established",
+    "product_code_changed_for_failure": false,
+    "same_release_bytes_subsequently_passed": true
+  },
+  "remote_CI": "PR status to be observed after push; only main Pages workflow discovered",
+  "merge_or_deploy_performed": false
+}
