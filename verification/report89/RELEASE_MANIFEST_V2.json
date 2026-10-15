@@ -1,0 +1,208 @@
+{
+  "schema": "safelab.astra.frontier89_release_manifest.v2",
+  "branch": "feat/t-004-astra-frontier89-release",
+  "base_commit": "319b890f27188c74fb8d6a84303e461f1f9edaba",
+  "V1_manifest": {
+    "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/reports/frontier89/CANDIDATE_SOURCE_AND_EVIDENCE_MANIFEST_V1.json",
+    "bytes": 17287,
+    "sha256": "5559e39f0ec0a64bb88581e71d551858718a64d83758b3cc8fdb7ded27e0a45a"
+  },
+  "root_independent_review": {
+    "path": "/mnt/whalent-nvme/tmp/astra_input_experiments_20261012/astra_formal_resume005/execution_completion/REPORT89_LOCAL_CANDIDATE_ROOT_INDEPENDENT_REVIEW_V1.json",
+    "bytes": 28341,
+    "sha256": "41dd8bb44accb023d259b7df9b3ad5854638b14934e89179b824f590f408be30"
+  },
+  "only_post_review_page_delta": "Two exact neutral copy edits in snapshots/frontier-89/index.html",
+  "candidate_files": [
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/README.md",
+      "bytes": 1592,
+      "sha256": "c7bb49eb14a2c5bccae2fbea2008fd8978e1dad6ea0c6d6e1eb8888c661a9f3e"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/index.html",
+      "bytes": 5528,
+      "sha256": "65264f61af3351df7e43e4d262be41ad8139cda80cb49e627ba6ccc3bb325a41"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/verification/report89/TASK_RECORD_T-003.md",
+      "bytes": 1819,
+      "sha256": "98c4784cf507cf6f4e7b1345c2ab320a68a1924bb50b44a871d2d0296cb54a4d"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/app.css",
+      "bytes": 5618,
+      "sha256": "fecf898ae55074f0aba8f9c42e88565a6b314cb37f65d18e1fc22afff384c1ff"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/app.js",
+      "bytes": 20098,
+      "sha256": "be6deac28899038f42df8d5c5dcf8a9e03a82d839afa2928f39470759f8ce32e"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/data.json",
+      "bytes": 1793026,
+      "sha256": "152650bf4d4fb144a6f6076e82971b4ebb5b794b5c57b228d17cb38082cc1662"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/environment_v2.json",
+      "bytes": 808178,
+      "sha256": "a814cf8b7e311b4972f104aab951574cbcece66689a42cf2f1ad853e101198bf"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/index.html",
+      "bytes": 6657,
+      "sha256": "3baea274227c14fd6c64fd4967248dae6b531d2271109ea2d97f478a28f4d4fa"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media-manifest.json",
+      "bytes": 23568,
+      "sha256": "d710fff65708a6353bfaeae090ebce2cacc3aacf09ff3d26733004a27bc00086"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/085a4911a6b648f2b6a73babd21c0871a78a45d75109b19b8e4300284d2fc810.png",
+      "bytes": 324587,
+      "sha256": "085a4911a6b648f2b6a73babd21c0871a78a45d75109b19b8e4300284d2fc810"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/10251a6ce0d278cfd50a1b250257e3c0bc5cf0088fa020b45b115e5517ae889b.png",
+      "bytes": 163146,
+      "sha256": "10251a6ce0d278cfd50a1b250257e3c0bc5cf0088fa020b45b115e5517ae889b"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/20e22e0284728936d859ef14656f69483c17489548beb8ad3f5ba4eb00ba32c0.png",
+      "bytes": 188029,
+      "sha256": "20e22e0284728936d859ef14656f69483c17489548beb8ad3f5ba4eb00ba32c0"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/2b249eaef36419ec1efe6a06bb4707de7cf2f2eaf4df737c01950aa1dbf88d8c.png",
+      "bytes": 317080,
+      "sha256": "2b249eaef36419ec1efe6a06bb4707de7cf2f2eaf4df737c01950aa1dbf88d8c"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/2fd4c40e07280fd4dafc8658609db0584774162c115800dd6e0d99323f48ba79.png",
+      "bytes": 317763,
+      "sha256": "2fd4c40e07280fd4dafc8658609db0584774162c115800dd6e0d99323f48ba79"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/3066f0e8396aaec412c904920641e2a9795d8b3dc63eb4eebe7a5092a17f07a1.png",
+      "bytes": 326978,
+      "sha256": "3066f0e8396aaec412c904920641e2a9795d8b3dc63eb4eebe7a5092a17f07a1"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/3101ce4eb2655e2486088344bc9d587ab1a2d6af63466afb6d0b48b5e87af47a.png",
+      "bytes": 180849,
+      "sha256": "3101ce4eb2655e2486088344bc9d587ab1a2d6af63466afb6d0b48b5e87af47a"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/3f75e94773833ebd5cfa938c2bc0abbd2a45ea6fb0a365114bdfbc066def8d12.png",
+      "bytes": 137836,
+      "sha256": "3f75e94773833ebd5cfa938c2bc0abbd2a45ea6fb0a365114bdfbc066def8d12"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/3fde18b00b0b89cb60f4ab05bee6fc375260e9bb9cb72a129819a3e5ba571440.png",
+      "bytes": 184014,
+      "sha256": "3fde18b00b0b89cb60f4ab05bee6fc375260e9bb9cb72a129819a3e5ba571440"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/40713f9647640122bfc19f012fcbf1c8f1c15c5930a91514cc3684b5dd719a24.png",
+      "bytes": 187962,
+      "sha256": "40713f9647640122bfc19f012fcbf1c8f1c15c5930a91514cc3684b5dd719a24"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/50b09f6c31cbaf76444576db91696a27830514a740568cf29acb505c0fd1e5c5.png",
+      "bytes": 282003,
+      "sha256": "50b09f6c31cbaf76444576db91696a27830514a740568cf29acb505c0fd1e5c5"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/520efb53620f4a6f6573d98506e05f94eb19bd6592cbc0607c19ff7f9fc82f34.png",
+      "bytes": 188047,
+      "sha256": "520efb53620f4a6f6573d98506e05f94eb19bd6592cbc0607c19ff7f9fc82f34"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/5d0d04e078d5a904f27e58e01262f7f23634bc86473126ab28237539a4f892a5.png",
+      "bytes": 158450,
+      "sha256": "5d0d04e078d5a904f27e58e01262f7f23634bc86473126ab28237539a4f892a5"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/6c300c5aad3b59c784c8e506a2349c2492dbf7fe2ca6c8ea424ec80e976cf1bc.png",
+      "bytes": 185323,
+      "sha256": "6c300c5aad3b59c784c8e506a2349c2492dbf7fe2ca6c8ea424ec80e976cf1bc"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/7d57e782b9f85536dec60ff76c25218051347de28fd5e70a86560ec66c237c3a.png",
+      "bytes": 159498,
+      "sha256": "7d57e782b9f85536dec60ff76c25218051347de28fd5e70a86560ec66c237c3a"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/93432b92d59b2ebfe92860c48758e7b2c54638d8507346cbd5a2b749a3173581.png",
+      "bytes": 179302,
+      "sha256": "93432b92d59b2ebfe92860c48758e7b2c54638d8507346cbd5a2b749a3173581"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/9f6f9a19f88c1b840151752425c49b941c75964e7949fa9527d30e7616c68b41.png",
+      "bytes": 311018,
+      "sha256": "9f6f9a19f88c1b840151752425c49b941c75964e7949fa9527d30e7616c68b41"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/ae6e5008fcf01facf1a045889f70b5ee9cd4cc6ca0419940aface4e8020bd828.png",
+      "bytes": 179089,
+      "sha256": "ae6e5008fcf01facf1a045889f70b5ee9cd4cc6ca0419940aface4e8020bd828"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/bbf96bd675e03e34c04c00f1a7972188e34879b32b0ccc39056f42e83382e802.png",
+      "bytes": 188940,
+      "sha256": "bbf96bd675e03e34c04c00f1a7972188e34879b32b0ccc39056f42e83382e802"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/d8129cc335f9e29d5ac109ab650406518074ea12ffbd25d6a57c57ffbac3c7cb.mp4",
+      "bytes": 6875996,
+      "sha256": "d8129cc335f9e29d5ac109ab650406518074ea12ffbd25d6a57c57ffbac3c7cb"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/da8e8214fc166307074779fc526b226296ac4846a9a5cd035bcbc98ed5162eda.mp4",
+      "bytes": 8923534,
+      "sha256": "da8e8214fc166307074779fc526b226296ac4846a9a5cd035bcbc98ed5162eda"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/ef2e7207d6aebe4145eec4e18d4cc93532617d04761ea45f5e856155c0158bb2.png",
+      "bytes": 177996,
+      "sha256": "ef2e7207d6aebe4145eec4e18d4cc93532617d04761ea45f5e856155c0158bb2"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/f29e0b201c4871daf9d51a095ae3761047e1ab5bed76caa4fdf9ec17cc335123.mp4",
+      "bytes": 6332173,
+      "sha256": "f29e0b201c4871daf9d51a095ae3761047e1ab5bed76caa4fdf9ec17cc335123"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/media/f8c7845fd47b543da504172cb5203c2317eceb9310efe728d75c78a1b52cbff8.png",
+      "bytes": 321786,
+      "sha256": "f8c7845fd47b543da504172cb5203c2317eceb9310efe728d75c78a1b52cbff8"
+    }
+  ],
+  "added_verification_files": [
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/verification/report89/TASK_RECORD_T-004.md",
+      "bytes": 2042,
+      "sha256": "b0847446b24e7d6b07f02c1afd5a552f8bf9b58fa131402518c68d6d51920233"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/verification/report89/RELEASE_STATIC_CHECKS_V2.json",
+      "bytes": 2777,
+      "sha256": "6ca4f5cc1ac71fb2106dc7ebaf395d8eb6ed6ddb9437cbad3523c50fa8300387"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/verification/report89/CANDIDATE_SOURCE_AND_EVIDENCE_MANIFEST_V1.json",
+      "bytes": 17287,
+      "sha256": "5559e39f0ec0a64bb88581e71d551858718a64d83758b3cc8fdb7ded27e0a45a"
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/verification/report89/FOCUSED_DOM_V2.json",
+      "bytes": 2715,
+      "sha256": "3e872dae0d564e7c91bbc63008d97196363ef90f809b66ea543d45ab24ab6efa"
+    }
+  ],
+  "data_media_unchanged": true,
+  "public_deployed": false,
+  "merge_decision": "Root exact-head review required"
+}

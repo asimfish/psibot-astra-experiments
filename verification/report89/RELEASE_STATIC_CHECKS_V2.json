@@ -1,0 +1,83 @@
+{
+  "schema": "safelab.astra.frontier89_release_static_verification.v2",
+  "passed": true,
+  "checks": [
+    {
+      "name": "Exact independent root content/UI review",
+      "passed": true
+    },
+    {
+      "name": "Exactly two approved copy deltas",
+      "passed": true
+    },
+    {
+      "name": "32 other V1 candidate files unchanged",
+      "passed": true
+    },
+    {
+      "name": "All18 V1 evidence and8 source artifacts preserved",
+      "passed": true
+    },
+    {
+      "name": "89 valid1319 replies cached98 separate",
+      "passed": true
+    },
+    {
+      "name": "50cohorts46effects remain null",
+      "passed": true
+    },
+    {
+      "name": "Only new v85 rich roundtrip4of4/37replies/1retry",
+      "passed": true
+    },
+    {
+      "name": "All24 original media unchanged; no decoder used",
+      "passed": true
+    },
+    {
+      "name": "Seven focused DOM checks zero playback or MP4 responses; ownbrowser reaped",
+      "passed": true
+    },
+    {
+      "name": "Initial assertion isolated to blocked cached98 metadata preload",
+      "passed": true
+    },
+    {
+      "name": "Historical88 frontend/data bytes unchanged",
+      "passed": true
+    },
+    {
+      "name": "Release Python source parses",
+      "passed": true
+    }
+  ],
+  "root_independent_review": {
+    "path": "/mnt/whalent-nvme/tmp/astra_input_experiments_20261012/astra_formal_resume005/execution_completion/REPORT89_LOCAL_CANDIDATE_ROOT_INDEPENDENT_REVIEW_V1.json",
+    "bytes": 28341,
+    "sha256": "41dd8bb44accb023d259b7df9b3ad5854638b14934e89179b824f590f408be30"
+  },
+  "V1_manifest": {
+    "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/reports/frontier89/CANDIDATE_SOURCE_AND_EVIDENCE_MANIFEST_V1.json",
+    "bytes": 17287,
+    "sha256": "5559e39f0ec0a64bb88581e71d551858718a64d83758b3cc8fdb7ded27e0a45a"
+  },
+  "before_index": {
+    "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/reports/frontier89/release_v2/INDEX_CANDIDATE_BEFORE_V2.html",
+    "bytes": 6729,
+    "sha256": "1f9fa8b21570e7060615704c051110ecaa211e0c5a1e7e8ded1e0d51f7957311"
+  },
+  "after_index": {
+    "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/candidate/frontier89/snapshots/frontier-89/index.html",
+    "bytes": 6657,
+    "sha256": "3baea274227c14fd6c64fd4967248dae6b531d2271109ea2d97f478a28f4d4fa"
+  },
+  "focused_DOM": {
+    "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/reports/frontier89/release_v2/browser_dom_v3/FOCUSED_DOM_V2.json",
+    "bytes": 2715,
+    "sha256": "3e872dae0d564e7c91bbc63008d97196363ef90f809b66ea543d45ab24ab6efa"
+  },
+  "unchanged_files": 32,
+  "new_full_decode_or_media_playback": 0,
+  "new_science_HMAC_model_native_calls": 0,
+  "public_deployed": false
+}

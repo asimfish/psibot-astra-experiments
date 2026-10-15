@@ -1,0 +1,65 @@
+{
+  "schema": "safelab.astra.frontier89_release_focused_DOM.v2",
+  "passed": true,
+  "checks": [
+    {
+      "name": "Neutral published-snapshot wording; local-candidate sentence absent",
+      "passed": true,
+      "observed": {
+        "status": "固定证据快照；实验仍在补齐。89 条已接受试验 / 1319 次模型回复，截止 2026-10-15 06:54:12.188810 UTC。88 条上一快照 · 84 条历史快照 · 64 条历史快照 · 61 条历史快照 · 53 条历史快照 · 47 条历史报告。后续运行不混入本页计数。",
+        "footer": "固定报告来源：c9c054847c7cbb09251eaf4067e59f835f0615ee8daf998eefa17bd683c6d50c原始文件未重编码。历史88条复用已上线的原件，本次只添加v85 roundtrip rich 1条新已核实验的首末轮原输入图片、15张事件原帧与3段完整原视频；历史88条媒体沿原发布SHA复用；原 53 条与 47 条历史入口保留。实际输入图与同一 episode 完整原视频相邻。",
+        "title": "Astra 输入解耦实验 · 89 条证据快照"
+      }
+    },
+    {
+      "name": "Footer removes only local-candidate clause",
+      "passed": true,
+      "observed": null
+    },
+    {
+      "name": "89 accepted1319 replies cached98 and null effects retained",
+      "passed": true,
+      "observed": null
+    },
+    {
+      "name": "Previous88 navigation retained",
+      "passed": true,
+      "observed": null
+    },
+    {
+      "name": "Mobile neutral header/footer and width",
+      "passed": true,
+      "observed": null
+    },
+    {
+      "name": "Historical53 homepage links latest89",
+      "passed": true,
+      "observed": null
+    },
+    {
+      "name": "No video playback, MP4 response or runtime exception",
+      "passed": true,
+      "observed": {
+        "play_calls": 0,
+        "blocked_MP4_request_attempts": [
+          "https://asimfish.github.io/psibot-astra-experiments/snapshots/frontier-84/media/41c7bd8fa1e6be881defe848976f64789a85d10fefcdb93458d09b0ed6e72acb.mp4"
+        ],
+        "MP4_responses": [],
+        "errors": []
+      }
+    }
+  ],
+  "media_guard": {
+    "play_calls": 0,
+    "blocked_MP4_request_attempts": [
+      "https://asimfish.github.io/psibot-astra-experiments/snapshots/frontier-84/media/41c7bd8fa1e6be881defe848976f64789a85d10fefcdb93458d09b0ed6e72acb.mp4"
+    ],
+    "MP4_responses": [],
+    "errors": []
+  },
+  "initial_zero_MP4_attempts_oracle_would_pass": false,
+  "corrected_oracle_reason": "Existing independent cached98 example declares preload=metadata. CDP blocks every MP4 request before response; zero actual video playback/responses is the authorized release check.",
+  "new_visual_acceptance": 0,
+  "GPU_disabled": true,
+  "public_deployed": false
+}
