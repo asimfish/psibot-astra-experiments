@@ -1,0 +1,55 @@
+{
+  "schema": "safelab.astra.frontier92_source_evidence_pins.v1",
+  "formal": 92,
+  "valid_completed_replies": 1415,
+  "cached_separate": 98,
+  "new_valid_physical_failures": 3,
+  "new_successes": 0,
+  "actual_original_views": 46,
+  "original_video_decodes_inherited": 9,
+  "original_frames_inherited": 6441,
+  "source_refs": [
+    {
+      "path": "/mnt/whalent-nvme/tmp/astra_input_experiments_20261012/astra_formal_resume005/execution_completion/VERIFIED_FORMAL_FRONTIER_92_V2.json",
+      "sha256": "54d9f65914fdb8005090f3cc532b4c2f76390f9996ff8c5c3d89b662f2f813d7",
+      "bytes": 76951
+    },
+    {
+      "path": "/mnt/whalent-nvme/tmp/astra_input_experiments_20261012/astra_formal_resume005/execution_completion/V84_ACTUAL_ORIGINAL_SCIENTIFIC_REVIEW_V1.json",
+      "sha256": "d8701e3286a2e4c2bfe2dc406765d74c5658f011476d221139b6b9ee8cb38bda",
+      "bytes": 2380
+    },
+    {
+      "path": "/mnt/whalent-nvme/tmp/astra_input_experiments_20261012/astra_formal_resume005/execution_completion/V84_ACTUAL_ORIGINAL_VISUAL_REVIEW_V2.json",
+      "sha256": "db3ee79df1382876ff7270497e5446e1f1bc9f0c290847866a3d107c158c1443",
+      "bytes": 136761
+    },
+    {
+      "path": "/mnt/whalent-nvme/tmp/astra_input_experiments_20261012/astra_formal_resume005/execution_completion/V84_MINUS_J_FORMAL_ORIGINAL_ACCEPTANCE_V1.json",
+      "sha256": "ddd9507161e9ed6436f4c7de4452581f65a6af2a2ee321e2674d4f07cb00d904",
+      "bytes": 60706
+    },
+    {
+      "path": "/mnt/whalent-nvme/tmp/astra_input_experiments_20261012/astra_formal_resume005/execution_completion/V84_MINUS_CHEST_FORMAL_ORIGINAL_ACCEPTANCE_V1.json",
+      "sha256": "285df5e9d925587d20606ab8c5b123d5ee307198f494ed4b76364612c67701d3",
+      "bytes": 151355
+    },
+    {
+      "path": "/mnt/whalent-nvme/tmp/astra_input_experiments_20261012/astra_formal_resume005/execution_completion/V84_MINUS_K_FORMAL_ORIGINAL_ACCEPTANCE_V1.json",
+      "sha256": "cf87d195f3157d2d261eb12776dfd381a51f8b63f9df585e223933f570ac7a12",
+      "bytes": 337797
+    },
+    {
+      "path": "/mnt/whalent-nvme/tmp/astra_input_experiments_20261012/astra_formal_resume005/execution_completion/v84_postaudit_accepted_only_preparation_v1/reports/actual_accepted_append_once_v2/ACTUAL_ACCEPTED_ONLY_APPEND_RECEIPT_V2.json",
+      "sha256": "d8edf29f5fbb97359642c30f01dd9011c06e5ece978ed389acf83685344dfa63",
+      "bytes": 6005
+    },
+    {
+      "path": "/home/liyufeng/ops/astra_report86_cached98_candidate_20261015_001/reports/frontier92/materialize_missing34_once_v3/MATERIALIZATION_COMPLETE_V3.json",
+      "sha256": "f63094599b61fe7d431f2528ac69bf21d40e1dea323601f463ef559022336135",
+      "bytes": 90059
+    }
+  ],
+  "scientific_code_or_audit_reexecutions": 0,
+  "public_deployed": false
+}
