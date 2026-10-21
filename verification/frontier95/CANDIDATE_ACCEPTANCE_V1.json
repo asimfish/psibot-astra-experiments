@@ -1,0 +1,240 @@
+{
+  "schema": "safelab.astra.frontier95_review_candidate_acceptance.v1",
+  "task": "T-007",
+  "status": "review_candidate",
+  "public_deployed": false,
+  "base_commit": "bef6cb60acf640937d3a7449b1a28a538eef9ee1",
+  "formal_accepted": 95,
+  "completed_valid_signed_replies": 1496,
+  "missing_accepted": 905,
+  "cached98_separate": true,
+  "conditions": 50,
+  "contrasts": 46,
+  "n20_complete": 0,
+  "causal_input_conclusion": null,
+  "unique_initial_layouts_proven": false,
+  "spatial_generalization_claim": false,
+  "source_frontier_sha256": "b02a359b85c6cb19ae11f15702b412911044553c6087f2b09ef938deb29019ec",
+  "actual_append_receipt_sha256": "c58fb3e193c44ce842ae93953b25cad3af686f6d425d5f439581fa7ac1eecf94",
+  "new_acceptance_sha256s": [
+    "076bd35deba1817336d0515d84203b6be46650c2734b74f08060843aeb4bc02f",
+    "c92b541d073cba217a322852f8cf96a4cdb5398685bbc2ebac9036f03a13e67d"
+  ],
+  "static_checks": [
+    {
+      "name": "actual accepted-only93to95 and1496 signed replies905missing",
+      "passed": true
+    },
+    {
+      "name": "exact95 actual trial IDs and new two only",
+      "passed": true
+    },
+    {
+      "name": "every published outcome agrees original accepted frontier",
+      "passed": true
+    },
+    {
+      "name": "prior93 science exact with URL-equivalent relative relocation only",
+      "passed": true
+    },
+    {
+      "name": "prior93 environment and independent cached98 exact",
+      "passed": true
+    },
+    {
+      "name": "new47 original decisions exact timing retries handlibrary and12 first/final actual PNG bindings",
+      "passed": true
+    },
+    {
+      "name": "minusF39reply4phase success withF removed",
+      "passed": true
+    },
+    {
+      "name": "half8reply0phase physical failure at unchanged15deg gate censored",
+      "passed": true
+    },
+    {
+      "name": "old excluded examples preserved withv90infra27 distinct",
+      "passed": true
+    },
+    {
+      "name": "20registered repeats no unique initial state or spatialgeneralization claim",
+      "passed": true
+    },
+    {
+      "name": "50cohorts46contrasts no completedn20 or causal estimate",
+      "passed": true
+    },
+    {
+      "name": "all cohort descriptive counts and timings recomputed",
+      "passed": true
+    },
+    {
+      "name": "all45new byteoriginal assets SHA and length exact",
+      "passed": true
+    },
+    {
+      "name": "all1057media paths have exact SHA local originals validated external priorbindings retained",
+      "passed": true
+    },
+    {
+      "name": "final input size dynamic and censoredfailure shown",
+      "passed": true
+    },
+    {
+      "name": "all historical tracked snapshots and root science files untouched",
+      "passed": true
+    },
+    {
+      "name": "public text excludes private paths credentials and payloads",
+      "passed": true
+    },
+    {
+      "name": "navigation95 and immutable93 previous retained",
+      "passed": true
+    }
+  ],
+  "browser_checks": [
+    {
+      "name": "95accepted1496replies905missing cached98 distinct50cohorts46contrasts no complete n20effects",
+      "passed": true
+    },
+    {
+      "name": "95snapshot93previous and20registeredrepeat limitation visible",
+      "passed": true
+    },
+    {
+      "name": "every95case generated initial/final DOM size and captions follow exact perimage dimensions",
+      "passed": true
+    },
+    {
+      "name": "minus_F actual3camera sameepisode pairs and reviewed event images render",
+      "passed": true
+    },
+    {
+      "name": "minus_F six actual firstfinal PNGs correct natural and DOM dimensions",
+      "passed": true
+    },
+    {
+      "name": "minus_F actual original physical score replies retries and censorship",
+      "passed": true
+    },
+    {
+      "name": "minus_F exact wall wait simulation and ADMISSION source visible",
+      "passed": true
+    },
+    {
+      "name": "minusF actively removed all39 signed rounds",
+      "passed": true
+    },
+    {
+      "name": "v5-psi_roundtrip_100ml-11003-minus_F head_camera byteoriginal640x480 partialplay thenpause",
+      "passed": true
+    },
+    {
+      "name": "v5-psi_roundtrip_100ml-11003-minus_F chest_camera byteoriginal640x480 partialplay thenpause",
+      "passed": true
+    },
+    {
+      "name": "v5-psi_roundtrip_100ml-11003-minus_F third_camera byteoriginal640x480 partialplay thenpause",
+      "passed": true
+    },
+    {
+      "name": "rgb_half_resolution actual3camera sameepisode pairs and reviewed event images render",
+      "passed": true
+    },
+    {
+      "name": "rgb_half_resolution six actual firstfinal PNGs correct natural and DOM dimensions",
+      "passed": true
+    },
+    {
+      "name": "rgb_half_resolution actual original physical score replies retries and censorship",
+      "passed": true
+    },
+    {
+      "name": "rgb_half_resolution exact wall wait simulation and ADMISSION source visible",
+      "passed": true
+    },
+    {
+      "name": "half failure unchanged15deg trigger and no speedclaim visible",
+      "passed": true
+    },
+    {
+      "name": "v5-psi_roundtrip_100ml-11003-rgb_half_resolution head_camera byteoriginal640x480 partialplay thenpause",
+      "passed": true
+    },
+    {
+      "name": "v5-psi_roundtrip_100ml-11003-rgb_half_resolution chest_camera byteoriginal640x480 partialplay thenpause",
+      "passed": true
+    },
+    {
+      "name": "v5-psi_roundtrip_100ml-11003-rgb_half_resolution third_camera byteoriginal640x480 partialplay thenpause",
+      "passed": true
+    },
+    {
+      "name": "v90infra27 excluded and previousv91infra10 plus7untouched retained",
+      "passed": true
+    },
+    {
+      "name": "minus_F mobile media stack persistent context and exact inputs",
+      "passed": true
+    },
+    {
+      "name": "rgb_half_resolution mobile media stack persistent context and exact inputs",
+      "passed": true
+    },
+    {
+      "name": "historical53homepage points latest95",
+      "passed": true
+    },
+    {
+      "name": "actual latest navigation reaches95",
+      "passed": true
+    },
+    {
+      "name": "navigation95 loads exact candidate",
+      "passed": true
+    },
+    {
+      "name": "actual previous navigation preserves93original1449replysnapshot",
+      "passed": true
+    },
+    {
+      "name": "no runtime exceptions or local HTTP failures",
+      "passed": true
+    },
+    {
+      "name": "mobile95 overview actual top and no overflow",
+      "passed": true
+    },
+    {
+      "name": "minus_F camera images and poster remain one mobile column",
+      "passed": true
+    },
+    {
+      "name": "rgb_half_resolution camera images and poster remain one mobile column",
+      "passed": true
+    },
+    {
+      "name": "no runtime exceptions or local HTTP failures",
+      "passed": true
+    }
+  ],
+  "new_original_media_assets": 45,
+  "new_original_media_bytes": 34475099,
+  "media_reference_count": 1057,
+  "local_media_references_hashed": 556,
+  "inherited_external_dashboard_references_not_refetched": 501,
+  "desktop_real_browser": true,
+  "mobile_browser_emulation": true,
+  "physical_mobile_device_tested": false,
+  "partial_original_video_plays": 6,
+  "new_full_video_decodes": 0,
+  "new_scientific_visual_acceptances": 0,
+  "model_calls": 0,
+  "native_calls": 0,
+  "training_calls": 0,
+  "original_experiment_ledger_writes": 0,
+  "harness_note": "Initial core browser run passed24 checks then hit a test-expression quoting error at previous93 navigation. The expression was corrected; focused3-check navigation passed without video playback. Four supplementary mobile screenshot checks also passed.",
+  "rollback": "Revert the additive frontier95 snapshot and the two root latest-navigation lines; all historical snapshots are unchanged."
+}
