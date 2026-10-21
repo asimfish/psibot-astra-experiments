@@ -40,3 +40,8 @@ entry explicitly cites the original ADMISSION snapshot rather than claiming an
 unread SOURCE_IDENTITY. The feature PR awaits root review and publication.
 
 Refs: T-006
+
+Root review follow-up: the visible execution cutoff now includes the seven v91
+unattempted tail rows and explicitly states that they are not physical failures.
+A focused static comparison and actual DOM-text check validate this wording; no
+video, scientific audit or experiment was repeated for this correction.
