@@ -1,0 +1,175 @@
+{
+  "schema": "safelab.astra.frontier93_public_validation.v1",
+  "accepted_trials": 93,
+  "completed_valid_signed_replies": 1449,
+  "missing_registered_trials": 907,
+  "cached_offset_episodes_separate": 98,
+  "complete_n20_cohorts": 0,
+  "static_checks": [
+    {
+      "name": "Actual93 append/1449 valid replies/907 missing",
+      "passed": true
+    },
+    {
+      "name": "All93 actual accepted rows and new one ID",
+      "passed": true
+    },
+    {
+      "name": "Every published outcome agrees exact accepted original",
+      "passed": true
+    },
+    {
+      "name": "Old92 scientific records unchanged except published media base",
+      "passed": true
+    },
+    {
+      "name": "Old92 environments unchanged and cached98 separate",
+      "passed": true
+    },
+    {
+      "name": "New valid failure exact seed condition metrics",
+      "passed": true
+    },
+    {
+      "name": "F removed throughout; actual three640x480 cameras and34 input steps",
+      "passed": true
+    },
+    {
+      "name": "Six actual first/final inputs bound to signed original decisions",
+      "passed": true
+    },
+    {
+      "name": "Three original sameepisode videos and15 event frames",
+      "passed": true
+    },
+    {
+      "name": "All24 new media bytes match exact original sources",
+      "passed": true
+    },
+    {
+      "name": "All timing/retries remain descriptive and nonadditive",
+      "passed": true
+    },
+    {
+      "name": "All50 cohorts and46 paired effects unestimated",
+      "passed": true
+    },
+    {
+      "name": "Each cohort recomputed from all accepted outcomes",
+      "passed": true
+    },
+    {
+      "name": "Infrastructure10 replies and7 neverattempted excluded",
+      "passed": true
+    },
+    {
+      "name": "New env cites actual admission source without SOURCE_IDENTITY claim",
+      "passed": true
+    },
+    {
+      "name": "Homepage latest93 and92 history retained",
+      "passed": true
+    },
+    {
+      "name": "Historical92 tracked tree unchanged",
+      "passed": true
+    },
+    {
+      "name": "Public text has no private filesystem or credential payload",
+      "passed": true
+    }
+  ],
+  "browser_checks": [
+    {
+      "name": "93accepted1449replies907missing cached98 distinct no complete n20 effects",
+      "passed": true
+    },
+    {
+      "name": "Snapshot93 keeps92 previous navigation",
+      "passed": true
+    },
+    {
+      "name": "Actual samecase input/video pairs and reviewed events render together",
+      "passed": true
+    },
+    {
+      "name": "New valid failure exact seed11001 phases2 retries1 requests34",
+      "passed": true
+    },
+    {
+      "name": "F actively removed through all34; actual3 camera names",
+      "passed": true
+    },
+    {
+      "name": "Wall/model/simulation and admission provenance visible",
+      "passed": true
+    },
+    {
+      "name": "head_camera original MP4 starts and pauses via real controls",
+      "passed": true
+    },
+    {
+      "name": "chest_camera original MP4 starts and pauses via real controls",
+      "passed": true
+    },
+    {
+      "name": "third_camera original MP4 starts and pauses via real controls",
+      "passed": true
+    },
+    {
+      "name": "Infrastructure J and untouched7 excluded",
+      "passed": true
+    },
+    {
+      "name": "Mobile media stack and persistent case context match seed11001",
+      "passed": true
+    },
+    {
+      "name": "Legacy homepage points latest93 retains53 historical report",
+      "passed": true
+    },
+    {
+      "name": "Actual latest navigation reaches93",
+      "passed": true
+    },
+    {
+      "name": "No runtime exceptions or local HTTP failures",
+      "passed": true
+    }
+  ],
+  "original_video_controls": [
+    {
+      "camera": "head_camera",
+      "width": 640,
+      "height": 480,
+      "duration": 49.866667,
+      "currentTime": 0.323748,
+      "paused": true,
+      "error": null
+    },
+    {
+      "camera": "chest_camera",
+      "width": 640,
+      "height": 480,
+      "duration": 49.866667,
+      "currentTime": 0.329406,
+      "paused": true,
+      "error": null
+    },
+    {
+      "camera": "third_camera",
+      "width": 640,
+      "height": 480,
+      "duration": 49.866667,
+      "currentTime": 0.323537,
+      "paused": true,
+      "error": null
+    }
+  ],
+  "new_full_video_audits": 0,
+  "new_model_native_training_calls": 0,
+  "source_frontier_sha256": "893c0234ca8a1b5b82f26fb4177785e8ba99ed63080af4f0ec8989d6bfaecbaf",
+  "actual_append_sha256": "4024458230c0031e358ed0c037ab85b9212a114f9de14d0a8b27eff5c8bf1d07",
+  "historical92_preserved": true,
+  "public_deployed": false
+}
