@@ -1,0 +1,9 @@
+# T-015 · Frontier98 playback delivery
+
+Only the three newly accepted episode videos receive separate stream-copy faststart playback files. Their original encoded video packets, PTS/DTS, packet durations and flags, codec parameters, dimensions, timebase and stream/format duration match exactly. Each has257 packets. Originals and complete original download links stay intact; the new viewer labels the playback copy. Scientific data.json, environments,98 accepted trials,1559 replies,902 missing, zero completed20-trial cohorts, cached98 and all prior snapshots stay unchanged.
+
+The original containers place moov after mdat; saved browser requests show a tail range before continued decoding. This is a verifiable delivery cost, not proof of the sole cause of all earlier public timeouts. All prior failed public attempts remain in the evidence bundle. Candidate validation:49 static checks and15 focused browser checks over fresh same-page first playback of all3 views, then mobile input/video layout and loaded first/last input PNG. Five screenshots were viewed. One candidate Chrome startup failure and one client-aborted local data fetch are retained before the final instrumented pass. There was no new full frame audit, model/native/training run or scientific ledger write.
+
+The existing cached example now also uses preload=none. Case bodies are created only when opened, so the viewer does not create videos for all98 cases. The original cached data/source/download remain unchanged.
+
+The actual standalone report repository has no.agent or AGENTS entry; its established isolated feature/evidence/PR/exact-head-review route is followed. No workflow read or successful agentctl entry is invented, and no unrelated ChemBench managed installation, task or claim is modified. This feature is review-ready only; merge and public verification require independent exact-head review.
