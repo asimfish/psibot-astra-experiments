@@ -1,0 +1,100 @@
+{
+  "schema": "astra.frontier98.web_delivery_validation.v1",
+  "scope": "Playback-container delivery only; no new experiment or scientific acceptance.",
+  "base": "c05cf1b2cb9fbf4482fff55fb15b3f88f0afe0c1",
+  "original_frontier98_data_sha256": "9533c40a5920a54504839ef7d20563d2c014643469b96032ea96233606b58fb6",
+  "all_original18media_bytes_preserved": true,
+  "original97_and_prior_snapshots_unchanged": true,
+  "original_full_video_downloads_preserved": true,
+  "separate_delivery_manifest_sha256": "e898f867233882cba1e39686be21b9de79ab1457154612752f1403edbb20f84a",
+  "new_stream_copy_files": 3,
+  "encoder_used": false,
+  "packets_each": [
+    257,
+    257,
+    257
+  ],
+  "all_packet_datahash_PTS_DTS_duration_flags_equal": true,
+  "dimensions_timebase_stream_and_format_duration_equal": true,
+  "static_checks_passed": 49,
+  "focused_local_browser_checks": 15,
+  "first_play_without_direct_media_warmup": true,
+  "partial_firstplays": [
+    {
+      "camera": "head_camera",
+      "src": "media/playback-9dfa691de26df1ae82bbf2a0ce3249216e27b2ae68ece3a93f1344e11a354066.mp4",
+      "width": 640,
+      "height": 480,
+      "duration": 17.133333,
+      "currentTime": 0.35465,
+      "paused": true,
+      "muted": true,
+      "readyState": 4,
+      "networkState": 1,
+      "error": null,
+      "canPlayType": "probably"
+    },
+    {
+      "camera": "chest_camera",
+      "src": "media/playback-e20e13f07a843e63a9b2eff22bf00b9537d3c30d5d307207cabc92e4bbacc6fb.mp4",
+      "width": 640,
+      "height": 480,
+      "duration": 17.133333,
+      "currentTime": 0.332964,
+      "paused": true,
+      "muted": true,
+      "readyState": 4,
+      "networkState": 1,
+      "error": null,
+      "canPlayType": "probably"
+    },
+    {
+      "camera": "third_camera",
+      "src": "media/playback-d46cfe60f35e6e785c3d5a0d49bd498c2eab6ab2769254c82e8a68d921da0b62.mp4",
+      "width": 640,
+      "height": 480,
+      "duration": 17.133333,
+      "currentTime": 0.437328,
+      "paused": true,
+      "muted": true,
+      "readyState": 4,
+      "networkState": 1,
+      "error": null,
+      "canPlayType": "probably"
+    }
+  ],
+  "mobile": {
+    "accepted": 98,
+    "replies": 1559,
+    "missing": 902,
+    "n20": 0,
+    "width": 390,
+    "docWidth": 390,
+    "cameras": 3,
+    "pairs": 3,
+    "columns": "296px",
+    "inputs": [
+      {
+        "width": 640,
+        "height": 480,
+        "complete": true
+      },
+      {
+        "width": 640,
+        "height": 480,
+        "complete": true
+      }
+    ],
+    "sticky": {
+      "left": 8,
+      "right": 382,
+      "height": 88.5625,
+      "text": "PsiBot 100ml A\u2192B \u00b7 \u53bb\u5206\u7c7b\u6267\u884c\u53cd\u9988 \u00b7 seed 11003\u5df2\u6ce8\u518c\u7269\u7406\u8bc4\u5206\u5931\u8d25\u7269\u7406\u6293\u53d6\u91cd\u8bd5 0 \u00b7 \u6a21\u578b\u56de\u590d 12 \u00b7 \u5899\u949f 1357.4 s\uff08\u542b\u6a21\u578b\u7b49\u5f85 899.9 s\uff09"
+    }
+  },
+  "candidate_screenshots_viewed": 5,
+  "own_browser_group_empty": true,
+  "other_resources_or_scientific_ledger_actions": 0,
+  "public_firstplay_verification_pending": true,
+  "cause_boundary": "Original moov boxes follow mdat and saved Chrome ranges sought the tail. Earlier public timeouts are retained; the container arrangement is not claimed as the sole cause of every timeout. One local Chrome startup and one local data fetch failed before the final instrumented pass."
+}
