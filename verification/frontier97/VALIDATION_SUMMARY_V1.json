@@ -1,0 +1,88 @@
+{
+  "schema": "safelab.astra.frontier97_publication_validation.v1",
+  "static_checks": 116,
+  "static_pass": true,
+  "browser_checks": 18,
+  "browser_pass": true,
+  "desktop_mobile_screenshots_actually_viewed": 4,
+  "partial_original_video_play_checks": [
+    {
+      "camera": "head_camera",
+      "width": 640,
+      "height": 480,
+      "duration": 40.066667,
+      "currentTime": 0.323213,
+      "paused": true,
+      "error": null
+    },
+    {
+      "camera": "chest_camera",
+      "width": 640,
+      "height": 480,
+      "duration": 40.066667,
+      "currentTime": 0.323059,
+      "paused": true,
+      "error": null
+    },
+    {
+      "camera": "third_camera",
+      "width": 640,
+      "height": 480,
+      "duration": 40.066667,
+      "currentTime": 0.324009,
+      "paused": true,
+      "error": null
+    }
+  ],
+  "browser_cleanup": {
+    "own_browser_gone": true,
+    "foreign_signals": 0,
+    "GPU_disabled": true
+  },
+  "new_full_video_decodes": 0,
+  "root_original21view_visual_acceptance_inherited": true,
+  "new_scientific_acceptance_by_publication": 0,
+  "all96_records_and_environment_preserved": true,
+  "old96snapshot_files_changed": 0,
+  "success_rates_and_causal_effects_pending": true,
+  "validity": {
+    "accepted": 97,
+    "model_replies": 1547,
+    "missing": 903,
+    "n20_complete": 0
+  },
+  "dashboard_existing_navigation": {
+    "index_to_astra": true,
+    "astra_to_report_root": true,
+    "report_root_latest97_actual_local_browser_test": true,
+    "existing_dashboard_mutations": 0
+  },
+  "historical_test_harness_limit": "Initial browser test smooth-scroll sticky-context timeout retained. A later fresh browser startup exceeded inherited10second wait and exited without page checks; preserved log. Final pass used instant test navigation and30second startup bound, all18checks passed; exact own browser reaped. No scientific acceptance changed.",
+  "evidence": {
+    "static": {
+      "bytes": 12707,
+      "sha256": "06e5bffb941e9949f4b69e0bd19cc769da59685e94d9ef1c10ae6692cb360179"
+    },
+    "browser": {
+      "bytes": 12669,
+      "sha256": "285d7b7f4833854fa8c949effb157f02225e2cf37b7659e2691573dca0809098"
+    },
+    "existing_dashboard": {
+      "bytes": 1689,
+      "sha256": "55a1af7d3ffeb974d078c468daee9026d71cce2dc497bb38a7b2107d9f3fad53"
+    },
+    "builder": {
+      "bytes": 16819,
+      "sha256": "7a75d925400ee79d535ec6b7a96f0b6c54c6619de8b13149afcef5d5f3db73ab"
+    },
+    "static_verifier": {
+      "bytes": 7517,
+      "sha256": "5f626a607d92a8f908bd420c7837cd81eb055c6c0ef44f40938116df285fa7ba"
+    },
+    "browser_source": {
+      "bytes": 10637,
+      "sha256": "c2dba4455e7c60a2b42ba4b82bbf35bb708f423d381c0620e0dc20cd2e3ea807"
+    }
+  },
+  "full_width_episode_evidence_under_compact_condition_summary": true
+}

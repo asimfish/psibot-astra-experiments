@@ -1,0 +1,36 @@
+{
+  "schema": "safelab.astra.frontier97_public_source_bindings.v1",
+  "source": {
+    "frontier": {
+      "bytes": 81868,
+      "sha256": "3d5643cd40809dd903f021f2fe280a31a8fca70cf3cff34273994f52bfc9b6ab"
+    },
+    "actual_append_receipt": {
+      "bytes": 1351,
+      "sha256": "675b979beafc6ba66826d6aa78f41991ec3ad01de541ed50a2810ca0d3d05677"
+    },
+    "original_ready": {
+      "bytes": 1656564,
+      "sha256": "40f12b4573b4ca0b572edf12f4f638bcd1389ec53b7efa833173149701891afc"
+    },
+    "per_case_acceptances": {
+      "v5-psi_pick_place_100ml-11004-minus_J": {
+        "bytes": 150893,
+        "sha256": "f1b87bfa7302ccd7706ebb5103d2f9ee14f248f828a3d3ddeb5c8bc7cde5514c"
+      }
+    }
+  },
+  "original_scientific_review_sha256": "d57294c39015f2582cd869e75a01a0db1a74b45f29870680b01bca974ab26b04",
+  "root_actual_visual_review_sha256": "6b55471e3ad9c1553dd10fb835d2193103c86c326909bb5439d00d5b565e0a95",
+  "source_freeze_sha256": "b7faebf851ad5f0752f1298beab8d7ddeb5e179895de96cf985aff3f625cedb5",
+  "raw_signed_payloads_included": false,
+  "credentials_or_keys_included": false,
+  "source_trial_id": "v5-psi_pick_place_100ml-11004-minus_J",
+  "success_wall_s": 2391.776982112031,
+  "time_to_success_censored": false,
+  "model_replies": 26,
+  "pickup_attempts": 1,
+  "pickup_retries": 0,
+  "experiment_setting": "physics_simulation_not_real_robot",
+  "new_scientific_acceptance_by_publication": 0
+}
