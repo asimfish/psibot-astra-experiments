@@ -1,0 +1,87 @@
+{
+  "schema": "safelab.astra.frontier97_publication_validation.v1",
+  "static_checks": 116,
+  "static_pass": true,
+  "browser_checks": 17,
+  "browser_pass": true,
+  "desktop_mobile_screenshots_actually_viewed": 4,
+  "partial_original_video_play_checks": [
+    {
+      "camera": "head_camera",
+      "width": 640,
+      "height": 480,
+      "duration": 40.066667,
+      "currentTime": 1.716181,
+      "paused": true,
+      "error": null
+    },
+    {
+      "camera": "chest_camera",
+      "width": 640,
+      "height": 480,
+      "duration": 40.066667,
+      "currentTime": 0.330026,
+      "paused": true,
+      "error": null
+    },
+    {
+      "camera": "third_camera",
+      "width": 640,
+      "height": 480,
+      "duration": 40.066667,
+      "currentTime": 0.323181,
+      "paused": true,
+      "error": null
+    }
+  ],
+  "browser_cleanup": {
+    "own_browser_gone": true,
+    "foreign_signals": 0,
+    "GPU_disabled": true
+  },
+  "new_full_video_decodes": 0,
+  "root_original21view_visual_acceptance_inherited": true,
+  "new_scientific_acceptance_by_publication": 0,
+  "all96_records_and_environment_preserved": true,
+  "old96snapshot_files_changed": 0,
+  "success_rates_and_causal_effects_pending": true,
+  "validity": {
+    "accepted": 97,
+    "model_replies": 1547,
+    "missing": 903,
+    "n20_complete": 0
+  },
+  "dashboard_existing_navigation": {
+    "index_to_astra": true,
+    "astra_to_report_root": true,
+    "report_root_latest97_actual_local_browser_test": true,
+    "existing_dashboard_mutations": 0
+  },
+  "historical_test_harness_limit": "Initial local browser run reached all three partial plays but timed out waiting for sticky mobile context because smooth scrolling was not awaited. Fresh run used instantaneous navigation; 17 checks passed. No site gate was relaxed.",
+  "evidence": {
+    "static": {
+      "bytes": 12707,
+      "sha256": "06e5bffb941e9949f4b69e0bd19cc769da59685e94d9ef1c10ae6692cb360179"
+    },
+    "browser": {
+      "bytes": 12535,
+      "sha256": "7ad0021d6e240f1553a639904e51dc053e02a1527664718659a5b4cfa9c2f824"
+    },
+    "existing_dashboard": {
+      "bytes": 1689,
+      "sha256": "55a1af7d3ffeb974d078c468daee9026d71cce2dc497bb38a7b2107d9f3fad53"
+    },
+    "builder": {
+      "bytes": 15126,
+      "sha256": "2c37f6c8b348f80b72fac215c3c116ac11663f1ec2fa93bc710e59884284fe2e"
+    },
+    "static_verifier": {
+      "bytes": 7517,
+      "sha256": "5f626a607d92a8f908bd420c7837cd81eb055c6c0ef44f40938116df285fa7ba"
+    },
+    "browser_source": {
+      "bytes": 10277,
+      "sha256": "b52c6da66ea092b547627a54ae6d9420b9121c32a3d99158d9807fcf424d306b"
+    }
+  }
+}
