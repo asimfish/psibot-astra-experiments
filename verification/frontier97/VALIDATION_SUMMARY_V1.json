@@ -2,7 +2,7 @@
   "schema": "safelab.astra.frontier97_publication_validation.v1",
   "static_checks": 116,
   "static_pass": true,
-  "browser_checks": 17,
+  "browser_checks": 18,
   "browser_pass": true,
   "desktop_mobile_screenshots_actually_viewed": 4,
   "partial_original_video_play_checks": [
@@ -11,7 +11,7 @@
       "width": 640,
       "height": 480,
       "duration": 40.066667,
-      "currentTime": 1.716181,
+      "currentTime": 0.323213,
       "paused": true,
       "error": null
     },
@@ -20,7 +20,7 @@
       "width": 640,
       "height": 480,
       "duration": 40.066667,
-      "currentTime": 0.330026,
+      "currentTime": 0.323059,
       "paused": true,
       "error": null
     },
@@ -29,7 +29,7 @@
       "width": 640,
       "height": 480,
       "duration": 40.066667,
-      "currentTime": 0.323181,
+      "currentTime": 0.324009,
       "paused": true,
       "error": null
     }
@@ -57,31 +57,32 @@
     "report_root_latest97_actual_local_browser_test": true,
     "existing_dashboard_mutations": 0
   },
-  "historical_test_harness_limit": "Initial local browser run reached all three partial plays but timed out waiting for sticky mobile context because smooth scrolling was not awaited. Fresh run used instantaneous navigation; 17 checks passed. No site gate was relaxed.",
+  "historical_test_harness_limit": "Initial browser test smooth-scroll sticky-context timeout retained. A later fresh browser startup exceeded inherited10second wait and exited without page checks; preserved log. Final pass used instant test navigation and30second startup bound, all18checks passed; exact own browser reaped. No scientific acceptance changed.",
   "evidence": {
     "static": {
       "bytes": 12707,
       "sha256": "06e5bffb941e9949f4b69e0bd19cc769da59685e94d9ef1c10ae6692cb360179"
     },
     "browser": {
-      "bytes": 12535,
-      "sha256": "7ad0021d6e240f1553a639904e51dc053e02a1527664718659a5b4cfa9c2f824"
+      "bytes": 12669,
+      "sha256": "285d7b7f4833854fa8c949effb157f02225e2cf37b7659e2691573dca0809098"
     },
     "existing_dashboard": {
       "bytes": 1689,
       "sha256": "55a1af7d3ffeb974d078c468daee9026d71cce2dc497bb38a7b2107d9f3fad53"
     },
     "builder": {
-      "bytes": 15126,
-      "sha256": "2c37f6c8b348f80b72fac215c3c116ac11663f1ec2fa93bc710e59884284fe2e"
+      "bytes": 16819,
+      "sha256": "7a75d925400ee79d535ec6b7a96f0b6c54c6619de8b13149afcef5d5f3db73ab"
     },
     "static_verifier": {
       "bytes": 7517,
       "sha256": "5f626a607d92a8f908bd420c7837cd81eb055c6c0ef44f40938116df285fa7ba"
     },
     "browser_source": {
-      "bytes": 10277,
-      "sha256": "b52c6da66ea092b547627a54ae6d9420b9121c32a3d99158d9807fcf424d306b"
+      "bytes": 10637,
+      "sha256": "c2dba4455e7c60a2b42ba4b82bbf35bb708f423d381c0620e0dc20cd2e3ea807"
     }
-  }
+  },
+  "full_width_episode_evidence_under_compact_condition_summary": true
 }

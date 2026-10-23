@@ -9,3 +9,5 @@
 
 /* Mobile condition cards preserve all context and full-width media labels. */
 @media(max-width:800px){#matrix{display:block;min-width:0}#matrix>thead{display:none}#matrix>tbody,#matrix>tbody>tr,#matrix>tbody>tr>td{display:block;width:100%}#matrix>tbody>tr{margin-bottom:16px;border:1px solid var(--line)}#matrix>tbody>tr>td{border-width:0 0 1px}#matrix>tbody>tr>td:last-child{border-bottom:0}#matrix>tbody>tr>td:nth-child(2)::before{content:'样本、注册评分与重试';display:block;font-weight:700;margin-bottom:6px}#matrix>tbody>tr>td:nth-child(3)::before{content:'墙钟：成功 / 失败分开';display:block;font-weight:700;margin-bottom:6px}}
+
+.episode-row>td{padding:16px;background:#f7fafb}.episode-group-context{margin:0 0 12px;color:var(--muted);font-size:13px}.episode-row details.seed{background:white}.episode-row .camera{max-width:1450px;margin:12px auto}.episode-row .event-gallery{max-width:1450px;margin:12px auto}
