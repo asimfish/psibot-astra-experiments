@@ -1,0 +1,14 @@
+{
+  "schema": "safelab.astra.frontier98_public_source_bindings.v1",
+  "actual_accepted_frontier98_V2_sha256": "ff618419bd6f68f6fb34b9e92675ec253b03323169d155fa5574c38f6f53d7b4",
+  "actual_accepted_append_receipt_sha256": "447b87be4a1ae0de7370e7c3358e957a21bfc6925332d9d08fd82f5dfb47fb5d",
+  "formal_original106_acceptance_sha256": "a98b272384698a1d32cc10efdff6461fcec9505a88744956efe461754485feec",
+  "root_actual_original15PNG_visual_review_sha256": "10427793a53d7ab3429a168e3f877a2b9be722e3eca3dec1322b9b939320bb27",
+  "original_signed_input_policy_hand_oracle_media_audit_sha256": "a33912f7f236e78141f85e02016f04d616e7f645970af9d6af254140a72c38be",
+  "native_terminal_sha256": "ecf66f8f90abe7e561090828344687c35311cfd3f6fd634f9272dc43e4beda52",
+  "source_freeze_sha256": "d4e52d78d74c15dd48ba141fa1a4f0e9c39a8be95ce94fe081645e0399262ba9",
+  "parent_three_infra_metadata_review_sha256": "2a24831096e63a8ca7aec1a92f2de503b260d2797d4afea3b6ed114e8a4339c5",
+  "raw_signed_payloads_keys_private_paths_published": false,
+  "original_media_reencoded": false,
+  "registered_valid_failure_preserved": true
+}
