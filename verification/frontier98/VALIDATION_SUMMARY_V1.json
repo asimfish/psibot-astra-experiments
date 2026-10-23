@@ -1,0 +1,96 @@
+{
+  "schema": "safelab.astra.frontier98_publication_validation.v1",
+  "static_checks": 106,
+  "static_pass": true,
+  "browser_checks": 19,
+  "browser_pass": true,
+  "desktop_mobile_screenshots_actually_viewed": 4,
+  "partial_original_video_play_checks": [
+    {
+      "camera": "head_camera",
+      "width": 640,
+      "height": 480,
+      "duration": 17.133333,
+      "currentTime": 0.327381,
+      "paused": true,
+      "error": null
+    },
+    {
+      "camera": "chest_camera",
+      "width": 640,
+      "height": 480,
+      "duration": 17.133333,
+      "currentTime": 0.324118,
+      "paused": true,
+      "error": null
+    },
+    {
+      "camera": "third_camera",
+      "width": 640,
+      "height": 480,
+      "duration": 17.133333,
+      "currentTime": 0.323069,
+      "paused": true,
+      "error": null
+    }
+  ],
+  "browser_cleanup": {
+    "own_browser_gone": true,
+    "foreign_signals": 0,
+    "GPU_disabled": true
+  },
+  "new_full_video_decodes": 0,
+  "root_original15view_visual_acceptance_inherited": true,
+  "original_full_decode771frames_inherited": true,
+  "new_scientific_acceptance_by_publication": 0,
+  "all97_records_and_environments_preserved": true,
+  "old97snapshot_files_changed": 0,
+  "success_rates_and_causal_effects_pending": true,
+  "validity": {
+    "accepted": 98,
+    "model_replies": 1559,
+    "missing": 902,
+    "n20_complete": 0,
+    "new_case_success": false,
+    "new_model_calls": 12,
+    "new_pickup_attempts": 1,
+    "new_pickup_retries": 0,
+    "observed_episode_wall_s": 1357.3693455900066,
+    "time_to_success_wall_s": null,
+    "time_to_success_censored": true
+  },
+  "three_infrastructure_rows": {
+    "valid_physical_outcomes": false,
+    "whole_episode_requests_charged": [
+      1,
+      11,
+      8
+    ],
+    "cost_refund": false,
+    "prior_observed_retry_retained_as_censored": true,
+    "underlying_network_cause_known": false,
+    "not_complete_historical_list": true
+  },
+  "historical59_first_invalid_download": "Deferred; this candidate explicitly adds only3 reviewed interruptions and keeps prior examples. No invented unknown timing.",
+  "workflow": {
+    "standalone_report_repository_agent_entry_absent": true,
+    "established_feature_PR_exact_head_review_workflow": true,
+    "ChemBench_REPAIR_INSTALL_not_modified": true,
+    "task_id": "T-014"
+  },
+  "evidence": {
+    "STATIC_ACCEPTANCE_98_V1.json": {
+      "bytes": 11010,
+      "sha256": "a1d8e82c9a1cd6c8bcb3ccf84485110810ef3741d9e3ef45fbc74e0d8e7f1bae"
+    },
+    "browser_v1/BROWSER_ACCEPTANCE_98_V1.json": {
+      "bytes": 11642,
+      "sha256": "526dfc84fe950207cad9d0f01e2dc9df9a1c14f555df630a30193ad71e20e607"
+    },
+    "browser_v1/BROWSER_CLEANUP.json": {
+      "bytes": 70,
+      "sha256": "b3fa210a6dc7ba8e1dc21bca99022b5cd8d1c2c5c26b54395242f81a4523a2fb"
+    }
+  },
+  "test_harness_corrections": "Initial build prefix checks adapted root views(camera labels) versus images(15 calls), and C actual last_action_status key. Initial static wording oracle aligned with exact failure-wall text. Before file/commit acceptance; no scientific metadata modified."
+}
