@@ -1,0 +1,88 @@
+{
+  "schema": "safelab.astra.public_original_media.v1",
+  "assets": {
+    "media/72684017f1eebb79ab4d09708c20b6b763128dfb5147431bf8cb5cae55f31458.png": {
+      "bytes": 321976,
+      "sha256": "72684017f1eebb79ab4d09708c20b6b763128dfb5147431bf8cb5cae55f31458",
+      "source_sha256": "72684017f1eebb79ab4d09708c20b6b763128dfb5147431bf8cb5cae55f31458",
+      "no_reencode": true
+    },
+    "media/09f421449fc4c27d3923816bdbd7bfe6b5cdfe3dc74cd5894c81ee2c068c42a5.png": {
+      "bytes": 327056,
+      "sha256": "09f421449fc4c27d3923816bdbd7bfe6b5cdfe3dc74cd5894c81ee2c068c42a5",
+      "source_sha256": "09f421449fc4c27d3923816bdbd7bfe6b5cdfe3dc74cd5894c81ee2c068c42a5",
+      "no_reencode": true
+    },
+    "media/80d0ede2abe7ce2762aba8cc5f8caf4116a8163fb55c9a601772f064685b4fdf.png": {
+      "bytes": 158560,
+      "sha256": "80d0ede2abe7ce2762aba8cc5f8caf4116a8163fb55c9a601772f064685b4fdf",
+      "source_sha256": "80d0ede2abe7ce2762aba8cc5f8caf4116a8163fb55c9a601772f064685b4fdf",
+      "no_reencode": true
+    },
+    "media/dd289d5265a925bd824c3a7739871a3eb383317be4bc65b5968cbf7c3bb4f105.png": {
+      "bytes": 179250,
+      "sha256": "dd289d5265a925bd824c3a7739871a3eb383317be4bc65b5968cbf7c3bb4f105",
+      "source_sha256": "dd289d5265a925bd824c3a7739871a3eb383317be4bc65b5968cbf7c3bb4f105",
+      "no_reencode": true
+    },
+    "media/41e50e0c04c56dbcfec018d14e96ba2b271cd9fbeadcbe1a0298d153d60645e5.mp4": {
+      "bytes": 6945166,
+      "sha256": "41e50e0c04c56dbcfec018d14e96ba2b271cd9fbeadcbe1a0298d153d60645e5",
+      "source_sha256": "41e50e0c04c56dbcfec018d14e96ba2b271cd9fbeadcbe1a0298d153d60645e5",
+      "no_reencode": true
+    },
+    "media/916bd9a7336e5b6cd57590f2e00f52e96135ffe1506461de7c537c95453d5e71.mp4": {
+      "bytes": 8606443,
+      "sha256": "916bd9a7336e5b6cd57590f2e00f52e96135ffe1506461de7c537c95453d5e71",
+      "source_sha256": "916bd9a7336e5b6cd57590f2e00f52e96135ffe1506461de7c537c95453d5e71",
+      "no_reencode": true
+    },
+    "media/7e298acd994c3c0b40f71ff710c4fe1881ba572aa662b65574a594acdaae2f7b.mp4": {
+      "bytes": 6307018,
+      "sha256": "7e298acd994c3c0b40f71ff710c4fe1881ba572aa662b65574a594acdaae2f7b",
+      "source_sha256": "7e298acd994c3c0b40f71ff710c4fe1881ba572aa662b65574a594acdaae2f7b",
+      "no_reencode": true
+    },
+    "media/4d41cdc082f0e7c35232bdd7c9d9e42ed922dc11dcf8abf0b7dadbee02634572.png": {
+      "bytes": 334407,
+      "sha256": "4d41cdc082f0e7c35232bdd7c9d9e42ed922dc11dcf8abf0b7dadbee02634572",
+      "source_sha256": "4d41cdc082f0e7c35232bdd7c9d9e42ed922dc11dcf8abf0b7dadbee02634572",
+      "no_reencode": true
+    },
+    "media/8a22cabc57f4b51e8735c6a5220c36cb4a9cbab2476232b58bff46f220cbb72f.png": {
+      "bytes": 191974,
+      "sha256": "8a22cabc57f4b51e8735c6a5220c36cb4a9cbab2476232b58bff46f220cbb72f",
+      "source_sha256": "8a22cabc57f4b51e8735c6a5220c36cb4a9cbab2476232b58bff46f220cbb72f",
+      "no_reencode": true
+    },
+    "media/6a3fb9493dd4461336f342860efb13eae3e30f0463a86b55fd0a6e54f3e2c4d9.png": {
+      "bytes": 171488,
+      "sha256": "6a3fb9493dd4461336f342860efb13eae3e30f0463a86b55fd0a6e54f3e2c4d9",
+      "source_sha256": "6a3fb9493dd4461336f342860efb13eae3e30f0463a86b55fd0a6e54f3e2c4d9",
+      "no_reencode": true
+    },
+    "media/efd47fdb8d10ee4c0b3b545ded19a172022711b3b75754188368e0f839194ba5.png": {
+      "bytes": 332205,
+      "sha256": "efd47fdb8d10ee4c0b3b545ded19a172022711b3b75754188368e0f839194ba5",
+      "source_sha256": "efd47fdb8d10ee4c0b3b545ded19a172022711b3b75754188368e0f839194ba5",
+      "no_reencode": true
+    },
+    "media/46291cbbed9ad07020604eeee796abecdba6ff8069e824eee383f7b7dd925c7b.png": {
+      "bytes": 185863,
+      "sha256": "46291cbbed9ad07020604eeee796abecdba6ff8069e824eee383f7b7dd925c7b",
+      "source_sha256": "46291cbbed9ad07020604eeee796abecdba6ff8069e824eee383f7b7dd925c7b",
+      "no_reencode": true
+    },
+    "media/ef0008110c6b54f42e4985e82baf64870174246b096e1c5cdf5cb34fde331669.png": {
+      "bytes": 169484,
+      "sha256": "ef0008110c6b54f42e4985e82baf64870174246b096e1c5cdf5cb34fde331669",
+      "source_sha256": "ef0008110c6b54f42e4985e82baf64870174246b096e1c5cdf5cb34fde331669",
+      "no_reencode": true
+    }
+  },
+  "no_decode_or_reencoding": true,
+  "inherited_original_full_video_decodes": 3,
+  "inherited_original_full_decoded_frames": 2544,
+  "inherited_original_visual_views": 16,
+  "new_scientific_acceptances": 0
+}
