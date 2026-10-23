@@ -1,6 +1,6 @@
 # Astra input experiment report
 
-Latest accepted report: [100 formal trials + separate cached98](https://asimfish.github.io/psibot-astra-experiments/snapshots/frontier-100/). The repository root page remains the historical snapshot of 53 trials described below.
+Latest accepted report: [101 formal trials + separate cached98](https://asimfish.github.io/psibot-astra-experiments/snapshots/frontier-101/). The repository root page remains the historical snapshot of 53 trials described below.
 
 This report presents a fixed snapshot of 53 accepted native simulation trials and 472 completed Astra model responses, as of 2026-10-12 18:30 UTC. The goal is 1,000 trials across four tasks and 50 input conditions. Every condition requires at least 20 matched seeds; no condition or paired contrast is complete in this snapshot. Success counts and timing summaries are descriptive, with no causal input-effect claim.
 
