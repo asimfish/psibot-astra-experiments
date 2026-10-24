@@ -8,7 +8,7 @@ All 101 previous case records and environments are preserved, with only relative
 
 New media: 48 original PNGs and nine original videos, already accepted through original science/media and 48 actual root image views. Nine codec-copy faststart delivery copies have identical packet payloads, PTS/DTS, durations and stream parameters; scientific originals remain downloadable. This build performs no pixel decode, HMAC audit, model request, native run or training.
 
-Validation: six focused source/default/packet-ancestry checks; 26 static candidate checks, actual JavaScript case rendering in Node VM, all 66 new asset SHA-256 hashes and 197 inherited media paths in the exact merged base. No browser journey or publication is claimed here. Root will review desktop/mobile presentation and nine first plays before publishing.
+Validation: six focused source/default/packet-ancestry checks; 26 static candidate checks, actual JavaScript case rendering in Node VM, all 66 new asset SHA-256 hashes and 197 inherited media paths in the exact merged base. A subsequent root-executed local browser journey passed 46 checks, nine first plays, 18 first/last input images, desktop1500/mobile390 layout and three actual screenshot reviews. All owned Chrome/Node processes exited and the private profile was removed. Public browser playback is not claimed; deployment will be checked by exact HTTPS bytes and nine Range206 responses.
 
 Git base: `a5bb57b85436f374a4602f7cce21e0296f080092` (actual merged frontier 101). Old snapshot files remain unchanged. The worktree omits inherited media through sparse checkout to avoid duplicate copies; the Git tree retains every inherited blob.
 
@@ -21,3 +21,12 @@ Evidence SHA-256:
 - Static candidate checks: `d45bd35b157f30d28a0e58169c475697d15bc8192fb4168353ca258959769c32`
 - Metadata-only completion: `f45df1a32a0206419caca55df17c3dca781a4f7317321bde25d440c2be962baf`
 - Nine packet-equivalence proofs: `65062eef4633bb82ebf41abe440f1eee1005806d3f6a8c694cc9dfc22253989e`
+
+Actual local UI and release evidence:
+
+- Root local UI/release acceptance: `cb46e8a00805ab53bda25ec0cc30404a95eb159ebfc6aebfd9a4a26de4bf4d30`
+- Original 77-file content manifest (before this documentation-only update): `84a777cfd34b9e38b8a5bd74dce04a2853a1c16d8b45974129be37a6d9d7f5a5`
+- Actual local journey: `d6893998eedc815aee6254e1bc0f21d1e0ac03a8faf9a375bfaba2443006a010`
+- Actual process/profile cleanup: `2252ca13c4fa0c293a5fac697d2281bb1916169188b5cfb2810aecd22c235f36`
+
+The two HTTP connection resets occurred during browser shutdown; the actual journey had no JS/console errors. This update changes only this verification document; the reviewed104 page/data/media and every historical snapshot remain unchanged.
