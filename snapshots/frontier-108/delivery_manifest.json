@@ -1,0 +1,1827 @@
+{
+  "schema": "astra.frontier108.web_playback_delivery.v1",
+  "scope": "27 inherited codec-copy deliveries retain bytes, SHA and packet proofs; URLs relocated only. Six new videos use exact original MP4 directly. No new remux or decode.",
+  "derived_not_original": true,
+  "encoding_performed": false,
+  "new_scientific_acceptance": false,
+  "entries": [
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11003-minus_C",
+      "camera": "head_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-98/media/6e26907fdf6535ef884a68c6e9bc54facdc6c8109e0059dea2565bfe843ff0e9.mp4",
+      "original_sha256": "6e26907fdf6535ef884a68c6e9bc54facdc6c8109e0059dea2565bfe843ff0e9",
+      "original_bytes": 1837401,
+      "playback_src": "../frontier-98/media/playback-9dfa691de26df1ae82bbf2a0ce3249216e27b2ae68ece3a93f1344e11a354066.mp4",
+      "playback_sha256": "9dfa691de26df1ae82bbf2a0ce3249216e27b2ae68ece3a93f1344e11a354066",
+      "playback_bytes": 1837402,
+      "packet_count": 257,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "da7ddb7c0fb398dc5eeeccc05abb2987c8e82996c94b75a659d81d468572b4bd",
+      "canonical_packet_records_sha256": "0d94fa43749eaaf2287faed37e8567a6085aed8cf8bffbffc1816fa9997ecdfc",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "17.133333",
+      "format_duration_s": "17.134000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 1833472
+        },
+        {
+          "type": "moov",
+          "offset": 1833512,
+          "size": 3889
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 3890
+        },
+        {
+          "type": "free",
+          "offset": 3922,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 3930,
+          "size": 1833472
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false,
+      "inherited_from_published_frontier98": true,
+      "inherited_from_published_frontier99": true
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11003-minus_C",
+      "camera": "chest_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-98/media/02923df150730d26e5fadd98e6b2ecff5e3df82eeb991ea52dce1c4db83752cf.mp4",
+      "original_sha256": "02923df150730d26e5fadd98e6b2ecff5e3df82eeb991ea52dce1c4db83752cf",
+      "original_bytes": 1701920,
+      "playback_src": "../frontier-98/media/playback-e20e13f07a843e63a9b2eff22bf00b9537d3c30d5d307207cabc92e4bbacc6fb.mp4",
+      "playback_sha256": "e20e13f07a843e63a9b2eff22bf00b9537d3c30d5d307207cabc92e4bbacc6fb",
+      "playback_bytes": 1701921,
+      "packet_count": 257,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "3a3c7eedbf8a64a6ba4cfd9a0a58623a3ec3e09d86442c2f9e9835694a1be2a4",
+      "canonical_packet_records_sha256": "99a77e9dc43e074095132ae91c6cf1e8491624d449243d83e5ee0394e89065d3",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "17.133333",
+      "format_duration_s": "17.134000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 1697975
+        },
+        {
+          "type": "moov",
+          "offset": 1698015,
+          "size": 3905
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 3906
+        },
+        {
+          "type": "free",
+          "offset": 3938,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 3946,
+          "size": 1697975
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false,
+      "inherited_from_published_frontier98": true,
+      "inherited_from_published_frontier99": true
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11003-minus_C",
+      "camera": "third_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-98/media/e6ee0957818a4644bbe92184cf1171db64cb4faa0aa951157099b28610de7ec7.mp4",
+      "original_sha256": "e6ee0957818a4644bbe92184cf1171db64cb4faa0aa951157099b28610de7ec7",
+      "original_bytes": 1944383,
+      "playback_src": "../frontier-98/media/playback-d46cfe60f35e6e785c3d5a0d49bd498c2eab6ab2769254c82e8a68d921da0b62.mp4",
+      "playback_sha256": "d46cfe60f35e6e785c3d5a0d49bd498c2eab6ab2769254c82e8a68d921da0b62",
+      "playback_bytes": 1944384,
+      "packet_count": 257,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "b390b2092a51b19b9b199707438cb886c4d2934f30b5db37db055df82de53b76",
+      "canonical_packet_records_sha256": "01e1748269acbcb67716616aecdc7404de7bf8f46099c828607f217c4130e672",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "17.133333",
+      "format_duration_s": "17.134000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 1940438
+        },
+        {
+          "type": "moov",
+          "offset": 1940478,
+          "size": 3905
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 3906
+        },
+        {
+          "type": "free",
+          "offset": 3938,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 3946,
+          "size": 1940438
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false,
+      "inherited_from_published_frontier98": true,
+      "inherited_from_published_frontier99": true
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11003-rgb_half_resolution",
+      "camera": "head_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-99/media/7d1f7b61ecbf814a9b4f760db743beed94a40f0d068b2d9cbb354fb2b863224f.mp4",
+      "original_sha256": "7d1f7b61ecbf814a9b4f760db743beed94a40f0d068b2d9cbb354fb2b863224f",
+      "original_bytes": 2659766,
+      "playback_src": "../frontier-99/media/playback-c022588da6c983ce05324da2020dbdf3a9f23f94ea80d91c6cc912c0c516a497.mp4",
+      "playback_sha256": "c022588da6c983ce05324da2020dbdf3a9f23f94ea80d91c6cc912c0c516a497",
+      "playback_bytes": 2659767,
+      "packet_count": 368,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "23e8064e2c32ecd028848ffaac8e49bc53e62fb9024463960089515586b99c5f",
+      "canonical_packet_records_sha256": "2522550bc354463c0ef16643c5cb6384ec2956a51bf3c8948e67c1d1f500c2b6",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "24.533333",
+      "format_duration_s": "24.534000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 2654489
+        },
+        {
+          "type": "moov",
+          "offset": 2654529,
+          "size": 5237
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 5238
+        },
+        {
+          "type": "free",
+          "offset": 5270,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 5278,
+          "size": 2654489
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false,
+      "inherited_from_published_frontier99": true
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11003-rgb_half_resolution",
+      "camera": "chest_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-99/media/4ae18c76f2567a8d18a92e05fbc9fe060cb69081c3e155d4c440fe3896e901eb.mp4",
+      "original_sha256": "4ae18c76f2567a8d18a92e05fbc9fe060cb69081c3e155d4c440fe3896e901eb",
+      "original_bytes": 2590395,
+      "playback_src": "../frontier-99/media/playback-844b218cc900f7050ce6b6eb0944e2ffce7425794d1c3a0073299ffeed9579a9.mp4",
+      "playback_sha256": "844b218cc900f7050ce6b6eb0944e2ffce7425794d1c3a0073299ffeed9579a9",
+      "playback_bytes": 2590396,
+      "packet_count": 368,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "d68e4053072b6e2cb24af348146c146145bbabfede731f5dd972bb27d2cd8e71",
+      "canonical_packet_records_sha256": "62b8c457aaabe91643108c6ca2080be361c0255be95949c9828e9d8e0118efbe",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "24.533333",
+      "format_duration_s": "24.534000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 2585102
+        },
+        {
+          "type": "moov",
+          "offset": 2585142,
+          "size": 5253
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 5254
+        },
+        {
+          "type": "free",
+          "offset": 5286,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 5294,
+          "size": 2585102
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false,
+      "inherited_from_published_frontier99": true
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11003-rgb_half_resolution",
+      "camera": "third_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-99/media/55287823bd7e2bd88724fdf3bd29b016d0784e39d2adb885a88e169ad9d3b247.mp4",
+      "original_sha256": "55287823bd7e2bd88724fdf3bd29b016d0784e39d2adb885a88e169ad9d3b247",
+      "original_bytes": 2796226,
+      "playback_src": "../frontier-99/media/playback-bb3f84b92c60129fad6cf389cf62cb23618995689ba5f84fa4837a003ff773dc.mp4",
+      "playback_sha256": "bb3f84b92c60129fad6cf389cf62cb23618995689ba5f84fa4837a003ff773dc",
+      "playback_bytes": 2796227,
+      "packet_count": 368,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "218c92f73d8ec044b66efcdab91e5440c2fda04b84d45cd496907507b22f6d4e",
+      "canonical_packet_records_sha256": "85be8d96ee296a78a3b5eee1776a4dfa7ba732d0c11c9833577a588a0772748d",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "24.533333",
+      "format_duration_s": "24.534000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 2790933
+        },
+        {
+          "type": "moov",
+          "offset": 2790973,
+          "size": 5253
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 5254
+        },
+        {
+          "type": "free",
+          "offset": 5286,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 5294,
+          "size": 2790933
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false,
+      "inherited_from_published_frontier99": true
+    },
+    {
+      "trial_id": "v5-psi_roundtrip_100ml-11005-minus_head",
+      "camera": "head_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-100/media/4b364c2cb3763a7d94aa4fb554b9edac9842e7048a0b1d7dded7c97eb0dd73ef.mp4",
+      "original_sha256": "4b364c2cb3763a7d94aa4fb554b9edac9842e7048a0b1d7dded7c97eb0dd73ef",
+      "original_bytes": 1305113,
+      "playback_src": "../frontier-100/media/playback-e5ded059a26742fda28b40c4e4c0f13bf8a00d2c26cff5115cba1f52ca9fb35b.mp4",
+      "playback_sha256": "e5ded059a26742fda28b40c4e4c0f13bf8a00d2c26cff5115cba1f52ca9fb35b",
+      "playback_bytes": 1305113,
+      "packet_count": 195,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "429eb84f8a4f5a46d29afd0bf353e760a9df9d76388badff48fa8952ea528520",
+      "canonical_packet_records_sha256": "1d0992088581ba565de6f1d3831a3c505620ea0a269df8aa82519e7f2643c5c2",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "13.000000",
+      "format_duration_s": "13.000000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 1301931
+        },
+        {
+          "type": "moov",
+          "offset": 1301971,
+          "size": 3142
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 3142
+        },
+        {
+          "type": "free",
+          "offset": 3174,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 3182,
+          "size": 1301931
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_roundtrip_100ml-11005-minus_head",
+      "camera": "chest_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-100/media/693a9aaf62ea6f7b612b8028f795b6d2142a5585981de1077cc4b774c80e3921.mp4",
+      "original_sha256": "693a9aaf62ea6f7b612b8028f795b6d2142a5585981de1077cc4b774c80e3921",
+      "original_bytes": 1198326,
+      "playback_src": "../frontier-100/media/playback-cd9a2ecd4f2c407b0c288247133da16d8aa092f2dc1676dc7bf694251c07d541.mp4",
+      "playback_sha256": "cd9a2ecd4f2c407b0c288247133da16d8aa092f2dc1676dc7bf694251c07d541",
+      "playback_bytes": 1198326,
+      "packet_count": 195,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "1949a0c31379fce1dda70e15ded179587797cb2ba7fd33c37a92509c86653852",
+      "canonical_packet_records_sha256": "1ab67778c975ed8e94ce82f80a5dc8479a1659ef599fbfd5c88049b1621e2043",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "13.000000",
+      "format_duration_s": "13.000000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 1195120
+        },
+        {
+          "type": "moov",
+          "offset": 1195160,
+          "size": 3166
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 3166
+        },
+        {
+          "type": "free",
+          "offset": 3198,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 3206,
+          "size": 1195120
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_roundtrip_100ml-11005-minus_head",
+      "camera": "third_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-100/media/0ee5a24de3230c6eb93c1cd3926c51edd607ebc149e7d6fb6da5c00914220e5b.mp4",
+      "original_sha256": "0ee5a24de3230c6eb93c1cd3926c51edd607ebc149e7d6fb6da5c00914220e5b",
+      "original_bytes": 1465279,
+      "playback_src": "../frontier-100/media/playback-31e4ce010328525d5096b2100c59c4ea90efdf7b5efc520cc61e47956cbb79e3.mp4",
+      "playback_sha256": "31e4ce010328525d5096b2100c59c4ea90efdf7b5efc520cc61e47956cbb79e3",
+      "playback_bytes": 1465279,
+      "packet_count": 195,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "1120fbf26cc146ae63266b36a654b396d53e9b0c123fa7d9f00dcdc13dab28cf",
+      "canonical_packet_records_sha256": "ce5833ab39417770862cf8fd58632be8f2d28901b251f0664adae53956200acb",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "13.000000",
+      "format_duration_s": "13.000000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 1462073
+        },
+        {
+          "type": "moov",
+          "offset": 1462113,
+          "size": 3166
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 3166
+        },
+        {
+          "type": "free",
+          "offset": 3198,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 3206,
+          "size": 1462073
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_roundtrip_100ml-11006-minus_third",
+      "camera": "head_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-101/media/41e50e0c04c56dbcfec018d14e96ba2b271cd9fbeadcbe1a0298d153d60645e5.mp4",
+      "original_sha256": "41e50e0c04c56dbcfec018d14e96ba2b271cd9fbeadcbe1a0298d153d60645e5",
+      "original_bytes": 6945166,
+      "playback_src": "../frontier-101/media/playback-81d91c03a0ab156d22f68d848cb6b03bce5914d1931bac42ab28565b6651a466.mp4",
+      "playback_sha256": "81d91c03a0ab156d22f68d848cb6b03bce5914d1931bac42ab28565b6651a466",
+      "playback_bytes": 6945166,
+      "packet_count": 848,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "c56435dae16f17a3b393409b6624ed75dd709be1f5792841c35235cd97fa7c9f",
+      "canonical_packet_records_sha256": "07e2bf4dd0dd66fcdb57321c69f79ed3c0ba27b5c53f574dacb146833789d1fa",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "56.533333",
+      "format_duration_s": "56.534000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 6934072
+        },
+        {
+          "type": "moov",
+          "offset": 6934112,
+          "size": 11054
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 11054
+        },
+        {
+          "type": "free",
+          "offset": 11086,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 11094,
+          "size": 6934072
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_roundtrip_100ml-11006-minus_third",
+      "camera": "chest_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-101/media/916bd9a7336e5b6cd57590f2e00f52e96135ffe1506461de7c537c95453d5e71.mp4",
+      "original_sha256": "916bd9a7336e5b6cd57590f2e00f52e96135ffe1506461de7c537c95453d5e71",
+      "original_bytes": 8606443,
+      "playback_src": "../frontier-101/media/playback-467e9c433740e135f2a2c1e8ff1c54427b44cc11053296ee32c2a8f7d85667da.mp4",
+      "playback_sha256": "467e9c433740e135f2a2c1e8ff1c54427b44cc11053296ee32c2a8f7d85667da",
+      "playback_bytes": 8606443,
+      "packet_count": 848,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "9d04e40bdfa29d385e4de5797f5c187a463e139e3da34ce9ec59b83fada19c6c",
+      "canonical_packet_records_sha256": "5df5e04cd9a203907725cfbf9110bef26c0419bfc2da91f88e578d8212018723",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "56.533333",
+      "format_duration_s": "56.534000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 8595301
+        },
+        {
+          "type": "moov",
+          "offset": 8595341,
+          "size": 11102
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 11102
+        },
+        {
+          "type": "free",
+          "offset": 11134,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 11142,
+          "size": 8595301
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_roundtrip_100ml-11006-minus_third",
+      "camera": "third_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-101/media/7e298acd994c3c0b40f71ff710c4fe1881ba572aa662b65574a594acdaae2f7b.mp4",
+      "original_sha256": "7e298acd994c3c0b40f71ff710c4fe1881ba572aa662b65574a594acdaae2f7b",
+      "original_bytes": 6307018,
+      "playback_src": "../frontier-101/media/playback-98aae4eca931dad4e7cf5bdd8901b11cc538c3ff3e5a00fdb5697d8d00945098.mp4",
+      "playback_sha256": "98aae4eca931dad4e7cf5bdd8901b11cc538c3ff3e5a00fdb5697d8d00945098",
+      "playback_bytes": 6307018,
+      "packet_count": 848,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "b22ddf1da4e98742b207c8c474be84bf30b6abd5170a082ef01f68b8da3d058a",
+      "canonical_packet_records_sha256": "27ab5c9fa0d23a7fc2f12a9dc7e48fc437900ca789e975a7c4b04f3c50627b3b",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "56.533333",
+      "format_duration_s": "56.534000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 6295908
+        },
+        {
+          "type": "moov",
+          "offset": 6295948,
+          "size": 11070
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 11070
+        },
+        {
+          "type": "free",
+          "offset": 11102,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 11110,
+          "size": 6295908
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11003-minus_S",
+      "camera": "head_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-104/media/f9699579c19d5b3786709f9e3047b290d0d475f21c87d0b19dc6daf14af562c0.mp4",
+      "original_sha256": "f9699579c19d5b3786709f9e3047b290d0d475f21c87d0b19dc6daf14af562c0",
+      "original_bytes": 6878881,
+      "playback_src": "../frontier-104/media/playback-27ec409bc147897b3f3e6a4f2c62a7d02118fb0b784a155e93dbf012009fdca4.mp4",
+      "playback_sha256": "27ec409bc147897b3f3e6a4f2c62a7d02118fb0b784a155e93dbf012009fdca4",
+      "playback_bytes": 6878882,
+      "packet_count": 1366,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "0982f39b4e0d285f859995cb68c71b77d7e356d84084f228e93c0e049dba927b",
+      "canonical_packet_records_sha256": "d5e8f9b1d0c106a2485f2bea634ca85745c5e375d0b9ab0e91a5d885c1b0b01d",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "91.066667",
+      "format_duration_s": "91.067000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 6861644
+        },
+        {
+          "type": "moov",
+          "offset": 6861684,
+          "size": 17197
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 17198
+        },
+        {
+          "type": "free",
+          "offset": 17230,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 17238,
+          "size": 6861644
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11003-minus_S",
+      "camera": "chest_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-104/media/a760203a7e2648fba7e5cffa2942e89191bc5a1ad627cedd713909c548b45fcd.mp4",
+      "original_sha256": "a760203a7e2648fba7e5cffa2942e89191bc5a1ad627cedd713909c548b45fcd",
+      "original_bytes": 5891139,
+      "playback_src": "../frontier-104/media/playback-e172261f99d61e5c5615b23357c8af2b9c9ff7ed3d940f331bbf0df83474cf0a.mp4",
+      "playback_sha256": "e172261f99d61e5c5615b23357c8af2b9c9ff7ed3d940f331bbf0df83474cf0a",
+      "playback_bytes": 5891140,
+      "packet_count": 1366,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "0a4708e83f734271b9a5458a906cb14fa85a57e187f7b7962bfca60cf4fd0061",
+      "canonical_packet_records_sha256": "321695a11e0a2c167bd7e16d623adb4d1b742014b68dfbb230ec628040f8dd08",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "91.066667",
+      "format_duration_s": "91.067000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 5873846
+        },
+        {
+          "type": "moov",
+          "offset": 5873886,
+          "size": 17253
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 17254
+        },
+        {
+          "type": "free",
+          "offset": 17286,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 17294,
+          "size": 5873846
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11003-minus_S",
+      "camera": "third_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-104/media/788cbc46b98b1a03824665a052ad031e572e8412839c8510b1b9fd2f6389f014.mp4",
+      "original_sha256": "788cbc46b98b1a03824665a052ad031e572e8412839c8510b1b9fd2f6389f014",
+      "original_bytes": 9152250,
+      "playback_src": "../frontier-104/media/playback-f1cdce73bb793939db80f54866cf4ca29adbfb7b7dd81b2cdc2395ca79038d6b.mp4",
+      "playback_sha256": "f1cdce73bb793939db80f54866cf4ca29adbfb7b7dd81b2cdc2395ca79038d6b",
+      "playback_bytes": 9152251,
+      "packet_count": 1366,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "407d80fd25e9d640f1d740496aec304b0d9442dc1c8ad70b61ff7f9dbc76df8a",
+      "canonical_packet_records_sha256": "518ebb3d154e3fc4493f1ac7c337c21456f45e46b21f51ce3e6643334e08ea94",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "91.066667",
+      "format_duration_s": "91.067000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 9134909
+        },
+        {
+          "type": "moov",
+          "offset": 9134949,
+          "size": 17301
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 17302
+        },
+        {
+          "type": "free",
+          "offset": 17334,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 17342,
+          "size": 9134909
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11003-minus_M",
+      "camera": "head_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-104/media/f0231964fecb6812d5327082e33f34f9e47f96fd2afd40a7b10ca53d705a7482.mp4",
+      "original_sha256": "f0231964fecb6812d5327082e33f34f9e47f96fd2afd40a7b10ca53d705a7482",
+      "original_bytes": 1735496,
+      "playback_src": "../frontier-104/media/playback-9caa4c652e8e1b426c68b051a1144f9a953cf5ac000717f82f02c286025f39b0.mp4",
+      "playback_sha256": "9caa4c652e8e1b426c68b051a1144f9a953cf5ac000717f82f02c286025f39b0",
+      "playback_bytes": 1735497,
+      "packet_count": 242,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "9f1010ea176a35251a0488ceb39865195b360df626f6adb2c753956936a2bbf3",
+      "canonical_packet_records_sha256": "24c85680714219744c8979b4d4b525377f4f036f90d41c2dd9467d4a4400a062",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "16.133333",
+      "format_duration_s": "16.134000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 1731751
+        },
+        {
+          "type": "moov",
+          "offset": 1731791,
+          "size": 3705
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 3706
+        },
+        {
+          "type": "free",
+          "offset": 3738,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 3746,
+          "size": 1731751
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11003-minus_M",
+      "camera": "chest_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-104/media/b575f9db659525f7e13df785558d6749cb2d92950b1563738e9ed9d4367ac77b.mp4",
+      "original_sha256": "b575f9db659525f7e13df785558d6749cb2d92950b1563738e9ed9d4367ac77b",
+      "original_bytes": 1620979,
+      "playback_src": "../frontier-104/media/playback-eaaeffecc0c6466e7081bbe6d5788348fe2fddb9bca5d795d055edf761977c15.mp4",
+      "playback_sha256": "eaaeffecc0c6466e7081bbe6d5788348fe2fddb9bca5d795d055edf761977c15",
+      "playback_bytes": 1620980,
+      "packet_count": 242,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "163a9d06e6dd82e0ed278dee15aa2d184dfd39c905aa62a59754258c8dd5885a",
+      "canonical_packet_records_sha256": "2c47ebb28ac278179253a98017e405e6d6eee44b25bbec4381c3f0bd5cb5169c",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "16.133333",
+      "format_duration_s": "16.134000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 1617210
+        },
+        {
+          "type": "moov",
+          "offset": 1617250,
+          "size": 3729
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 3730
+        },
+        {
+          "type": "free",
+          "offset": 3762,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 3770,
+          "size": 1617210
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11003-minus_M",
+      "camera": "third_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-104/media/00ef9e941063cf94101387df069047ce9919688939425dbbd2c5d37f5290eaf4.mp4",
+      "original_sha256": "00ef9e941063cf94101387df069047ce9919688939425dbbd2c5d37f5290eaf4",
+      "original_bytes": 1805736,
+      "playback_src": "../frontier-104/media/playback-a55f995d0ddb93dc0523da28917e7e098c890f90ffbac95f6d3cc530a1ad8e79.mp4",
+      "playback_sha256": "a55f995d0ddb93dc0523da28917e7e098c890f90ffbac95f6d3cc530a1ad8e79",
+      "playback_bytes": 1805737,
+      "packet_count": 242,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "7e35ff076c175f73503b823df312d43474713448a26ec45da5d32e36dc4aab89",
+      "canonical_packet_records_sha256": "0b0a68878afe3c5b76001f6eb5ce04c5dc159b00beb2881807fbf31341d7ae53",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "16.133333",
+      "format_duration_s": "16.134000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 1801967
+        },
+        {
+          "type": "moov",
+          "offset": 1802007,
+          "size": 3729
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 3730
+        },
+        {
+          "type": "free",
+          "offset": 3762,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 3770,
+          "size": 1801967
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11008-minus_J",
+      "camera": "head_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-104/media/4331bc7b41db4b1f03c06e5f746bd32d93c6c696861858e07e9612900e2b2559.mp4",
+      "original_sha256": "4331bc7b41db4b1f03c06e5f746bd32d93c6c696861858e07e9612900e2b2559",
+      "original_bytes": 4302280,
+      "playback_src": "../frontier-104/media/playback-826cf8d5e1e3a6ac2bdc2711a4bb4141a898daa0447cef16c00d362366ff7fb6.mp4",
+      "playback_sha256": "826cf8d5e1e3a6ac2bdc2711a4bb4141a898daa0447cef16c00d362366ff7fb6",
+      "playback_bytes": 4302281,
+      "packet_count": 533,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "6ccfcc59646c6177681b9c23bf47046bec2c86372cc94770368dfa94d7d830f4",
+      "canonical_packet_records_sha256": "ffed08e06d3fdecc74845600316a5d1ae5d5db63e078ab31fda94c7587d50527",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "35.533333",
+      "format_duration_s": "35.534000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 4294995
+        },
+        {
+          "type": "moov",
+          "offset": 4295035,
+          "size": 7245
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 7246
+        },
+        {
+          "type": "free",
+          "offset": 7278,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 7286,
+          "size": 4294995
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11008-minus_J",
+      "camera": "chest_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-104/media/7a47c292082027eb3c937bb0c0f5ed6a8872ee961e8b6ff38ba561642cbaf88c.mp4",
+      "original_sha256": "7a47c292082027eb3c937bb0c0f5ed6a8872ee961e8b6ff38ba561642cbaf88c",
+      "original_bytes": 4980808,
+      "playback_src": "../frontier-104/media/playback-dd71db31c36060e0dea97689c7ef953d3af5217064f90bb9a76cc4695b9f42a6.mp4",
+      "playback_sha256": "dd71db31c36060e0dea97689c7ef953d3af5217064f90bb9a76cc4695b9f42a6",
+      "playback_bytes": 4980809,
+      "packet_count": 533,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "2fff0d93a0d60a4932309544aaa167947f955c3f1df195e64622347883028c9a",
+      "canonical_packet_records_sha256": "83d041d731a541091b2e7bcb0974a2f6264aabf7bf70cca7b6379fee10e88db7",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "35.533333",
+      "format_duration_s": "35.534000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 4973507
+        },
+        {
+          "type": "moov",
+          "offset": 4973547,
+          "size": 7261
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 7262
+        },
+        {
+          "type": "free",
+          "offset": 7294,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 7302,
+          "size": 4973507
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11008-minus_J",
+      "camera": "third_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-104/media/0bb3977dbee081527c66b2c5870c5058ca55ccb4d850fb1116fc000360d9a4c6.mp4",
+      "original_sha256": "0bb3977dbee081527c66b2c5870c5058ca55ccb4d850fb1116fc000360d9a4c6",
+      "original_bytes": 3968276,
+      "playback_src": "../frontier-104/media/playback-537a7ec030b822f7bdd99a3f5dcaa8b4f56ae02dabaab19852d2b98d48d23aba.mp4",
+      "playback_sha256": "537a7ec030b822f7bdd99a3f5dcaa8b4f56ae02dabaab19852d2b98d48d23aba",
+      "playback_bytes": 3968277,
+      "packet_count": 533,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "a0956183b3faba6ba429ce956f1baba829cc153a502b6a784a7d94e89b7a0f44",
+      "canonical_packet_records_sha256": "9ab8eddb62e185b73c17882e7006ebbab5cdcde65e0d53042b55a471994e284f",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "35.533333",
+      "format_duration_s": "35.534000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 3960991
+        },
+        {
+          "type": "moov",
+          "offset": 3961031,
+          "size": 7245
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 7246
+        },
+        {
+          "type": "free",
+          "offset": 7278,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 7286,
+          "size": 3960991
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11003-minus_K",
+      "camera": "head_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-106/media/eb267ac534ae9a800735f3945fca7ee3170d12c1fd70062b0da61180558d0e19.mp4",
+      "original_sha256": "eb267ac534ae9a800735f3945fca7ee3170d12c1fd70062b0da61180558d0e19",
+      "original_bytes": 3706298,
+      "playback_src": "../frontier-106/media/playback-c78a1384a7a1c7304aa52847cf695ea04069edbd51d887cab93760c21ddb2489.mp4",
+      "playback_sha256": "c78a1384a7a1c7304aa52847cf695ea04069edbd51d887cab93760c21ddb2489",
+      "playback_bytes": 3706299,
+      "packet_count": 507,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "bdbae1d03dd3e4343411b54a854fbfed601a36b3416efa0aa815a3c4c9072723",
+      "canonical_packet_records_sha256": "d7078803a2643c648a32a184557789562653a053b98f194dc8586bc512efabf2",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "33.800000",
+      "format_duration_s": "33.800000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 3699325
+        },
+        {
+          "type": "moov",
+          "offset": 3699365,
+          "size": 6933
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 6934
+        },
+        {
+          "type": "free",
+          "offset": 6966,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 6974,
+          "size": 3699325
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11003-minus_K",
+      "camera": "chest_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-106/media/adfe015331e56bc48705db8fd283496d31d82bbe17f96da3ffe3a5c0fcefd323.mp4",
+      "original_sha256": "adfe015331e56bc48705db8fd283496d31d82bbe17f96da3ffe3a5c0fcefd323",
+      "original_bytes": 3547731,
+      "playback_src": "../frontier-106/media/playback-27b70fdf58783926f0f116f6ea0b1a2ca0d771ef2acb112bb9cc4d987d9ab538.mp4",
+      "playback_sha256": "27b70fdf58783926f0f116f6ea0b1a2ca0d771ef2acb112bb9cc4d987d9ab538",
+      "playback_bytes": 3547732,
+      "packet_count": 507,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "500cd891277a4853a3520b7079e5bdcee32d389c8de2c9019bb7539da3fa231a",
+      "canonical_packet_records_sha256": "a3f83ef12d84e46cbd345e35fd0da49af4db8c5c4ab6737fa84b8193a91493b8",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "33.800000",
+      "format_duration_s": "33.800000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 3540758
+        },
+        {
+          "type": "moov",
+          "offset": 3540798,
+          "size": 6933
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 6934
+        },
+        {
+          "type": "free",
+          "offset": 6966,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 6974,
+          "size": 3540758
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11003-minus_K",
+      "camera": "third_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-106/media/4d9104219c504c501a44314a9cbf6dc520452b801fe44068e11d60f3872fefd8.mp4",
+      "original_sha256": "4d9104219c504c501a44314a9cbf6dc520452b801fe44068e11d60f3872fefd8",
+      "original_bytes": 3854331,
+      "playback_src": "../frontier-106/media/playback-a74ad164ebc751ba57d123d364f319c188c0da12ce757f00a75f78ab1fc529a1.mp4",
+      "playback_sha256": "a74ad164ebc751ba57d123d364f319c188c0da12ce757f00a75f78ab1fc529a1",
+      "playback_bytes": 3854332,
+      "packet_count": 507,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "8c5dd89f3fbfb3fca53b6b2b6953b5d155684021ae0f8f3c1ff4e6ada8640b62",
+      "canonical_packet_records_sha256": "e6912e56e0afa38bd3723c264796063babd09cbbb83c69dcc8409f147877e0a0",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "33.800000",
+      "format_duration_s": "33.800000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 3847358
+        },
+        {
+          "type": "moov",
+          "offset": 3847398,
+          "size": 6933
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 6934
+        },
+        {
+          "type": "free",
+          "offset": 6966,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 6974,
+          "size": 3847358
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11008-minus_third",
+      "camera": "head_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-106/media/ca69940cf6cfbc420dceab9d85dbcde690076a0a6d741c97f724b224d879c04f.mp4",
+      "original_sha256": "ca69940cf6cfbc420dceab9d85dbcde690076a0a6d741c97f724b224d879c04f",
+      "original_bytes": 4494227,
+      "playback_src": "../frontier-106/media/playback-e8174a7bf244aeb8687db274369057e7e5bd2ef41815fa44d48cd0a34c5dafb5.mp4",
+      "playback_sha256": "e8174a7bf244aeb8687db274369057e7e5bd2ef41815fa44d48cd0a34c5dafb5",
+      "playback_bytes": 4494228,
+      "packet_count": 556,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "11f4988100793dccf1c10f6c542eb6d2048e93c9e270a235aac105686b619bd1",
+      "canonical_packet_records_sha256": "6afa1d7810c0f31541492412c3093206597662650879b279a07e82552eb33baa",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "37.066667",
+      "format_duration_s": "37.067000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 4486658
+        },
+        {
+          "type": "moov",
+          "offset": 4486698,
+          "size": 7529
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 7530
+        },
+        {
+          "type": "free",
+          "offset": 7562,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 7570,
+          "size": 4486658
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11008-minus_third",
+      "camera": "chest_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-106/media/6891185ebe83a9b10d7673a030401d337f89b3bcf6e9a292f28cd72fbd257d4a.mp4",
+      "original_sha256": "6891185ebe83a9b10d7673a030401d337f89b3bcf6e9a292f28cd72fbd257d4a",
+      "original_bytes": 5215560,
+      "playback_src": "../frontier-106/media/playback-92c246eca0a52e51470f690fd36931118762f278e72bd00242c2f534fc923c43.mp4",
+      "playback_sha256": "92c246eca0a52e51470f690fd36931118762f278e72bd00242c2f534fc923c43",
+      "playback_bytes": 5215561,
+      "packet_count": 556,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "563e18844dd31a043889032004ac4283f7d5b6b398521110e01864ecefd55963",
+      "canonical_packet_records_sha256": "a738de52197d5ed2b735e8f208eb6006a5b219012e7e993612b66d23fc2ae70f",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "37.066667",
+      "format_duration_s": "37.067000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 5207991
+        },
+        {
+          "type": "moov",
+          "offset": 5208031,
+          "size": 7529
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 7530
+        },
+        {
+          "type": "free",
+          "offset": 7562,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 7570,
+          "size": 5207991
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    },
+    {
+      "trial_id": "v5-psi_pick_place_100ml-11008-minus_third",
+      "camera": "third_camera",
+      "method": "stream_copy_faststart",
+      "original_src": "../frontier-106/media/81a2543da2d2dc460ae51e9fc827b81494be4b4b67c4fbfd6e3ba49ff9c52256.mp4",
+      "original_sha256": "81a2543da2d2dc460ae51e9fc827b81494be4b4b67c4fbfd6e3ba49ff9c52256",
+      "original_bytes": 4154981,
+      "playback_src": "../frontier-106/media/playback-5ab64d1e5e2bb5a11fbe9bb5158d9ed89ee1edb1a42d1f2d852988b9c9119a12.mp4",
+      "playback_sha256": "5ab64d1e5e2bb5a11fbe9bb5158d9ed89ee1edb1a42d1f2d852988b9c9119a12",
+      "playback_bytes": 4154982,
+      "packet_count": 556,
+      "every_packet_payload_PTS_DTS_duration_flags_identical": true,
+      "packet_payload_hash_sequence_sha256": "85541f2a247dc4bca4e243a0c26ca0472a9ab8cc6d81305d56d79c53eab25fc4",
+      "canonical_packet_records_sha256": "e9bdb6b1ec8c3aae9e2a262f4f65acb2e59a568e2284a144ab27228d8d40e257",
+      "codec": "h264",
+      "width": 640,
+      "height": 480,
+      "stream_duration_s": "37.066667",
+      "format_duration_s": "37.067000",
+      "time_base": "1/15360",
+      "original_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "free",
+          "offset": 32,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 40,
+          "size": 4147428
+        },
+        {
+          "type": "moov",
+          "offset": 4147468,
+          "size": 7513
+        }
+      ],
+      "playback_boxes": [
+        {
+          "type": "ftyp",
+          "offset": 0,
+          "size": 32
+        },
+        {
+          "type": "moov",
+          "offset": 32,
+          "size": 7514
+        },
+        {
+          "type": "free",
+          "offset": 7546,
+          "size": 8
+        },
+        {
+          "type": "mdat",
+          "offset": 7554,
+          "size": 4147428
+        }
+      ],
+      "reencoded": false,
+      "scientific_original_replaced": false
+    }
+  ]
+}
